@@ -21,3 +21,8 @@ class Lyric_Grabber:
     # TODO: Create a function to look up artist, albums, songs on Genius and grab all lyrics.
     def create_song_list():
         return None     # TODO: Implement
+
+
+    # TODO: Write song list from `create_song_list()` to a file for later lookup.
+    def write_song_list():
+        return None     # TODO: Implement
