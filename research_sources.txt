@@ -1,0 +1,10 @@
+Sources for grabbing lyrics:
+    1) https://docs.genius.com/#/getting-started-h1 - using Genius API for grabbing lyric information.
+
+Sources for using GPT-2 Model (Hugging Face):
+    1) https://huggingface.co/docs/transformers/model_doc/gpt2
+    2) https://beta.openai.com/docs/guides/completion/inserting-text - OpenAI GPT-3 model documentation/use
+
+Sources for similar implementations of rap lyric text generation:
+    1) https://medium.com/analytics-vidhya/create-a-rapping-ai-using-deep-learning-part-2-fine-tune-a-pre-trained-gpt-2-instance-for-a-1eb19ac557c3 - kind of useless since it's loading in GPT-2 manually instead of using HuggingFace 
+    2) 
