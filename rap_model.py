@@ -9,6 +9,7 @@ from fetch_lyrics import *
     Iterate through list_rappers.txt & make list of artists.
     :param filename file containing list of artists
     :param num_rappers size of artists list - number of artists to pull from artist_names
+    NOTE: list_rappers.txt contains 76 artist names.
 """
 def list_all_rappers(filename, num_rappers):
     artists = []
@@ -25,7 +26,11 @@ def create_lyrics(artists_list):
         artist = Lyric_Grabber(name)
         artist.create_song_list()       # Will write file to `.\lyrics` of ARTIST_NAME.txt
         print("Lyrics for <%s> written to .\lyrics\ directory!\n" % name)
-    print("\nDone writing lyrics to directory!")
+    print("\n\nDone writing lyrics to directory!\n\n")
+
+# Generate lyrics for rappers found in `list_rappers.txt`
+artists_list = list_all_rappers('.\data\list_rappers.txt', 76)
+create_lyrics(artists_list)
 
 # Ask the user what artist they would like to generate lyrics for - this will later be used in Lyric_Grabber objects.
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
@@ -33,5 +38,3 @@ model = TFGPT2Model.from_pretrained('gpt2')
 text = "The Industrial Revolution has destroyed the foundations of American culture."
 encoded_input = tokenizer(text, return_tensors='tf')
 output = model(encoded_input)
-
-print(list_all_rappers('.\data\list_rappers.txt', 20))

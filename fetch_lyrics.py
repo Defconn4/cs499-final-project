@@ -1,5 +1,6 @@
 from lyricsgenius import Genius
 import os
+from os.path import exists
 from pathlib import Path
 
 # INSERT API client ID & tokens here.
@@ -35,7 +36,7 @@ class Lyric_Grabber:
     """
     def create_song_list(self):
         artist = genius.search_artist(self.artist_name, max_songs=20,
-                                    sort='popularity', get_full_info=False)
+                                    sort='popularity', get_full_info=False)         # Artist's names that are not exact as they appear on Genius will be modifed upon query.
 
         """
         # Save artist lyrics to [ARTIST_NAME].txt
@@ -47,13 +48,19 @@ class Lyric_Grabber:
         # If artist lyric file doesn't already exist, open for writing (i.e. create file if it doesn't already exist).
         cwd = str(Path.cwd()) + '\\lyrics'
         file_name = os.path.join(cwd, self.artist_name)
-        lyric_file = open(file_name + '.txt', 'w')
+        
+        # If file already exists, then we can exit the function.
+        if os.path.exists('.\lyrics\\' + file_name + '.txt'):
+            print("<%s.txt> already exists in .\lyrics\\ directory, exiting function..." % self.artist_name)
+            return
+        else:
+            lyric_file = open(file_name + '.txt', 'w', encoding='utf-8')
 
-        # NOTE: Alternatively, you can use genius.save_artists(artists, filename='artist_lyrics', overwrite=False, ensure_ascii=True)
-        #       to save lyrics of multiple artists all at once into a single file - saves as JSON. 
-        # Write lyrics to file and close when done.
-        for song in artist.songs:
-            lyric_file.write(song.lyrics)
-            lyric_file.write("\n\n")
-            
-        lyric_file.close()
+            # NOTE: Alternatively, you can use genius.save_artists(artists, filename='artist_lyrics', overwrite=False, ensure_ascii=True)
+            #       to save lyrics of multiple artists all at once into a single file - saves as JSON. 
+            # Write lyrics to file and close when done.
+            for song in artist.songs:
+                lyric_file.write(song.lyrics)
+                lyric_file.write("\n\n")
+                
+            lyric_file.close()
