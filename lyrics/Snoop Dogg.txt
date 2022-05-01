@@ -1,3 +1,4 @@
+<|BeginSong|>
 Gin and Juice Lyrics[Intro: Daz Dillinger & (Snoop Dogg)]
 (Ugh) Ha-ha-ha, I'm serious, nigga
 One of y'all niggas got some bad motherfuckin' breath
@@ -89,7 +90,9 @@ Rollin' down the street, smokin' indo
 Sippin' on gin and juice, beyotch
 With my mind on my money
 And my money on my mind89Embed
+<|EndSong|>
 
+<|BeginSong|>
 Drop It Like It’s Hot Lyrics[Produced by The Neptunes]
 [Intro]
 Snooooooooooop
@@ -189,7 +192,9 @@ And I roll the best weed 'cause I got it goin' on
 [Outro]
 Snooooooooooop
 Snooooooooooop61Embed
+<|EndSong|>
 
+<|BeginSong|>
 Ain’t No Fun (If the Homies Can’t Have None) Lyrics[Intro: Ricky Harris]
 You're back now at the jack-off hour
 This is DJ EZ Dicc
@@ -272,7 +277,9 @@ It ain't no fun if the homies can't have none
 It ain't no fun if the homies can't have none
 It ain't no fun if the homies can't have none
 It ain't no fun if the homies can't have none48Embed
+<|EndSong|>
 
+<|BeginSong|>
 Who Am I (What’s My Name)? Lyrics[Intro]
 Eee-ya-ya-ya-ya-yah The Dogg Pound's in the house (The bomb)
 Eee-ya-ya-ya-ya-yah The Dogg Pound's in the house
@@ -358,7 +365,9 @@ And the Dogg Pound
 Snoopy Dogg (The bomb) Snoopy Dogg
 Snoopy Dogg (Dog)
 (Dog, nasty dog, doggy dog)49Embed
+<|EndSong|>
 
+<|BeginSong|>
 Murder Was the Case (Death After Visualizing Eternity) Lyrics[Skit: Heron and Joe Cool]
 ("Indo Smoke" Plays in Background)
 Aye, aye,  JC
@@ -457,7 +466,9 @@ Murder
 Murder was the case that they gave me
 Murder
 Murder was the case that they gave me31Embed
+<|EndSong|>
 
+<|BeginSong|>
 Did Somebody Say Lyrics[Intro]
 (Did somebody say) Sick of this
 Get those Just Eat foods online for me
@@ -485,7 +496,9 @@ Even dipping in the sea
 I see food, seafood sees me
 J-U-S-T  E-A-T
 Did somebody say Just Eat?1Embed
+<|EndSong|>
 
+<|BeginSong|>
 Lodi Dodi Lyrics[Intro: Snoop Dogg]
 Yeah, gotta say what's up to my nigga Slick Rick
 For those who don't like it, eat a dick
@@ -576,7 +589,9 @@ And to the, uh, tick-tock n'ya don’t quit
 Yeah, n'ya tick-tock ya don’t stop
 And to the, uh, tick-tock n'ya don’t quit
 Biatch!23Embed
+<|EndSong|>
 
+<|BeginSong|>
 Vato Lyrics[Intro: Snoop Dogg]
 Man, don't you know that I'm loco?
 Mhm, hm
@@ -703,7 +718,9 @@ DPGC, you know them bust gunshots, come again, now
 I'm tired of hearin' all that bullshit
 When you gon' play some of that good shit? Damn
 I mean, give me some like a—26Embed
+<|EndSong|>
 
+<|BeginSong|>
 Beautiful Lyrics[Intro: Charlie Wilson & Pharrell Williams]
 Oh, oh, oh, oh
 Yeah, yeah, yeah, yeah
@@ -823,7 +840,9 @@ Oh my, oh my, oh my, oh my
 Ehh... oh yeah, there's something about you... Oh-hooo!
 Ehh... oh yeah, there's something about you... Oh-hooo!
 Ehh... oh yeah, there's something about you... Oh-hooo!25Embed
+<|EndSong|>
 
+<|BeginSong|>
 Tha Shiznit Lyrics[Verse 1: Snoop Dogg]
 Poppin', stoppin', hoppin' like a rabbit
 When I take the Nina Ross, ya know I gots to have it
@@ -899,7 +918,9 @@ Snap back, relax
 Ya bet' not be slippin' with them D's on that '83 Cadillac
 So we gon' smoke an ounce to this
 G'z up, hoes down while you motherfuckers bounce to this26Embed
+<|EndSong|>
 
+<|BeginSong|>
 Riders On the Storm (Fredwreck Remix) Lyrics[Intro: Snoop Dogg & Jim Morrison]
 Ayo, Jim, man, why don't ya...
 Why don't you kick some of that, you know?
@@ -1008,7 +1029,9 @@ Riders on the storm
 Riders on the storm
 Riders on the storm
 And let's ride! (Wow! Yeah!)19Embed
+<|EndSong|>
 
+<|BeginSong|>
 Doggy Dogg World Lyrics[Skit: Snoop Dogg]
 Can we get a motherfuckin' moment of silence
 For the small chronic break?
@@ -1115,7 +1138,9 @@ I promise I'll smoke chronic 'til the day that I die
 
 [Hook: The Dramatics & Nancy Fletcher]
 It's a Doggy Dogg World8Embed
+<|EndSong|>
 
+<|BeginSong|>
 That’s That Shit Lyrics[Intro: R. Kelly]
 Yeah, that's right, I like that
 The royal penis is clean your highness
@@ -1213,7 +1238,9 @@ In the spot where the girls go wild
 Dancing titty bar style, I'm like "That's that shit"
 Snoop Dizzle (hey) your boy Kells (hey)
 Let me hear you say "That's that shit"19Embed
+<|EndSong|>
 
+<|BeginSong|>
 California Roll Lyrics[Chorus: Pharrell & Stevie Wonder]
 Baby you could be a movie star, hey (L.A., in Los Angeles)
 Get yourself a medical card, yeah (L.A., in Los Angeles)
@@ -1278,7 +1305,9 @@ Cause that's how California roll-olls, yeah
 
 [Outro: Stevie Wonder]
 L.A., L.A.45Embed
+<|EndSong|>
 
+<|BeginSong|>
 Bitch Please Lyrics[Intro: Xzibit]
 Yeah, time to bring your ass to the table, y’all
 It’s X to the Z, Xzibit, yeah
@@ -1384,7 +1413,9 @@ Still claiming D.P.G. 'til the day I D-I-E
 Ayo, ayo, ayo
 You don't wanna step to me
 Still claiming D.P.G. 'til the day I D-I-E25Embed
+<|EndSong|>
 
+<|BeginSong|>
 Down 4 My N’s Lyrics[Intro: C-Murder]
 Man, fuck them niggas, haha
 
@@ -1488,7 +1519,9 @@ Fuck them other niggas 'cause I'm down for my niggas
 Fuck them other niggas 'cause I'm down for my niggas
 Fuck them other niggas 'cause I ride for my niggas
 I die for my niggas (What), man, fuck them other niggas10Embed
+<|EndSong|>
 
+<|BeginSong|>
 Peaches N Cream Lyrics[Produced by Pharrell Williams]
 [Hook: Snoop Dogg & Charlie Wilson]
 She 'bout to go in
@@ -1597,7 +1630,9 @@ She's the baddest in the place (Hey, hey)
 I wanna get with you (Freak, don't fail me now, hey)
 So what you wanna do?
 Got her Freak-Um dress38Embed
+<|EndSong|>
 
+<|BeginSong|>
 Serial Killa Lyrics[Intro: Cutty Ranks]
 Six million ways to die, choose one
 
@@ -1684,7 +1719,9 @@ Suicide, it's a suicide
 Now tell me, what's my motherfuckin name?
 Serial killa! Serial killa! Serial killa!
 (Wake up in the morning eat your Lucky Charms cereal)13Embed
+<|EndSong|>
 
+<|BeginSong|>
 Gz and Hustlas Lyrics[Hook]
 This is for the Gz, and this is for the Hustlas
 This is for the hustlas, now back to the Gz
@@ -1772,7 +1809,9 @@ This is for the Gz, and this is for the Hustlas
 This is for the hustlas, now back to the Gz
 This is for the Gz, and this is for the Hustlas
 This is for the hustlas now back to the Gz--23Embed
+<|EndSong|>
 
+<|BeginSong|>
 Signs Lyrics[Chorus: Justin Timberlake, Charlie Wilson & Snoop Dogg]
 I'm not sure what I see
 Cupid don't fuck with me!
@@ -1851,4 +1890,5 @@ She likes my tone, my cologne and the way I roll, you ain't no G! (Hey! Haha!)
 [Outro: Charlie Wilson]
 Ooh wee!! Heeeeeee, hey!
 Ooh wee!! Heeeeeee, hey!10Embed
+<|EndSong|>
 

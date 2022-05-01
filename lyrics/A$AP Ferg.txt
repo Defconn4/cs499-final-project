@@ -1,3 +1,4 @@
+<|BeginSong|>
 Plain Jane (Remix) Lyrics[Intro: Nicki Minaj & A$AP Ferg]
 Young Money
 Ayo, Ferg
@@ -80,7 +81,9 @@ Brrt
 Kirk Kneezy on the beat
 Yo, you know this here for the city, nigga
 Gold chains, Plain Janes, and all that good stuff, nigga69Embed
+<|EndSong|>
 
+<|BeginSong|>
 Work REMIX Lyrics[Intro: A$AP Ferg]
 I gotta close the window before I record
 ‘Cause New York don't know how to be quiet
@@ -195,7 +198,9 @@ But I'm so damn fine make a bitch look average
 See, my daddy in Heaven, right next to Ferg's
 You know what's up I'm throwin' bucks
 Loaded Lux; put in work387Embed
+<|EndSong|>
 
+<|BeginSong|>
 Plain Jane Lyrics[Intro]
 Yeah
 
@@ -266,7 +271,9 @@ Suck a nigga dick or somethin'
 Suck a nigga dick or somethin'
 Suck a nigga dick or somethin'
 Suck a nigga dick or somethin'90Embed
+<|EndSong|>
 
+<|BeginSong|>
 Shabba Lyrics[Produced by Snugsworth & Additional production by Marvel Alexander]
 
 [Verse 1: A$AP Ferg]
@@ -355,7 +362,9 @@ Two bad bitches like I'm Shab-Shabba Ranks
 One gold tooth like I'm Shab-Shabba Ranks
 Shab-Shabba Ranks, Shab-Shabba Ranks...
 Shab-Shabba Ranks, Shab-Shabba Ranks...239Embed
+<|EndSong|>
 
+<|BeginSong|>
 Work Lyrics[Intro]
 Yeah, straight off the plane
 Droppin' the flame
@@ -405,7 +414,9 @@ Riding music, I see you riding to it
 Bang 'em over the head, nigga that for talking foolish
 Nigga, work hard, put in work
 Put in work, got these niggas going berserk30Embed
+<|EndSong|>
 
+<|BeginSong|>
 New Level Lyrics[Intro: A$AP Ferg & Future]
 Yeah, yeah
 A$AP (Turn my vocals up a little bit more, please)
@@ -542,7 +553,9 @@ Bought me a new shovel (Bought me a new shovel)
 Put these niggas in the dirt (Put these niggas in the dirt)
 Chain with the new bezel (Bought me some new bezels)
 All my niggas put in work (Wow)48Embed
+<|EndSong|>
 
+<|BeginSong|>
 East Coast REMIX Lyrics[Intro: A$AP Ferg & Busta Rhymes]
 Run it up, run it up, run it up, run it up (Remix)
 Fuck that shit, we get turnt 'til the sun is up
@@ -711,7 +724,9 @@ This that East Coast, motherfucker
 California, motherfucker, see I'm from Long Beach
 Call me "Mr. East Coast," motherfucker (Long Beach)
 West Coast25Embed
+<|EndSong|>
 
+<|BeginSong|>
 Dump Dump Lyrics[Verse 1]
 Her hands all on my fade, bitch pop that ass in the coup
 That bitch got Lisa Leslie money, she balling, Sheryl Swoops
@@ -776,7 +791,9 @@ With about 100 niggas
 Don't try to run up on a nigga
 Now you six feet under, nigga
 Let me see you dump nigga50Embed
+<|EndSong|>
 
+<|BeginSong|>
 Let It Go Lyrics[Intro: A$AP Yams]
 Trap Lord season begins, now repent your sins
 This Yamborghini on the motherfuckin' check-in
@@ -854,7 +871,9 @@ We ain't trippin' though, heheheheh
 Y'all walkin' 'round with wrinkled silks, looking crazy, nah mean?
 Pay your dry-cleaning bill and all that (pay that, pay that)
 Cause it's like, it ain't even a competition no more, hahahahahah51Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hood Pope Lyrics[Chorus]
 Ohh, let me sing my song
 If you feel this shit, mothafucka sing along
@@ -925,7 +944,9 @@ Ohh, young Trap Lord
 Feel your pain, I be down for my people
 Ohh, drinking Jesus juice
 Jeans hang low, rare rubies and the gold57Embed
+<|EndSong|>
 
+<|BeginSong|>
 Lord Lyrics[Produced by: Ozhora Miyagi & Crystal Caines]
 
 [Verse 1: A$AP Ferg]
@@ -1060,7 +1081,9 @@ I won’t win with Rome, I won’t win with Sodom and Egypt
 (I keep a corpse close to my home)
 Let us roll, tell them why we did what we did, if we did
 In Jesus name, Amen18Embed
+<|EndSong|>
 
+<|BeginSong|>
 Persian Wine Lyrics[Intro]
 Gentle Jesus, meek and mild
 Look upon his little child
@@ -1151,7 +1174,9 @@ I'ma die for my niggas
 
 [Outro]
 Our Father who art is in heaven, hallowed be thy name. A$AP. Thy kingdom come, thy will be done on Earth as it is in heaven. Give us this day our daily bread and forgive us our trespasses as we forgive them that trespass against us. And lead us not into temptation, but deliver us from evil for thine is the kingdom, the power, and the glory23Embed
+<|EndSong|>
 
+<|BeginSong|>
 Murda Something Lyrics[Intro: Waka Flocka Flame]
 A$AP Ferg, Waka Flocka (Alright!)
 Ferg, Flocka!
@@ -1238,7 +1263,9 @@ Ain't afraid to murda something, ain't afraid to murda something
 Ain't afraid to murda something, ain't afraid to murda something
 Ain't afraid to murda something, ain't afraid to murda something
 Ain't afraid to murda something, ain't afraid to murda something53Embed
+<|EndSong|>
 
+<|BeginSong|>
 Shabba REMIX Lyrics[Intro: Shabba Ranks]
 Shabba! Him deh yah (Yeah, first)
 S and a H and a A, double-B and a A, R-A-N-K-S
@@ -1378,7 +1405,9 @@ Sha-Shabba Ranks
 Shabba Ranks
 (Shabba Ranks, Shabba Ranks, Shabba Ranks) (Damn, damn!)
 Sha-Shabba Ranks49Embed
+<|EndSong|>
 
+<|BeginSong|>
 Move Ya Hips Lyrics[Intro: Nicki Minaj]
 It's that time again
 Frankie motherfuckin' P
@@ -1458,7 +1487,9 @@ Move your hips, okay
 When I be leavin', she tell me to stay (Ooh)
 Move your hips, okay
 When I be leavin', she tell me to stay (Yeah, yeah, yeah, go)22Embed
+<|EndSong|>
 
+<|BeginSong|>
 Fergivicious Lyrics[Intro]
 Yeah, a lot of you people look at me like
 "Who the fuck this nigga think he is?"
@@ -1558,7 +1589,9 @@ All I know is pain
 Surviving on my own
 All I know is pain
 Surviving on my own30Embed
+<|EndSong|>
 
+<|BeginSong|>
 Dreams, Fairytales, Fantasies Lyrics[Intro: A$AP Ferg]
 Yeah, ah
 
@@ -1630,7 +1663,9 @@ I must be losing my mind (Ooh)
 [Outro]
 Ooh, ooh, ooh, ooh
 Ooh, ooh, ooh, ooh8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Mattress REMIX Lyrics[Intro: A$AP Ferg]
 Mattress, mattress, mattress (Uh)
 Mattress, mattress, mattress, mattress (Uh)
@@ -1766,7 +1801,9 @@ My uncle kept O's in the mattress (Yeah)
 Flippin' the work like gymnastics (Hey, right)
 Pitchin' the crack, it do backflips (Right)
 Po-po was flipping the mattress (Oh)6Embed
+<|EndSong|>
 
+<|BeginSong|>
 What Do You Do Lyrics[Chorus: NAV, A$AP Ferg & Both]
 What do you want? (What do you want?) Cut my grass low, see the snakes, all in my lawn (In my lawn)
 Tell me what you want (Yeah), got a party inside my trunk (In my trunk)
@@ -1823,7 +1860,9 @@ What do you want? (What?) Is it a car (What do you want?), with the stars?
 Tell me what you want (What do you want?), what do you want? (What do you want?)
 What do you want? (What do you want?)
 XO with A$AP, tell me what else do you want? (What do you want?)10Embed
+<|EndSong|>
 
+<|BeginSong|>
 Fuck Out My Face Lyrics[Intro: A$AP Ferg]
 Get the fuck outta my face
 Get the fuck outta my face
@@ -1925,4 +1964,5 @@ I'll pull the strap out my mothafuckin' waist
 [Outro: B-Real]
 Get the fuck out my mothafuckin' face
 Get the fuck out my mothafuckin' face19Embed
+<|EndSong|>
 

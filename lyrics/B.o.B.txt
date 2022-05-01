@@ -1,3 +1,4 @@
+<|BeginSong|>
 Headband Lyrics[Intro: B.o.B]
 Mustard the beat, ho (Yeah, Bandz)
 
@@ -103,7 +104,9 @@ I chop one, chop two, chop that ass down (Down)
 Chop that ass down, chop chop that ass down
 All I want you to do is just drop that ass down
 Drop drop that ass down, uh, now look back at it151Embed
+<|EndSong|>
 
+<|BeginSong|>
 Airplanes Lyrics[Intro: Hayley Williams]
 Can we pretend that airplanes
 In the night sky are like shooting stars?
@@ -174,7 +177,9 @@ I, I, I could really use a wish right now (Mmm-mm-mm-mm)
 Like, like, like shooting stars (Ahh-ah-ah-ah)
 I, I, I could really use a wish right now (Ah-ah-ah-ah)
 A wish, a wish right now90Embed
+<|EndSong|>
 
+<|BeginSong|>
 We Still In This Bitch Lyrics[Chorus: B.o.B]
 I'm in my zone, I'm feeling it
 Stop blowing my buzz, quit killing it
@@ -267,7 +272,9 @@ And buy another round
 They tried to shut us down
 About an hour ago
 But we still in this bitch22Embed
+<|EndSong|>
 
+<|BeginSong|>
 Airplanes, Pt. 2 Lyrics[Chorus: Hayley Williams]
 Can we pretend that airplanes
 In the night sky are like shooting stars?
@@ -378,7 +385,9 @@ Can we pretend that airplanes
 In the night sky are like shooting stars?
 I could really use a wish right now
 Wish right now, wish right now69Embed
+<|EndSong|>
 
+<|BeginSong|>
 Out of My Mind Lyrics[Chorus: B.o.B]
 I'm, I'm, I'm, I'm
 I'm out of my, out of my mind
@@ -505,7 +514,9 @@ Yeah, you're right there, and here
 Um, yeah, yeah (We're outta here)
 Nicki, B.o.B, ho
 (Shh... they might be listening)25Embed
+<|EndSong|>
 
+<|BeginSong|>
 Nothin’ on You Lyrics[Chorus 1: Bruno Mars & B.o.B]
 Beautiful girls
 All over the world
@@ -626,7 +637,9 @@ Na—na—na—nothin' on you, baby, na—nothin' on you
 Yeah, and that's just how we do it
 Heheheh, and I'ma let this ride
 B.o.B and Bruno Mars47Embed
+<|EndSong|>
 
+<|BeginSong|>
 Magic Lyrics[Intro: B.o.B]
 Hi, my name is B.o.B, and I approve this message
 
@@ -691,7 +704,9 @@ Ayy, that, that, I got that
 Ayy, I got the magic in me
 Ah-ha-ha
 I, I, I, I, I got the magic in me29Embed
+<|EndSong|>
 
+<|BeginSong|>
 Strange Clouds Lyrics[Intro: B.o.B]
 Yeah, eh-hahaha
 Oh, you already know what we gon' do
@@ -784,7 +799,9 @@ All we do is pour it up all night, drinks out
 And all we do is light it up all night
 All you see is strange clouds (All you see is, all you see)
 (Strange clouds, strange clouds, hey)35Embed
+<|EndSong|>
 
+<|BeginSong|>
 Bombs Away Lyrics[Intro: Morgan Freeman]
 As the war between light and darkness continues
 Heroes and villains become harder to identify
@@ -816,13 +833,13 @@ And if this is an embassy, consider me ambassador
 Official, no artificial preservatives or additives
 I love it all but I ain't attached to it
 They call this a game because it is exactly
-[Hook: B.o.B]
+[Chorus: B.o.B]
 Whenever I wake up, I get this feeling
-That I can't wait up, cause time is ticking
-Bombs away (Bombs away)
+That I can't wait up, 'cause time is ticking
+(Bombs away) Bombs away
 Whenever I wake up, I get this feeling
-That I can't wait up, cause time is ticking
-Bombs away (Bombs away)
+That I can't wait up, 'cause time is ticking
+(Bombs away) Bombs away
 
 [Verse 2: B.o.B]
 And it seems like in the grand scheme of it all
@@ -854,13 +871,21 @@ Sincerely yours, so pray to your lord
 Cause this is a war, ain't talkin' 'bout bullets and swords
 UFOs don't make any noise
 When they travel in hyper speed, so welcome aboard
-[Hook: B.o.B]
+[Chorus: B.o.B]
 Whenever I wake up, I get this feeling
-That I can't wait up, cause time is ticking
-Bombs away (Bombs away)
+That I can't wait up, 'cause time is ticking
+(Bombs away) Bombs away
 Whenever I wake up, I get this feeling
-That I can't wait up, cause time is ticking
-Bombs away (Bombs away)
+That I can't wait up, 'cause time is ticking
+(Bombs away) Bombs away
+
+[Chorus: B.o.B]
+Whenever I wake up, I get this feeling
+That I can't wait up, 'cause time is ticking
+(Bombs away) Bombs away
+Whenever I wake up, I get this feeling
+That I can't wait up, 'cause time is ticking
+(Bombs away) Bombs away
 
 [Outro: Morgan Freeman]
 As the mask of deception falls off the face of humanity
@@ -870,7 +895,9 @@ Truth has many shades
 It's not a matter of black and white, but gray
 Although many, we are one, so in the final analysis
 Could it be that we are fighting a war that can't be won?29Embed
+<|EndSong|>
 
+<|BeginSong|>
 So Good Lyrics[Verse 1]
 Drinking a German beer, with a Cuban cigar
 In the middle of Paris with a Dominican broad
@@ -954,7 +981,9 @@ La, la la, la la, la la, la, la la
 You never had it so good
 La, la la, la la, la la, la, la la
 You never had it so good29Embed
+<|EndSong|>
 
+<|BeginSong|>
 Flatline Lyrics[Verse 1]
 Yeah, you ain't seen my best
 Checkmate, ain't a game of chess
@@ -1027,7 +1056,9 @@ You fooled us for the last time
 Flat line, flat line
 There's no superior blood line
 Dead33Embed
+<|EndSong|>
 
+<|BeginSong|>
 John Doe Lyrics[Intro: Priscilla Renea]
 Seems like your heart stops workin'
 The minute they close the curtain
@@ -1113,7 +1144,9 @@ I just want the John I know
 Once you put the drinks on hold
 Maybe you could come back home
 John Doe33Embed
+<|EndSong|>
 
+<|BeginSong|>
 Both of Us Lyrics[Chorus: Taylor Swift]
 I wish I was strong enough to lift not one but both of us
 Some day I will be strong enough to lift not one but both of us
@@ -1174,7 +1207,9 @@ From Bobby Ray, to all of y’all
 [Chorus: Taylor Swift]
 I wish I was strong enough to lift not one but both of us
 Some day I will be strong enough to lift not one but both of us27Embed
+<|EndSong|>
 
+<|BeginSong|>
 Ray Bands Lyrics[Hook: B.o.B]
 She wanna pop bottles and chill with all the folk
 Hang with all the models and all the centerfolds
@@ -1246,7 +1281,9 @@ She want them Ray Bands, she want them Ray Bands
 Bobby Ray Bands
 She want them Ray Bands, she want them Ray Bands
 She want them Ray Bands, Bobby Ray Bands17Embed
+<|EndSong|>
 
+<|BeginSong|>
 Not For Long Lyrics[Hook: Trey Songz]
 You will be mine
 Even if you're somebody else's
@@ -1346,7 +1383,9 @@ Girl, not for long (Not for long)
 Ooh ooh, ooh, ooh, ooh, ooh, ooh, ooh
 Girl, not for long
 Girl, not for long38Embed
+<|EndSong|>
 
+<|BeginSong|>
 Ready Lyrics[Intro: Future]
 Apply major pressure my nigga
 You hear me?
@@ -1430,7 +1469,9 @@ We just get ready
 Any time they come around here
 We ain't gonna let up on you pussy niggas
 We just get ready23Embed
+<|EndSong|>
 
+<|BeginSong|>
 Play for Keeps Lyrics[Hook]
 How much must I repeat? We only play for keeps
 No time-outs, no free throws, no refs, no penalties
@@ -1491,7 +1532,9 @@ There are no intermissions, no time for commercial breaking
 A fighter in his prime, a legend in the making
 There’s no debating when you let your numbers make the statement
 [Hook]12Embed
+<|EndSong|>
 
+<|BeginSong|>
 4 Lit Lyrics[Intro]
 30, you a fool for this one
 
@@ -1575,7 +1618,9 @@ We ain't trippin' 'cause we all here (Oh)
 [Outro: Ty Dolla $ign]
 Yeah, yeah
 Dolla $ign3Embed
+<|EndSong|>
 
+<|BeginSong|>
 How 2 Rap Lyrics[Verse 1]
 Now open your mind up and listen you niggas
 I am the master, the guru and after I school you I'm skinning you niggas
@@ -1602,7 +1647,9 @@ Come holla at me when you're done riding each others dick
 25 million singles worlwide, I'll guess I'll take another hit
 Matter of fact I find this rap shit boring, man I'm over it
 Give me my guitar pick, I'll show you shit14Embed
+<|EndSong|>
 
+<|BeginSong|>
 No Future LyricsMmm, hey, I eat it like dinner
 You see this shit I gotta deal with from these beginners?
 I ain't circusin' around with these clown-ass niggas
@@ -1651,4 +1698,5 @@ If you ain't know, I guess I have to introduce ya
 To my side of town, somethin' you ain't really used to
 Body blow, uppercut, I do more than bruise ya
 Keep fuckin' with me and you ain't gon' have no future13Embed
+<|EndSong|>
 

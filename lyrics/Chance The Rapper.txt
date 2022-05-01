@@ -1,3 +1,4 @@
+<|BeginSong|>
 Cocoa Butter Kisses Lyrics[Intro: Chance The Rapper]
 Na-na-na-na-na-na-na-na-na-na, igh
 Na-na-na-na-na-na-na-na-na-na, igh
@@ -116,7 +117,9 @@ I miss my cocoa butter kisses
 I miss my cocoa butter kisses
 [Prod. by Cam & Peter Cottontale]
 [Click here to watch the making of the beat with Cam]491Embed
+<|EndSong|>
 
+<|BeginSong|>
 No Problem Lyrics[Intro: Ha Ha Davis & Chance The Rapper]
 You don't want zero problems, big fella!
 Yep! Igh!
@@ -242,7 +245,9 @@ They say so, ridin' with the payo'
 They be like, "There he go!"
 There he go
 [Produced by BrassTracks]91Embed
+<|EndSong|>
 
+<|BeginSong|>
 Favorite Song Lyrics[Verse 1: Chance The Rapper]
 Chance, acid rapper, soccer, hacky sacker
 Cocky khaki jacket jacker
@@ -319,7 +324,9 @@ This my jam, this my jam, this my jam, this my jam
 I'm 'bout that jam, I'm 'bout that jam, I'm 'bout that jam, I'm 'bout that jam
 This my jam, this my jam, this my jam, this my jam
 I'm 'bout that jam, I'm 'bout that jam, I'm 'bout that jam, I'm bout that jam450Embed
+<|EndSong|>
 
+<|BeginSong|>
 Juice Lyrics[Produced by Nate Fox]
 
 [Refrain]
@@ -410,7 +417,9 @@ I got the juice, I got the juice
 (Juice, juice, juice, juice) Yup!
 Yup! Yup!
 Yup!287Embed
+<|EndSong|>
 
+<|BeginSong|>
 Pusha Man/Paranoia Lyrics[Part I: Pusha Man (produced by CeeJ)]
 
 [Verse 1: Chance The Rapper]
@@ -547,7 +556,9 @@ I know you scared
 You should ask us if we scared too
 If you was there
 Then we'd just knew you cared too189Embed
+<|EndSong|>
 
+<|BeginSong|>
 Same Drugs Lyrics[Chorus]
 We don't do the same drugs no more
 We don't do the, we don't do the same drugs, do the same drugs no more
@@ -619,7 +630,9 @@ Don't you color out
 Don't you bleed on out, oh
 Stay in the line, stay in the line
 Dandelion63Embed
+<|EndSong|>
 
+<|BeginSong|>
 Blessings Lyrics[Chorus: Jamila Woods & Chance The Rapper]
 I'm gon' praise Him, praise Him 'til I'm gone
 I'm gon' praise Him, praise Him 'til I'm gone
@@ -685,7 +698,9 @@ Are you ready, are you ready?
 Are you ready, are you ready?
 Are you ready, are you ready?
 It seems like blessings keep falling in my lap46Embed
+<|EndSong|>
 
+<|BeginSong|>
 Lost Lyrics[Chorus: Chance the Rapper]
 My druggy, love me, when I'm ugly, hug me
 When I'm bummy, scummy, I'm your hubby
@@ -744,8 +759,10 @@ When the only time he loves me is naked in my dreams
 My druggy, when I'm ugly, hug me
 When I'm bummy, scummy, I'm your hubby
 Let's get lost, let's get lost
-Igh200Embed
+Igh201Embed
+<|EndSong|>
 
+<|BeginSong|>
 Acid Rain Lyrics[Produced by Jake One]
 
 [Verse]
@@ -809,7 +826,9 @@ Oh, I am holy, I have been baptized
 I have been born again, I am the White Light
 Rain, rain don't go away
 Igh!208Embed
+<|EndSong|>
 
+<|BeginSong|>
 Angels Lyrics[Intro: Chance The Rapper]
 Angels (Na-na, na-na, ah)
 
@@ -893,7 +912,9 @@ I got, I got angels
 Na, na
 Na, na
 I got, I got—81Embed
+<|EndSong|>
 
+<|BeginSong|>
 Juke Jam Lyrics[Verse 1: Chance The Rapper]
 We used to roll at the Rink, we used to roll at the Rink
 I used to talk way too much, you used to know everything
@@ -944,7 +965,9 @@ Like we used to do, I'll get close to you
 I remember you, you used to, I remember you, 'cause
 [Outro: Justin Bieber]
 We've got so much history, baby (Juke), maybe (Juke)55Embed
+<|EndSong|>
 
+<|BeginSong|>
 All We Got Lyrics[Intro: Chance The Rapper]
 And we back
 And we back, and we back, and we back, and we back, and we, huh
@@ -1018,7 +1041,9 @@ We know, we know we got it
 Music
 Music is all we got
 [Produced by Kanye West & The Social Experiment]54Embed
+<|EndSong|>
 
+<|BeginSong|>
 Smoke Again Lyrics[Intro: Chance the Rapper]
 Mmm, igh
 Acid Rap
@@ -1131,7 +1156,9 @@ I don't even talk to them on the phone again
 Leave in the AM, on the road again
 So bitch, let's fuck so I can smoke again
 I gotta smoke again, I got shit to do135Embed
+<|EndSong|>
 
+<|BeginSong|>
 All Night Lyrics[Intro: Ha Ha Davis]
 Come on, big fella, you drunk, big fella
 Two sips and now you wanna trip, big fella
@@ -1192,7 +1219,9 @@ All night, I been drinking all night
 I been drinking all night, I been drinking all night, hey
 All night, I been drinking all night
 I been drinking all night, I been drinking, ayy, ayy, ayy (Tryna get in)24Embed
+<|EndSong|>
 
+<|BeginSong|>
 Blessings (Reprise) Lyrics[Intro: Chance the Rapper]
 Oh, I-I, I-I, I, I-I, I-I-I-I
 
@@ -1254,7 +1283,9 @@ Are you ready for your blessings?
 Are you ready for your miracle?
 [Outro: HaHa Davis]
 You ready, big fella?35Embed
+<|EndSong|>
 
+<|BeginSong|>
 Good Ass Intro Lyrics[Chorus: BJ The Chicago Kid, Peter Cottontale, Lili K., Kiara Lanier & (Chance the Rapper)]
 Even better than I was the last time, baby
 Ooh-ooh-ooh-ooh
@@ -1352,7 +1383,9 @@ Na-na-na-na-na-na-na
 Na-na-na-na-na-na-na
 Igh, igh, igh, igh, igh
 Igh160Embed
+<|EndSong|>
 
+<|BeginSong|>
 Summer Friends Lyrics[Intro: Francis & The Lights]
 Ooh, ooh, ooh, incredible
 My Lord, incredible
@@ -1448,7 +1481,9 @@ When I was so young before I could remember
 I would always treat my gang like family members
 Even when I changed, a nigga never changed up
 I always bring my friends, my friends, my friends, my friends up37Embed
+<|EndSong|>
 
+<|BeginSong|>
 Everybody’s Something Lyrics[Intro: Slum Village & (Chance The Rapper)]
 Ladies loving my music is like some sex shit
 Niggas trying to grip up my mic like it's a dick
@@ -1543,7 +1578,9 @@ Everybody's somebody's everything
 That's right
 Nobody's nothing
 I know you're right106Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hot Shower Lyrics[Intro]
 Yup, yup, yerp
 And then the smoke got me
@@ -1648,7 +1685,9 @@ Ooh, hot damn, hot water, hot shower
 Hotlanta, smoking green, cauliflower (Ooh, ooh, ooh)
 Tangerine, yeah, I call her sweet and sour
 And my lawyer say it's urgent, I'ma call him in a hour30Embed
+<|EndSong|>
 
+<|BeginSong|>
 Chain Smoker Lyrics[Intro]
 If this is my last sh- my last shit
 Uh, it definitely be mad important
@@ -1719,4 +1758,5 @@ Good looking, muhfuckin', motha, shut your mouth
 Brain broken, Frank Ocean listening, stain hitting
 Satin woodgrain gripping, paint dripping, motha, shut your mouth
 Igh!124Embed
+<|EndSong|>
 

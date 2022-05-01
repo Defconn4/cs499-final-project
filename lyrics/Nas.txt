@@ -1,3 +1,4 @@
+<|BeginSong|>
 N.Y. State of Mind Lyrics[Produced by DJ Premier]
 
 [Intro]
@@ -99,7 +100,9 @@ New York state of mind
 
 [Outro: Sample]
 "Nasty Nas—"433Embed
+<|EndSong|>
 
+<|BeginSong|>
 Ether Lyrics[Produced by Ron Browz]
 [Intro]
 Fuck Jay-Z
@@ -218,7 +221,9 @@ So little Shawny's gettin' gunned up and clapped quick
 How much of Biggie's rhymes is gon' come out your fat lips? (Nigga)
 Wanted to be on every last one of my classics
 You pop shit, apologize, nigga, just ask Kiss168Embed
+<|EndSong|>
 
+<|BeginSong|>
 Life’s a Bitch Lyrics[Produced by L.E.S. & Nas]
 
 [Intro: AZ and Nas]
@@ -291,7 +296,9 @@ Life's a bitch and then you die, that's why we puff lye
 ‘Cause you never know when you're gonna go
 Life's a bitch and then you die
 [Trumpet Outro: Olu Dara]198Embed
+<|EndSong|>
 
+<|BeginSong|>
 The World Is Yours Lyrics[Produced by Pete Rock]
 [Chorus: Pete Rock + Nas]
 (It's yours)
@@ -405,7 +412,9 @@ Long Island, yo, the world is yours (It's yours)
 Staten Island, yeah, the world is yours (It's yours)
 South Bronx, the world is yours (It's yours)
 Aight176Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Message Lyrics[Produced by Trackmasters]
 
 [Verse 1]
@@ -505,7 +514,9 @@ Better come with the real though, fake-ass niggas, yo
 (They throw us slugs, we throwin' them back, what)
 Bring the shit, man! Live, man!
 (Fuck that son, word up) 9-6 shit117Embed
+<|EndSong|>
 
+<|BeginSong|>
 It Ain’t Hard to Tell Lyrics[Produced by Large Professor]
 
 [Verse 1]
@@ -551,7 +562,9 @@ Vocals will squeeze Glocks
 MCs eavesdrop, though they need not to sneak
 My poetry's deep, I never fell
 Nas' raps should be locked in a cell; it ain't hard to tell122Embed
+<|EndSong|>
 
+<|BeginSong|>
 One Love Lyrics[Produced by Q-Tip]
 
 [Verse 1: Nas]
@@ -671,7 +684,9 @@ To my man Herb, one love
 To my man [Lake Gucciano?], one love
 Can't forget my motherfuckin' heart, Big [Bo?], one love
 To [Oogie?], yeah, one love118Embed
+<|EndSong|>
 
+<|BeginSong|>
 If I Ruled the World (Imagine That) Lyrics[Produced by Rashad Smith & Trackmasters]
 
 [Intro: Nas]
@@ -786,7 +801,9 @@ Black diamonds and pearls, if I ruled
 If I ruled the world
 If I ruled the world
 I love 'em, love 'em baby!67Embed
+<|EndSong|>
 
+<|BeginSong|>
 Represent Lyrics[Produced by DJ Premier]
 
 [Chorus]
@@ -888,7 +905,9 @@ Come to Queensbridge, motherfucker!
 Yeah, yeah, let's bring it back
 That's just a warm up
 ‘Cause I can– on anybody, anybody92Embed
+<|EndSong|>
 
+<|BeginSong|>
 Nas Is Like Lyrics[Produced by DJ Premier]
 
 [Intro]
@@ -988,7 +1007,9 @@ Nas is like; life or death; I'm a rebel
 My poetry's deep, I never fell
 Nas is like; half-man, half-amazing
 No doubt (Uh); Nas is like90Embed
+<|EndSong|>
 
+<|BeginSong|>
 Halftime Lyrics[Produced by Large Professor]
 
 [Intro]
@@ -1085,7 +1106,9 @@ To the Queensbridge crew, you know it's halftime
 (Right…) '92, it's halftime
 (Right…) Yo police, police man, yo let's get ghost
 Halftime…62Embed
+<|EndSong|>
 
+<|BeginSong|>
 Memory Lane (Sittin’ in da Park) Lyrics[Produced by DJ Premier]
 
 [Intro]
@@ -1181,7 +1204,9 @@ I pour my Heineken brew to my deceased crew on memory lane
 "Comin' outta Queensbridge"
 "The most dangerous MC is…"
 "Me number one, and you know where me from"85Embed
+<|EndSong|>
 
+<|BeginSong|>
 Affirmative Action Lyrics[Produced by Dave Atkinson & Trackmasters]
 [Intro: AZ]
 This is what, this what they want, huh?
@@ -1282,7 +1307,9 @@ Now triple that times three
 We got three quarters of another ki
 [Outro: Foxy Brown]
 The Firm, baby, Vol. 137Embed
+<|EndSong|>
 
+<|BeginSong|>
 One Mic Lyrics[Produced by Chucky Thompson and Nas]
 
 [Intro]
@@ -1378,7 +1405,9 @@ All I need is one mic (Yeah, yeah, yeah, yeah)
 All I need is one mic (All I ever needed in this world, fuck cash)
 All I need is one mic (Fuck the cars, the jewelry)
 All I need is one mic (To spread my voice to the whole world, baby)52Embed
+<|EndSong|>
 
+<|BeginSong|>
 Daughters Lyrics[Produced by No I.D.]
 
 [Intro]
@@ -1454,7 +1483,9 @@ When he date, he straight, chip off his own papa
 When she date, we wait behind the door with a sawed-off
 ‘Cause we think no one is good enough for our daughters
 Love23Embed
+<|EndSong|>
 
+<|BeginSong|>
 Cherry Wine Lyrics[Produced by Salaam Remi]
 [Chorus: Amy Winehouse]
 Where is he, the man who was just like me?
@@ -1544,7 +1575,9 @@ And I'm alone, and I realize that when I get home
 I wanna go through my red and my cherry
 Yes, I'm alone, and I realize when I get home
 I wanna go through my red and my cherry29Embed
+<|EndSong|>
 
+<|BeginSong|>
 I Can Lyrics[Intro: Children's Choir]
 I know I can
 Be what I wanna be
@@ -1651,7 +1684,9 @@ Save the music, y'all
 Save the music, y'all
 Save the music
 [Produced by Salaam Remi]44Embed
+<|EndSong|>
 
+<|BeginSong|>
 Made Nas Proud [Let Nas Down Remix] Lyrics[Intro]
 Freedom or jail, clips inserted
 A baby's bein' born same time a man is murdered
@@ -1714,7 +1749,9 @@ Long live the idols, may they never be your rivals
 Slick Rick was like Jesus, G Rap wrote the Bible
 Now what you're 'bout to hear's a tale of glory and sin
 Large Professor's my mentor, that's how the story end52Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hate Me Now Lyrics[Produced by D Moet, Pretty Boy & Trackmasters]
 
 [Intro: Nas and Puff Daddy]
@@ -1849,7 +1886,9 @@ You can hate me now
 You can hate me now, (C'mon, niggas!)
 But I won't stop now (Do it now! Get this shit over with!)
 It ain't gon' never stop, niggas!40Embed
+<|EndSong|>
 
+<|BeginSong|>
 EPMD 2 Lyrics[Intro: Nas]
 Respectfully
 
@@ -1946,5 +1985,6 @@ Shout to the golden age of Hip-Hop and the name of this song is
 EPMD, we back in business
 I visualize what it is, not what it isn't
 We at the mafia table next to the kitchen
-Eatin' Michelin Stars, countin' a million109Embed
+Eatin' Michelin Stars, countin' a million110Embed
+<|EndSong|>
 

@@ -1,3 +1,4 @@
+<|BeginSong|>
 Magnolia Lyrics[Intro: Playboi Carti & Jamie Foxx]
 Yo, Pi'erre, you wanna come out here?
 Uh
@@ -101,7 +102,9 @@ Shootin' at these opps
 You know what I'm sayin'?
 Yo (Yeah), Pi'erre, you wanna come out here?
 Bitch ass nigga, fuck that nigga, man173Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​wokeuplikethis* Lyrics[Intro: Lil Uzi Vert]
 Know I got a lot, lot
 I'm a rockstar
@@ -190,7 +193,9 @@ I woke up to niggas soundin' like me
 Woke up to niggas talkin' like me
 I woke up to niggas soundin' like me
 Woke up to niggas talkin' like me149Embed
+<|EndSong|>
 
+<|BeginSong|>
 Shoota Lyrics[Intro: Lil Uzi Vert]
 Yeah
 Now
@@ -248,8 +253,10 @@ Let that thing down and point at you, huh, uh
 Bentley or the 'Rari, ho, let's choose, ooh
 We gon' rob the bank, bring the loot, uh, uh
 We gon' take these boys back to school, uh
-Money on the floor just like some shoes91Embed
+Money on the floor just like some shoes92Embed
+<|EndSong|>
 
+<|BeginSong|>
 Long Time (Intro) Lyrics[Intro]
 Feel like, bitch, hello, check it out
 (Yeah, you know what I'm saying?)
@@ -341,7 +348,9 @@ I ain't had shit in a long time
 I ain't had shit in a long time
 Just to feel like this it took a long time, yeah
 Just to feel like this it took a long time, yeah61Embed
+<|EndSong|>
 
+<|BeginSong|>
 Fetti Lyrics[Intro: Playboi Carti]
 Gas in my blunt (I can't go in, I ain't ready)
 Lean in my cup, what the fuck? What the fuck?
@@ -485,8 +494,10 @@ I just left Houston (I just left Houston), I just left Earth (I just left Earth)
 I just left Houston (I just left Houston), I just left Earth (I just left Earth), uh
 I can't go in, I ain't ready
 I can't go in, I ain't ready
-Fetti on fetti69Embed
+Fetti on fetti70Embed
+<|EndSong|>
 
+<|BeginSong|>
 Sky Lyrics[Intro]
 What? What? What? What?
 I'm so high, man, I can't even feel shit
@@ -553,8 +564,10 @@ I'm way too high (What? What? What?)
 
 [Outro]
 What? What? What?
-I'm so high, man, I can't even feel shit62Embed
+I'm so high, man, I can't even feel shit63Embed
+<|EndSong|>
 
+<|BeginSong|>
 Not Real Lyrics[Intro]
 (Blatt)
 
@@ -621,7 +634,9 @@ I'ma spend my money on guns and pills
 In Atlanta with a bitch, yeah, the bitch so bad
 I'm on that lean, lil' bitch
 Kick the bitch out, I didn't need the bitch (Tssh)57Embed
+<|EndSong|>
 
+<|BeginSong|>
 @ MEH (AT MEH) Lyrics[Intro]
 Just talk shit
 Them pussy niggas ain't 'bout that shit (Yeah, yeah)
@@ -681,7 +696,9 @@ Pussy ass nigga just talk shit (Yeah, yeah)
 Pussy ass nigga just talk shit (Yeah, yeah)
 Them pussy niggas ain't 'bout that shit
 Them pussy niggas ain't 'bout that shit, yeah137Embed
+<|EndSong|>
 
+<|BeginSong|>
 R.I.P. Lyrics[Intro]
 Yeah
 
@@ -741,7 +758,9 @@ Watch me pull up, take your chain, lil' bitch
 I'm on Deebo lit (Yeah), I'm on 'migo lit (Yeah), I'm on kilo lit (Yeah)
 I go psycho, bitch, watch me sock your bitch
 Watch me thrash that bitch, then I pass that bitch72Embed
+<|EndSong|>
 
+<|BeginSong|>
 Cancún Lyrics[Intro]
 Uh (Yeah)
 
@@ -814,7 +833,9 @@ Red rag
 Red
 Ooh, whoa
 Red flag45Embed
+<|EndSong|>
 
+<|BeginSong|>
 Shawty in Love (Version 1) Lyrics[Intro: Lala Baptiste & Playboi Carti]
 What are you talking about? (I'm tired)
 I do want to go but I can't (Beep)
@@ -949,7 +970,9 @@ Poppin' that bitch in the head, ooh (What?)
 Shawty in love with the geek (Huh? Huh? What?)
 I give your ho a lil' deal (Huh?)
 She don't know nothin' 'bout me (What?)16Embed
+<|EndSong|>
 
+<|BeginSong|>
 Broke Boi Lyrics[Intro]
 (Bitch)
 (What that ho talkin' 'bout?)
@@ -1021,7 +1044,9 @@ Carti, Carti
 Cash Carti
 Carti
 Carti, Carti63Embed
+<|EndSong|>
 
+<|BeginSong|>
 New Choppa Lyrics[Intro: Playboi Carti & A$AP Rocky]
 (What? Yeah, shit, yeah, woo)
 (Uh-huh, mm-hmm, yeah, yeah)
@@ -1102,7 +1127,9 @@ New choppa, new choppa, new choppa, new choppa
 New choppa, new choppa, new choppa, new choppa (Run it up, run it up)
 New choppa, new choppa, new choppa, new choppa
 New choppa, new choppa, new choppa, new choppa67Embed
+<|EndSong|>
 
+<|BeginSong|>
 Stop Breathing Lyrics[Intro]
 (Wake up, F1lthy)
 Breathin' (Blatt, yeah)
@@ -1182,7 +1209,9 @@ Breathin', breathin', bitches stop breathin' (Yeah)
 Breathin', breathin', I think that bitch not breathin' (Ayy, what? Yeah, what? What?)
 Breathin', breathin', bitches stop breathin' (Yeah, ayy, what?)
 Breathin', breathin', I think that bitch not breathin' (Ayy, what? What?)52Embed
+<|EndSong|>
 
+<|BeginSong|>
 Flex Lyrics[Chorus: Playboi Carti]
 All of these bitches, they mad (Ooh)
 All of these niggas, they mad (Ooh)
@@ -1291,7 +1320,9 @@ I might just sing on this shit
 I might just sing on this shit
 I might sing on this shit
 I might just sing on this shit30Embed
+<|EndSong|>
 
+<|BeginSong|>
 FlatBed Freestyle Lyrics[Intro]
 Buh-buh-buh, buh-buh-buh
 Buh, buh, buh-buh-buh
@@ -1353,7 +1384,9 @@ One more pint, uh, yeah, one more pint, uh, yeah
 One more pint, yeah, yeah, one more pint, yeah, yeah
 Too much lean, uh, yeah, too much ice, hold up, yeah
 One more pint, uh, yeah, one more pint30Embed
+<|EndSong|>
 
+<|BeginSong|>
 ILoveUIHateU Lyrics[Intro]
 Yeah
 What?
@@ -1407,7 +1440,9 @@ Don't get close, uh, baby, don't get too close (Yeah)
 Don't get close, yeah, baby, don't get too close (Yeah, yeah, yeah, yeah, what?)
 What you don't know, it won't hurt 'cause you don't know
 What you don't know, it won't hurt 'cause you don't know46Embed
+<|EndSong|>
 
+<|BeginSong|>
 Skeleton Lyrics[Chorus]
 Whole lotta red, uh
 Whole lotta red
@@ -1483,7 +1518,9 @@ Got a brand new coupe, uh
 That's a brand new Benz, huh
 Got a brand new watch, uh
 Skeleton, hold up38Embed
+<|EndSong|>
 
+<|BeginSong|>
 Fell in Luv Lyrics[Chorus: Playboi Carti]
 I fell in love, fell in love
 But that's okay 'cause we in love
@@ -1553,7 +1590,9 @@ I want in for the love
 Just show me love, just show me love
 I fell in love, I fell in love
 And that's okay 'cause I'm in love40Embed
+<|EndSong|>
 
+<|BeginSong|>
 Go2DaMoon Lyrics[Intro: Kanye West]
 Do it...
 Watch it...
@@ -1605,4 +1644,5 @@ I done been through a lot (Okay)
 I done seen some stuff (Carti)
 Everything dope
 Shoutout to the bluff (What?)43Embed
+<|EndSong|>
 

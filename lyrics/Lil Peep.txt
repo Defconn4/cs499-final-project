@@ -1,3 +1,4 @@
+<|BeginSong|>
 Star Shopping Lyrics[Verse]
 Wait right here
 I'll be back in the mornin'
@@ -33,7 +34,9 @@ This music's the only thing keepin' the peace when I'm fallin' to pieces
 Look at the sky tonight, all of the stars have a reason
 A reason to shine, a reason like mine and I'm fallin' to pieces
 Look at the sky tonight, all of the stars have a reason1.4KEmbed
+<|EndSong|>
 
+<|BeginSong|>
 Save That Shit Lyrics[Intro]
 (Yeah)
 
@@ -91,7 +94,9 @@ Do I make you scared? Baby, won't you take me back?
 Do I make you scared? Baby, won't you take me back?
 Nothin' like them other mothafuckas'
 I can make you rich (I can make you rich)256Embed
+<|EndSong|>
 
+<|BeginSong|>
 Benz Truck (Гелик) Lyrics[Intro]
 Lil Bo Peep with a brand new bitch
 In the back of the club with the GothBoiClique
@@ -143,7 +148,9 @@ Lil Bo Peep with a brand new bitch
 In the back of the club with the GothBoiClique
 Iced out teeth on an iced out whip
 With the limousine tints, you can suck my dick190Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​beamer boy Lyrics[Intro]
 Man, I don't know what the fuck goin' on lately, bro, but
 Everybody actin' real different and shit
@@ -195,7 +202,9 @@ I'ma show ya, baby, I was chosen, ayy
 
 [Outro]
 Beamer boy148Embed
+<|EndSong|>
 
+<|BeginSong|>
 Awful Things Lyrics[Intro: Lil Peep]
 Bother me, tell me awful things
 You know I love it when you do that
@@ -249,7 +258,9 @@ Helps me get through this without you
 Bother me, tell me awful things
 You know I love it when you move that on me
 Love it when you do that on me161Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​nuts Lyrics[Verse 1: rainy bear]
 I can see it in your eyes, that you wanna get out
 I can see it in your eyes, that you need it right now
@@ -274,7 +285,9 @@ I remember eatin' pussy on the back of the bus
 I remember gettin' nookie 'til the Sun came up
 All the places that you took me, no one came with us
 Same hoes overlook me, now they on my nuts83Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​crybaby Lyrics[Intro: Nedarb]
 Oh, Skedda!
 
@@ -320,7 +333,9 @@ Oh, I'm a lonely boy, she made a lonely boy, yeah, I know
 Oh, it's a lonely world, I know
 Gon' get a lonely girl, that's fo' sho'
 Oh, I'm a lonely boy, she made a lonely boy, yeah, I know111Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​hellboy Lyrics[Intro]
 Can this be him?
 The one I have waited centuries to see?
@@ -361,8 +376,10 @@ You know I love you by the way that I kiss you
 You don't even know what I've been through (I've been through)
 You don't gotta like me, ya bitch do (Ya bitch do)
 Blowin' up my phone like, "I miss you." (I miss you)
-You know I love you by the way that I kiss you166Embed
+You know I love you by the way that I kiss you167Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​the way i see things Lyrics[Verse]
 I got a feelin' that I'm not gonna be here for next year
 So, let's laugh a little before I'm gone
@@ -388,7 +405,9 @@ It's just the way I see things
 Take her away from me, but I'm not givin' up on you, no
 It's just the way I be
 It's just the way I see things163Embed
+<|EndSong|>
 
+<|BeginSong|>
 Life is Beautiful Lyrics[Verse 1]
 I know that it hurts sometimes, but it's beautiful
 Working every day, now you're bleeding through your cuticles
@@ -431,7 +450,9 @@ Isn't life beautiful? I think that life is beautiful
 Isn't life beautiful? I think that life is beautiful
 Isn't life beautiful? I think that life is beautiful
 Isn't life beautiful? I think that life is beautiful177Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​The Brightside Lyrics[Verse]
 I know that you want me, you know that I want you
 The memories haunt me, I know that they haunt you too
@@ -487,7 +508,9 @@ I gotta look at the bright side (Just look at the bright side)
 I guess she wasn't the one, right
 This isn't what love's like
 That's for sure95Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​right here Lyrics[Intro]
 Love you, Chris
 
@@ -512,7 +535,9 @@ And when it comes clear, I will be waiting right here
 Just tell me if you need me and I will meet you right there
 [Outro]
 GothBoiClique82Embed
+<|EndSong|>
 
+<|BeginSong|>
 U Said LyricsPart 1: Poppin' Pills Thinkin' 'Bout U
 
 [Intro: Lil Peep]
@@ -588,8 +613,10 @@ I still do those same drugs
 Sometimes life gets fucked up (Fucked up)
 That's why we get fucked up (Fucked up)
 I can still feel your touch
-I still do those same drugs80Embed
+I still do those same drugs81Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​teen romance Lyrics[Chorus]
 I met her by chance
 I said, "I really like your pants"
@@ -617,7 +644,9 @@ Let me guide you
 To a place where
 No one hurts you
 You are safe here with me75Embed
+<|EndSong|>
 
+<|BeginSong|>
 Gym Class Lyrics[Intro]
 Huh
 
@@ -665,7 +694,9 @@ Lil Bo Peep with a brand new flow, too
 Lookin' at my teeth like you never seen a gold tooth
 Never in the streets, 'cause I never leave my home
 If you wanna live a dream I ain't comin', bitch, I—136Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​feelz ♡ Lyrics[Intro]
 (Cowabunga, dude!)
 
@@ -705,7 +736,9 @@ I could never leave you alone, my little mama
 Is mad at me at the moment, know she's such a prima-donna
 Wherever you are is my home, you know I mean it
 They say home is where the heart is, you're the reason mine is beatin'73Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​lil jeep Lyrics[Chorus]
 I remember when you used to hold my hand
 Now you actin' like a ghost, girl
@@ -748,7 +781,9 @@ I don't think that my bitch know
 I'm dyin', I don't think that my bitch know
 I'm dyin', I don't think that my bitch know
 I'm dyin', yeah, ayy75Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​praying to the sky Lyrics[Intro]
 Nah
 
@@ -798,7 +833,9 @@ I hear voices in my head, they tellin' me to call it quits
 I found some Xanax in my bed, I took that shit, went back to sleep
 They gon' miss me when I'm dead, I lay my head and rest in peace
 I'm prayin' to the sky, I don't even know why, ayy84Embed
+<|EndSong|>
 
+<|BeginSong|>
 16 Lines Lyrics[Intro]
 16 lines-
 Of blow and I'm fine
@@ -852,7 +889,9 @@ Is anybody out there? (Is anybody out there?)
 Can anybody hear me? (Can anybody hear me?)
 I hate it when you fake care (I hate it when you fake care)
 Girl, I know you hear me (Hear me)105Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​​​​haunt u Lyrics[Intro]
 Oh, I love you, my dear
 But I'm goin', I'm gone
@@ -879,4 +918,5 @@ No, I'm not gonna hurt you, girl, not at all
 I ain't gonna set you free, all you gonna get from me
 Little bit of love and a little virtue
 If I hurt you, I'll end it all105Embed
+<|EndSong|>
 

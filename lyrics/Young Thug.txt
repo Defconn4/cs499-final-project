@@ -1,3 +1,4 @@
+<|BeginSong|>
 Best Friend Lyrics[Intro]
 Ricky Racks, I see you!
 Thugger!
@@ -68,7 +69,9 @@ Nigga livin' TTG and everything is still on fleek
 Bad bitch rollin' wit' me, she gon' smile 'cause she on fleek
 Hundred thousand dollars inside my pants, my shit on fleek
 Hey-yeah!118Embed
+<|EndSong|>
 
+<|BeginSong|>
 The London Lyrics[Intro: J. Cole]
 Yeah, yeah, yeah
 Oh, oh, woah
@@ -158,7 +161,9 @@ And they know, I might (And fly, I...)
 Get down, might (Don't play)
 See the whole town every time, I... (Oh, every day)
 Yeah, they know what's up (Folks will say)131Embed
+<|EndSong|>
 
+<|BeginSong|>
 Check Lyrics[Intro: Young Thug & Skooly]
 I can see that bullshit from a mile away (See it)
 You can stack my money 'bout a mile away (Stack it)
@@ -246,7 +251,9 @@ Baby, baby, baby, baby, baby, I need racks, hey!
 
 [Outro: Skooly]
 We got London on da Track!316Embed
+<|EndSong|>
 
+<|BeginSong|>
 Power Lyrics[Intro]
 We got London on da Track
 
@@ -308,7 +315,9 @@ Bitch, I make it rain-shower, ya dig that?
 They won't know a thing about you if you zip that
 Hit 'em with that blocka-blocka, nigga get back
 Feed that, beat that, never crack, dig that (Sheesh, sheesh)80Embed
+<|EndSong|>
 
+<|BeginSong|>
 With That Lyrics[Intro: Young Thug & Skooly]
 Yeah
 I'm so through with that
@@ -373,7 +382,9 @@ Yeah, you not cool with that
 No, you not cool with that
 No, you not cool with that
 Yeah169Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hot Lyrics[Intro: Gunna]
 Wheezy outta here
 Hot, hot, hot, hot
@@ -455,7 +466,9 @@ Hot, hot, hot, hot
 Hot, hot, hot, hot
 Hot, hot, hot, hot, damn
 Hot, hot, hot37Embed
+<|EndSong|>
 
+<|BeginSong|>
 2 Bitches (Danny Glover) Lyrics[Intro]
 Thugger Thugger
 Thugger
@@ -532,7 +545,9 @@ Every time I fuck I gotta hit me least like two bitches
 Boy, that dope been whipped, you need like new wrists
 Foreign car outside, that bitch got two digits
 Money stand like eight feet just like two midgets347Embed
+<|EndSong|>
 
+<|BeginSong|>
 Stoner Lyrics[Intro]
 When you were worrying about pissing on your fuckin' self, I was a stoner
 Bang gang
@@ -615,7 +630,9 @@ I feel like Fabo, I feel like Fabo
 I feel like Fabo, I feel like Fabo
 I feel like Fabo, I feel like Fabo
 I feel just like394Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hot (Remix) Lyrics[Intro: Gunna]
 Wheezy outta here
 Hot, hot, hot, hot
@@ -729,7 +746,9 @@ Hot, hot, hot, hot
 Hot, hot, hot, hot
 Hot, hot, hot, hot, damn
 Hot, hot, hot, hot38Embed
+<|EndSong|>
 
+<|BeginSong|>
 Thief in the Night Lyrics[Intro: Young Thug]
 Yeah
 Just like a G, you know?
@@ -853,7 +872,9 @@ Scoop them grits on a plate
 Yet she thought it was steak
 I'm a thief in the night
 Make her ride like a bike24Embed
+<|EndSong|>
 
+<|BeginSong|>
 Relationship Lyrics[Pre-Chorus: Young Thug]
 Yeah, shinin' hard 'cause we back up (Back up)
 Rose gold from your neck up (Young BL$$D, boy, you saucin')
@@ -933,7 +954,9 @@ I know how to make the girls go crazy
 When you treat her like your number one baby
 Put my bitches on yachts, we don't do jet-skis
 Put your ice on rocks, they need to help me41Embed
+<|EndSong|>
 
+<|BeginSong|>
 Digits Lyrics[Intro]
 Thugger, YSL for life
 We ran up the digits, we ran up the money
@@ -1011,7 +1034,9 @@ We ran up them digits, we ran up some money
 We ran up some digits, we ran up some money
 [Outro]
 We got London on da Track75Embed
+<|EndSong|>
 
+<|BeginSong|>
 Wyclef Jean Lyrics[Intro]
 (Supah Mario)
 Thugger
@@ -1114,7 +1139,9 @@ Boolin', rockin' all the Franck Muller (Franck Muller)
 I know some hoes with good head, fuck a tutor (Good head)
 So many hundreds, how the hell I'm going to lose 'em? (Gonna lose 'em)
 Put me in the Jaggy or the Wraith and now I'm coolin' (Hey)43Embed
+<|EndSong|>
 
+<|BeginSong|>
 With Them Lyrics[Intro]
 Thugger Thugger baby
 Fuck all that let's get to it
@@ -1202,7 +1229,9 @@ Got some hoes, you can slay with them
 You know that we players, we playing 'em (Yeah)
 She can't be my wife, I can't lay in there (Nah)
 Diamonds all black like I'm racist now (Hee, hee)61Embed
+<|EndSong|>
 
+<|BeginSong|>
 Halftime Lyrics[Intro]
 Turn it up, Thugger
 Thugger, and... let's go
@@ -1276,7 +1305,9 @@ Hey, a good time
 Hey, let's have a good time, hey, a very good ti-i-ime
 Hey, let's have a very good time
 Hey, a very good time, hey-ooh, let's have a very good ti-i-ime137Embed
+<|EndSong|>
 
+<|BeginSong|>
 Guwop Lyrics[Intro: Young Thug]
 I done put twenty up under the SIG
 You dig, you dig
@@ -1427,7 +1458,9 @@ Since I was a youngin I been gettin' dough (You dig, you dig)
 I count my backend and I turn up the show (You dig, you dig)
 I want hella Xans, they get me off (You dig, you dig, hey)
 I put the V neck on my team, yeah (You dig, you dig, you dig, you dig, hey)56Embed
+<|EndSong|>
 
+<|BeginSong|>
 Again Lyrics[Intro: Gucci Mane & Young Thug]
 Nigga, turn up
 It's Guwop
@@ -1502,7 +1535,9 @@ Money long like a sock with some shorts
 Whippin' that bit', she whip out that dick
 She is sucking, she is fucking
 Sitting right there on her knees like a bucket, yeah, yeah64Embed
+<|EndSong|>
 
+<|BeginSong|>
 Old English Lyrics[Intro: Young Thug]
 Thugger
 Slime, smoker life
@@ -1584,7 +1619,9 @@ So, then she get money vicarious off her friends though
 'Cause a kid named Birdy look nerdy but he be after the bando (Alright)
 She robbed Birdy for birdies, now Birdy after her head though
 Hold on I think I see Birdy and Birdy killed my Cuban ho (Ferg)130Embed
+<|EndSong|>
 
+<|BeginSong|>
 Imma Ride (Ridin) Lyrics[Intro: Young Thug & Birdman]
 Thugger, Juug
 Yeah
@@ -1729,7 +1766,9 @@ She say that that pussy wet so I'ma slide (slide slide)
 She pull up and fuck the crew like she connivin' (oh my god)
 (Lil whoadie 'bout that action, we pull up, it's 'bout that)
 Hey, I'ma cum all over her body66Embed
+<|EndSong|>
 
+<|BeginSong|>
 Givenchy Lyrics[Intro: Birdman]
 That Rich Gang lifestyle (Lifestyle)
 Marble floors, gold toilets and chandeliers (You under-dig?)
@@ -1851,4 +1890,5 @@ What you know 'bout th-that? You don’t know nothin'
 Baby girl, what you know, what you know 'bout that?
 What you know 'bout that? What you know 'bout tha—
 (Rich Gang)59Embed
+<|EndSong|>
 

@@ -1,3 +1,4 @@
+<|BeginSong|>
 Kung Fu Lyrics[Intro]
 Day-Day-Daytrip took it to 10
 
@@ -101,7 +102,9 @@ Tell Momma I'ma quit but I love cash
 
 [Outro]
 Daytrip took it to 1043Embed
+<|EndSong|>
 
+<|BeginSong|>
 RNP Lyrics[Chorus: Anderson .Paak]
 One of y'all niggas gon' be fuckin' with me
 I got two bad bitches gon' be rubbin' my feet
@@ -169,7 +172,9 @@ Ooh, not one of y'all niggas gon' be fuckin' with me
 I got two bad bitches gon' be rubbin' my feet
 I got three young niggas down to bust out the heat
 And all y'all ain't got nothin' on me48Embed
+<|EndSong|>
 
+<|BeginSong|>
 Bad Idea Lyrics[Intro: YBN Cordae]
 Ooh
 Ooh
@@ -251,7 +256,9 @@ So don't you cry, little baby
 It'll be alright
 So don't you cry, little baby
 It'll be alright18Embed
+<|EndSong|>
 
+<|BeginSong|>
 Have Mercy Lyrics[Intro]
 Kid
 Ugh
@@ -347,7 +354,9 @@ I just wanna get my life back
 [Outro]
 Baby Jesus, please save us
 Baby Jesus, please save us37Embed
+<|EndSong|>
 
+<|BeginSong|>
 Old Niggas Lyrics[Intro]
 Damn, Mizzy Mauri got beats
 
@@ -415,7 +424,9 @@ I'ma still wear all my Gucci flip-flops
 And the fuckin' diamond chain with the big rocks
 And I'll be the greatest ever, nigga, just watch
 Cardi B got rich from Love & Hip Hop, haha32Embed
+<|EndSong|>
 
+<|BeginSong|>
 Alaska Lyrics[Intro]
 Maddox on the beat
 M.W.A. Music
@@ -488,7 +499,9 @@ I was flipping, whipping, dipped in the kitchen
 These niggas tripping, put the game in submission
 I'm Scottie Pippen, but I ball like a Piston
 The shotty rippin' in a fucked up position (ah)23Embed
+<|EndSong|>
 
+<|BeginSong|>
 Broke As Fuck Lyrics[Intro]
 Uh, yeah
 Daytrip took it to ten (Hey)
@@ -557,7 +570,9 @@ I'm just searching for the same shit
 Same niggas that I came with
 Premonitions over reminiscing
 Lam' truck how I lane switch (Ah)37Embed
+<|EndSong|>
 
+<|BeginSong|>
 Parables (Remix) Lyrics[Intro: Cordae]
 Gotta ride with 'em, ride with 'em
 Ride with 'em, roll with the, whoa, whoa, whoa
@@ -672,7 +687,9 @@ I told you 'bout, being kicked out 20 degrees, no money to eat
 'Bout the thrift stores and being piss poor, the Christmases Ma had gifts for us, when bro and me discovered that she
 Was wrappin' shit up around the house, to stick it under the tree
 Damn30Embed
+<|EndSong|>
 
+<|BeginSong|>
 Super Lyrics[Intro]
 Yeah, yeah, yeah (Woo, woo, woo)
 Huh, huh
@@ -761,8 +778,10 @@ That's the perks you get from being super dope
 One day, one day
 I can survive
 I can survive
-Hey, hey (I can survive)14Embed
+Hey, hey (I can survive)15Embed
+<|EndSong|>
 
+<|BeginSong|>
 Gifted Lyrics[Pre-Chorus: Ant Clemons]
 Livin' out my dream, my life is different (Different)
 If I want it, then I'ma get it (Get it)
@@ -842,7 +861,9 @@ Still keep a piece
 Still keep a piece
 Still keep a piece
 Still keep a piece30Embed
+<|EndSong|>
 
+<|BeginSong|>
 Lost & Found Lyrics[Intro]
 Switch up my lifestyle
 Yup, yup, uh, huh
@@ -902,7 +923,9 @@ Some rappers with actual potency
 Spit hot lava, erode the beat, my God
 [Outro]
 What you think of that, Bren?9Embed
+<|EndSong|>
 
+<|BeginSong|>
 My Name Is Lyrics[Intro]
 Wooh!
 Alright, alright
@@ -965,7 +988,9 @@ Man, these niggas whack as fuck
 In this music shit, bro, like what the fuck
 You niggas suck like shit bro, like
 Damn you niggas fucking suck. man3Embed
+<|EndSong|>
 
+<|BeginSong|>
 Wintertime Lyrics[Verse 1]
 Uh, okay, we all got skeletons in our closet from a shady past
 Made me brag about my Mercedes, Jag
@@ -1015,7 +1040,9 @@ Yeah, I can feel the changes
 Know where you come from, it's easy to tell where you going
 Yeah
 Just keep dreaming 'til you find out7Embed
+<|EndSong|>
 
+<|BeginSong|>
 We Gon Make It Lyrics[Intro: Meek Mill]
 Yeah, God bless the dreamchasers
 If you got a dream, keep chasin' it
@@ -1101,7 +1128,9 @@ Shit, we ain't never had a shot, how we gon' take it?
 Success is in my arm reach and I can taste it
 In the mansion, I was just down in the basement
 They didn't believe in me, but I'm gon' make it11Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Parables Lyrics[Intro]
 Gotta ride with 'em, ride with 'em
 Ride with 'em, roll with the, woah, woah, woah
@@ -1168,7 +1197,9 @@ I can tell you 'bout the time I signed a deal for twenty bands
 And used that shit to get my brother out the can, lemme tell you
 I can tell you 'bout the time I had a penny and a plan
 I can tell you shit, but you won't understand, lemme tell you, nigga21Embed
+<|EndSong|>
 
+<|BeginSong|>
 Nightmares Are Real Lyrics[Verse 1: YBN Cordae]
 Okay, uh, I can tell you how I first started in this rap shit
 Mama kicked a nigga out the house, felt fantastic
@@ -1219,7 +1250,9 @@ But I still, uh, I'd do it all over again
 And my life is so sinful
 But through times, uh
 The good guys always win12Embed
+<|EndSong|>
 
+<|BeginSong|>
 Way Back Home Lyrics[Chorus: YBN Cordae]
 Uh, you can be who you want to be
 But rather be myself, for real
@@ -1299,7 +1332,9 @@ I've been up and down, 'round and 'round
 Tryna find my way back home
 Gone too long, drownin' out
 Still gonna play that song11Embed
+<|EndSong|>
 
+<|BeginSong|>
 Locationships Lyrics[Intro]
 Kid
 (I be on, I be on my way up)
@@ -1373,7 +1408,9 @@ Texas chick who in my dreams
 Atlanta girls ain't for the team
 This player shit is in my dreams
 Aw, man8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Thousand Words Lyrics[Intro]
 Uh
 
@@ -1436,7 +1473,9 @@ They say a picture's worth a thousand words
 You paint a canvas, better let it shine, huh
 I know I done some things that's dead wrong, uh
 The flash is on this little light of mine, yeah8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Target Lyrics[Intro]
 Eee-oooh!
 Ooh-ooh-ooh!
@@ -1492,4 +1531,5 @@ My team way too official, with Chevys and Rolls
 
 [Outro]
 Daytrip took it to ten, hey!6Embed
+<|EndSong|>
 

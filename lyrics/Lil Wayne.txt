@@ -1,3 +1,4 @@
+<|BeginSong|>
 Love Me Lyrics[Pre-Chorus: Future]
 I'm on that good kush and alcohol (Mike WiLL Made-It)
 I got some down bitches I can call (What's hatnin'?)
@@ -95,9 +96,11 @@ I can give a fuck 'bout no hater
 Long as my bitches love me (My bitches love me, my bitches love me, my bitches love me) (Yeah, yeah; yeah, yeah; yeah, yeah)
 Yeah, I can give a fuck 'bout no nigga (Yeah)
 Long as these bitches love me244Embed
+<|EndSong|>
 
+<|BeginSong|>
 Mona Lisa Lyrics[Intro: Kendrick Lamar]
-I got a story to tell, you know that I cherish thee
+I got a story to tell, you know that I cherish these
 Hope it ain't too many feelings involved
 
 [Refrain: Lil Wayne]
@@ -180,12 +183,14 @@ You scandalous as fuck and I hope you blow up, you know what? I give up, let me 
 I got one in the chamber I'm plannin' on aimin', goddammit, you know that the damage is done
 Bitch, I'm emotional 'cause I'm in stress, I'm not supposed to go through this, I guess
 So in conclusion, since you like rappers that's killin' that pussy, I'm killin' myself
-[Outro: Lil Wayne and Kendrick Lamar]
-She say, "Ooh, Daddy, ooh," Mona Lisa, Mona Lisa
+[Chorus: Lil Wayne]
+She say, "Ooh, daddy, ooh," Mona Lisa, Mona Lisa
 Ooh, fake smile (Ooh), Mona Lisa, Mona Lisa
-She say, "Ooh," no emotion (Ooh), Mona Lisa, Mona Lisa
+She say, "Ooh," dead emotion (Ooh), Mona Lisa, Mona Lisa
 Now he get the picture, Mona Lisa, Mona Lisa, yeah197Embed
+<|EndSong|>
 
+<|BeginSong|>
 Believe Me Lyrics[Produced by Boi-1da and Vinylz]
 
 [Chorus: Drake]
@@ -305,7 +310,9 @@ Gone
 
 [Outro: Drake]
 Rip rip, nigga1.7KEmbed
+<|EndSong|>
 
+<|BeginSong|>
 6 Foot 7 Foot Lyrics[Chorus: Harry Belafonte]
 Six-foot, seven-foot, eight-foot bunch
 Six-foot, seven-foot, eight-foot bunch
@@ -400,7 +407,9 @@ Hit 'em up, piece on my side
 I'm a man, I visit urinals abroad
 Tune told me to, I'm shootin' when the funeral outside
 I'm uptown, thoroughbred, a BX nigga, ya heard? Gunna180Embed
+<|EndSong|>
 
+<|BeginSong|>
 Mirror Lyrics[Intro: Lil Wayne]
 Uh, with everything happening today
 You don't know whether you're coming or going, but
@@ -477,7 +486,9 @@ Mirror on the wall
 Hey B.P, looks like I did take 'em to Mars this time
 So why are we
 Talking to each other again?126Embed
+<|EndSong|>
 
+<|BeginSong|>
 Rich As Fuck Lyrics[Verse 1: Lil Wayne]
 Ugh, AK on my nightstand, right next to that Bible
 But I swear, with these fifty shots, I'll shoot it out with Five-O
@@ -552,7 +563,9 @@ All my-all-all my niggas look rich as fuck
 
 [Outro: Lil Wayne]
 And your nigga a hoe102Embed
+<|EndSong|>
 
+<|BeginSong|>
 A Milli Lyrics[Intro]
 Bangladesh
 Young Money!
@@ -629,7 +642,9 @@ Don't you compare me, ‘cause there ain't nobody near me
 They don't see me but they hear me
 They don't feel me but they fear me
 I'm illy, C3, 3 Peat143Embed
+<|EndSong|>
 
+<|BeginSong|>
 She Will Lyrics[Intro: Lil Wayne]
 Young Money!
 Yeah
@@ -728,7 +743,9 @@ She will, she will, she will
 Do it for the realest niggas in the fuckin' game right now
 She will, she will, she will
 I think I love her108Embed
+<|EndSong|>
 
+<|BeginSong|>
 Don’t Cry Lyrics[Intro: Lil Wayne]
 Yeah
 C5
@@ -809,7 +826,9 @@ Won't lie, I fuckin' love you, woah (Don't cry)
 Don't cry, stay tuned
 And triple extension on my motherfuckin' afterlife
 Rest in paradise138Embed
+<|EndSong|>
 
+<|BeginSong|>
 Blunt Blowin’ Lyrics[Intro]
 Yeah, I put my shades on
 
@@ -889,7 +908,9 @@ I've been gone too long
 True or false, right or wrong
 Hello Weezy, welcome home
 It's Young Mula, baby72Embed
+<|EndSong|>
 
+<|BeginSong|>
 Right Above It Lyrics[Produced by Kane Beatz]
 
 [Intro]
@@ -976,7 +997,9 @@ Alright, now somebody show some money in this bitch
 And I got my b's with me like some honey in this bitch, you dig
 I got my gun in my boo purse
 And I don't bust back, because I shoot first66Embed
+<|EndSong|>
 
+<|BeginSong|>
 Uproar Lyrics[Intro: Swizz Beatz & Lil Wayne]
 (Weezy, Weezy, Weezy, Weezy
 Weezy, Weezy, Weezy, Weezy)
@@ -1060,7 +1083,9 @@ What the fuck though? Where the love go?
 Five, four, three, two, I let one go
 Bow! Get the fuck though, I don't bluff, bro
 Aimin' at your head like a buffalo39Embed
+<|EndSong|>
 
+<|BeginSong|>
 No Worries Lyrics[Chorus: Detail]
 You can look me in my face
 (I ain't got no worries)
@@ -1135,7 +1160,9 @@ You see money right there, yeah that's Tunechi right there (turn up)
 Yeah that's Mack Maine right there, and we ain't got no worries
 You see pussy right there redbone mangos right there
 See them sh-roomies right there51Embed
+<|EndSong|>
 
+<|BeginSong|>
 Drop the World Lyrics[Verse 1: Lil Wayne]
 I got ice in my veins, blood in my eyes
 Hate in my heart, love in my mind
@@ -1220,7 +1247,9 @@ And I could die now, rebirth, motherfucker
 Hop up in my spaceship and leave Earth, motherfucker
 I'm gone, motherfucker, I'm gone
 I'm gone114Embed
+<|EndSong|>
 
+<|BeginSong|>
 John Lyrics[Intro: Sample]
 "Just saw an alien saucer approaching from the sky
 Radio contact has been attempted but cannot be established Instructions are to prepare for an attack by an unknown enemy"
@@ -1314,7 +1343,9 @@ I call the plays, motherfucker, huddle up
 I'm not a star, somebody lied
 I got a chopper in the car
 Yeah65Embed
+<|EndSong|>
 
+<|BeginSong|>
 How to Love Lyrics[Intro]
 Cut the music up
 A little louder, yeah
@@ -1386,7 +1417,9 @@ How to love, how to love, yeah
 You had a lot of moments that didn’t last forever
 Now you in this corner, tryna put it together
 How to love, how to love97Embed
+<|EndSong|>
 
+<|BeginSong|>
 Lollipop (Remix) Lyrics[Intro: Lil Wayne]
 Haha
 Uh-huh
@@ -1487,7 +1520,9 @@ Lick me like a lollipop (Lollipop)
 She— She lick me like a lollipop (L-Lollipop)
 Sh-Sh-Sh-She lick me like a lollipop (Lollipop)
 She— She lick me like a lollipop (Lollipop)24Embed
+<|EndSong|>
 
+<|BeginSong|>
 Mr. Carter Lyrics[Produced by Infamous and Drew Correa]
 
 [Intro: Lil Wayne]
@@ -1624,7 +1659,9 @@ Fine, we'll lose two lives; yours and mine
 Give me any amount of time, don't let Ms. Carter grieve
 At the funeral parlor, drippin' tears down my sleeve
 Give me any amount of time, don't let Ms. Carter grieve69Embed
+<|EndSong|>
 
+<|BeginSong|>
 Dedicate Lyrics[Intro: Lil Wayne + sample]
 "If it wasn't for Wayne, it wouldn't be"
 "You tatted your face—"
@@ -1690,7 +1727,9 @@ Tunechi
 
 [Outro: Sample]
 "They might think they've got a pretty good jump shot, or a pretty good flow. But our kids can't all aspire to be LeBron or Lil Wayne."34Embed
+<|EndSong|>
 
+<|BeginSong|>
 Lollipop Lyrics[Produced by Jim Jonsin & Deezle]
 
 [Intro: Lil Wayne]
@@ -1825,4 +1864,5 @@ I said he's so sweet, make her wanna lick the wrapper
 She-She-She lick me like a lollipop
 (What you do?) So I let her lick the rapper
 She— She lick me like a lollipop54Embed
+<|EndSong|>
 

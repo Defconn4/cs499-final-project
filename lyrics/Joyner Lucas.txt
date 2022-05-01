@@ -1,3 +1,4 @@
+<|BeginSong|>
 Isis Lyrics[Intro]
 Attention Deficit Hyperactivity Disorder, or better known as ADHD, is a mental disorder that affects an individual's ability to focus
 Causing them to move around more frequently
@@ -125,7 +126,9 @@ ISIS, ISIS, ISIS, ISIS, ISIS
 ISIS, ISIS, ISIS, ISIS, ISIS
 ISIS, ISIS, ISIS, ISIS, ISIS
 ISIS, ISIS, ISIS191Embed
+<|EndSong|>
 
+<|BeginSong|>
 I’m Sorry Lyrics[Verse 1]
 Go ahead and call me a coward
 Say that I'm not strong because I'm not like you
@@ -247,7 +250,9 @@ Just make sure you tell my family it's okay, I'm sorry
 But it's too late, I'm sorry, so much weighing on me
 I don't wanna live to see another day, I'm sorry
 But I can't stay, I'm sorry, so much weighing on me91Embed
+<|EndSong|>
 
+<|BeginSong|>
 I’m Not Racist Lyrics[Verse 1]
 With all due respect
 I don't have pity for you black niggas, that's the way I feel
@@ -395,7 +400,9 @@ Can't erase the scars with a bandage
 I'm hopin' maybe we can come to an understandin'
 Agree to disagree, we could have an understandin'
 I'm not racist168Embed
+<|EndSong|>
 
+<|BeginSong|>
 Gucci Gang (Remix) Lyrics[Intro]
 Yuh, yuh, uh
 Woo, (Joyner), yuh, yuh, yuh, yup
@@ -485,7 +492,9 @@ Bunch of drug addicts in the house of pain (Bruh)
 And all you niggas suffer til you pop a vein, uh
 Gucci gang, Fendi gang, Prada gang (Woo)
 I don't really fuck with no brand names, yeah68Embed
+<|EndSong|>
 
+<|BeginSong|>
 Bank Account (Remix) Lyrics[Chorus]
 I'm willing to die for this shit
 I'm ready to flip it and end up in prison the rest of my life for this shit
@@ -573,7 +582,9 @@ You know murder's my hobby, inside of my closet's a bunch of dead bodies and shi
 Niggas say that I'm cursed 'cause I go to church and stare at the Bible and shit
 Shawty say I'm the worst cause I do my dirt, and I don't be hiding this shit
 Joyner, wooh!53Embed
+<|EndSong|>
 
+<|BeginSong|>
 Devil’s Work Lyrics[Intro]
 Father, forgive me
 
@@ -674,7 +685,9 @@ Took my mans from me, that forever hurts
 But puttin' the blame on you, that'd never work
 I know this ain't your fault, it's the devil's work
 Devil's work80Embed
+<|EndSong|>
 
+<|BeginSong|>
 Revenge Lyrics[Intro]
 The more that I want, the more that I grind
 The more that I shine, the more that I stride
@@ -818,7 +831,9 @@ Roll up on 'em while he sleep (Doo), catch a nigga slippin'
 I might hit him with the (Bah, bah-bah, bah-bah), they gon' miss him
 'Cause revenge feels sweet (Woo), you gon' see
 Won't nobody say a peep (Bah, bah), you gon' see61Embed
+<|EndSong|>
 
+<|BeginSong|>
 I Love Lyrics[Intro]
 Yeah, yeah, yeah
 
@@ -908,7 +923,9 @@ I love, I love, love, love, love
 I love, I love, love, love, love
 I love, I love, love, love, love
 I love (I love, I love)37Embed
+<|EndSong|>
 
+<|BeginSong|>
 Mask Off (Remix) Lyrics[Intro]
 Uh
 Joyner, Joyner, Joyner
@@ -1067,7 +1084,9 @@ Put an end to you fucker, now what's what?
 How many CDs could a woodchuck chuck
 If he chucked it at every single nigga that sucked?
 What the fuck? Fuck!44Embed
+<|EndSong|>
 
+<|BeginSong|>
 ADHD Lyrics[Intro]
 It kinda feels like, I'm dyin’ on the inside
 It kinda feels like, I been tryna get by
@@ -1145,7 +1164,9 @@ You can't blame me (Blame me)
 It's my ADHD, yeah
 [Outro]
 It kinda feels like, I'm dyin' on the inside51Embed
+<|EndSong|>
 
+<|BeginSong|>
 Look Alive (Remix) Lyrics[Intro]
 All you a lie
 Nigga, I ain't ever been a yes-man
@@ -1269,7 +1290,9 @@ Plenty hammers when I'm ridin' shotty
 Better use your manners when you talk about me
 It ain't hard to find me, motherfucker
 My name Joyner38Embed
+<|EndSong|>
 
+<|BeginSong|>
 Will Lyrics[Intro]
 Hey
 Will
@@ -1371,7 +1394,9 @@ I'm feelin' like Will (Hey), I feel like a prince, I'm feelin' myself (Buck, buc
 I'm loaded with bills (Ooh) 'cause I wasn't blessed with no Uncle Phil (Blah)
 Don't know how it feels (Feels), I wanted to flex, they told me to chill (Chill)
 I'm makin' a flip (Flip), my life is a flick, mm45Embed
+<|EndSong|>
 
+<|BeginSong|>
 Litty (Freestyle) Lyrics[Verse 1]
 What's up with you R&B niggas tryna turn rappers and trappers (Joyner, Joyner)
 You should just stay in your lane, bro, you sound like PaRappa the Rapper (Yeah, yeah)
@@ -1483,7 +1508,9 @@ So now that we got that out the way, hmph
 Let's make a record, nigga
 Hahahahaha
 Joyner46Embed
+<|EndSong|>
 
+<|BeginSong|>
 Panda (Remix) Lyrics[Intro]
 Yeah, yeah, yeah, Joyner, woo, woo
 Ayo I'm tired of this fucking beat
@@ -1553,7 +1580,9 @@ Choke 'em, beat 'em, put a couple hammers on 'em, dab on a nigga while I'm stand
 
 [Outro]
 Like, like, like this (Brra), what?36Embed
+<|EndSong|>
 
+<|BeginSong|>
 Ross Capicchioni Lyrics[Verse 1]
 Woke up at 7, my day seemed more than I prayed for
 Got dressed up to head out and ride to school on my skateboard
@@ -1690,7 +1719,9 @@ He looked at me, I looked him dead in the eyes
 Then I smashed his face with the barrel, and I throw his teeth to the sky
 And then [cocks shotgun] sound of the shotty cock back
 I pressed it hard against his head and blew his fuckin’ top back24Embed
+<|EndSong|>
 
+<|BeginSong|>
 Winter Blues Lyrics[Pre-Chorus]
 Damn I feel so loose, I'm about to pop shit
 What's a man to do when he's out of options
@@ -1801,7 +1832,9 @@ You the last person that should be trying to give advice
 To anybody about anything, let alone my fucking kid
 Acting like some fucking role model or some shit
 Nigga, no nobody wanna be like you, stop it15Embed
+<|EndSong|>
 
+<|BeginSong|>
 Ultrasound Lyrics[Voicemail]
 Yo wassup, this is Joyner
 I'm unable to take your call right now
@@ -1880,7 +1913,9 @@ Get the, fuck, off—of my cock
 Yo wassup, this is Joyner
 I'm unable to take your call right now
 Leave me a brief message and I'll get back to you, peace16Embed
+<|EndSong|>
 
+<|BeginSong|>
 Lotto Lyrics[Intro]
 Mally Mall
 
@@ -1995,7 +2030,9 @@ Gangsters, hustlers, killers follow (Bah-bah)
 I'm the realest nigga, I know (Brrra, brra-brra, ayy)
 I just hit the fuckin' lotto, oh (Ooh)
 I just hit the fuckin' lotto9Embed
+<|EndSong|>
 
+<|BeginSong|>
 If I Told You Lyrics[Verse 1: Joyner Lucas]
 Uh
 What if I told you that I was different?
@@ -2123,7 +2160,9 @@ Duh nuh, duh nuh nuh duh
 Duh nuh, duh nuh nuh duh
 Duh nuh, duh nuh nuh duh
 Duh nuh19Embed
+<|EndSong|>
 
+<|BeginSong|>
 I Lied (Intro) Lyrics[Intro]
 Go
 Buck, buck, buck
@@ -2259,4 +2298,5 @@ I let the money change me, I lied (I let the money change me, I lied) (Buck, buc
 [Outro]
 (Get shot)
 Urgh13Embed
+<|EndSong|>
 

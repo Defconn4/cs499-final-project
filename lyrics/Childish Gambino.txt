@@ -1,3 +1,4 @@
+<|BeginSong|>
 This Is America Lyrics[Intro: Choir]
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, go, go away
@@ -117,7 +118,9 @@ You just a big dawg, yeah
 I kenneled him in the backyard
 No, probably ain't life to a dog
 For a big dog452Embed
+<|EndSong|>
 
+<|BeginSong|>
 Redbone Lyrics[Verse 1]
 Daylight
 I wake up feeling like you won't play right
@@ -181,7 +184,9 @@ How'd it get so scandalous?
 How'd it get so scandalous?
 But stay woke
 But stay woke351Embed
+<|EndSong|>
 
+<|BeginSong|>
 IV. Sweatpants Lyrics[Verse 1: Childish Gambino & Problem]
 Watching haters wonder why Gambino got the game locked (Yeah?)
 Half-Thai thickie, all she wanna do is Bangkok (Yeah?)
@@ -256,7 +261,9 @@ Don't be mad 'cause I'm doing me better than you doing you
 Don't be mad 'cause I'm doing me better than you doing you
 Better than you doing you
 Fuck it, what you gon' do? (What?!)842Embed
+<|EndSong|>
 
+<|BeginSong|>
 V. 3005 Lyrics[Chorus]
 No matter what you say or what you do
 When I'm alone, I'd rather be with you
@@ -352,7 +359,9 @@ Na—na—na, na—na—na—na—na
 We did it! Yay!
 Nigga, you so thirsty
 [Produced by Childish Gambino, Ludwig Göransson, & Stefan Ponce]1.4KEmbed
+<|EndSong|>
 
+<|BeginSong|>
 Bonfire Lyrics[Verse 1]
 Okay, it's Childish Gambino, homegirl drop it like the NASDAQ
 Move white girls like there's coke up my asscrack
@@ -417,7 +426,9 @@ These rappers don't know what to do
 'Cause all I did was act me, like a Looney Tune
 And I'll give you all of me until there’s nothing left
 I swear this summer will be summer Camp, bitch364Embed
+<|EndSong|>
 
+<|BeginSong|>
 Heartbeat Lyrics[Chorus]
 I wanted you to know
 That I am ready to go, heartbeat
@@ -535,7 +546,9 @@ I wish we never fucked, and I mean that
 [Outro]
 But not really
 You say the nastiest shit in bed, and it’s fuckin’ awesome309Embed
+<|EndSong|>
 
+<|BeginSong|>
 Freaks and Geeks Lyrics[Verse 1]
 Alright, Gambino is a mastermind, fuck a bitch to pass the time
 Mass appeal, orange rind, smoke your green, I'm spendin' mine
@@ -602,7 +615,9 @@ Told all you niggas I'm in it to win it
 'Cause havin' an Emmy just wasn't enough
 You get sloppy drunk, I stay whiskey neat
 My clique should be cancelled: Freaks and Geeks272Embed
+<|EndSong|>
 
+<|BeginSong|>
 III. Telegraph Ave. (”Oakland” by Lloyd) Lyrics[Intro: Yesi Ortiz]
 Power 106!
 LA, it's ya girl, Yesi Ortiz
@@ -688,7 +703,9 @@ In Oakland, in Oakland
 In Oakland, in Oakland
 In Oakland, in Oakland
 [Produced by Childish Gambino & Ludwig Göransson]353Embed
+<|EndSong|>
 
+<|BeginSong|>
 I. The Worst Guys Lyrics[Chorus: Chance The Rapper & Childish Gambino]
 All she needed was some (All she needed was some)
 All she needed was some (All she needed was some)
@@ -766,8 +783,10 @@ Oh my God (All she needed was some)
 Know tonight, our neighbors (All she needed was some)
 Are not alone, no, no, no, no, no, no, no
 (All she needed was some)
-[Produced by Childish Gambino & Ludwig Göransson]233Embed
+[Produced by Childish Gambino & Ludwig Göransson]234Embed
+<|EndSong|>
 
+<|BeginSong|>
 Sober Lyrics[Produced by Ludwig Göransson]
 
 [Chorus]
@@ -825,7 +844,9 @@ But now I'm so high
 But now I'm so high
 But now I'm so high
 But now I'm so high...276Embed
+<|EndSong|>
 
+<|BeginSong|>
 Me and Your Mama Lyrics[Intro]
 I'm in love when we are smoking that la-la-la-la-la
 I'm in love when we are smoking that la-la-la-la-la
@@ -874,7 +895,9 @@ I'm in love when we are smokin' that
 Oh my God, I
 Let me in
 Girl you really got a hold, woo!134Embed
+<|EndSong|>
 
+<|BeginSong|>
 You See Me Lyrics[Hook]
 I'm on my ballin' each and every day
 Asian girls everywhere, UCLA
@@ -950,7 +973,9 @@ Nah nigga, yeah, we never stop
 No period like menopause
 No period like, "Oh shit! Am I the only one you sleepin' with?"
 "Am I the only one you sleepin' with?"91Embed
+<|EndSong|>
 
+<|BeginSong|>
 II. Zealots of Stockholm [Free Information] Lyrics[Intro: Childish Gambino]
 When we were coming down, they said it was too soon
 I never had to lie, no, no, no, no
@@ -1032,7 +1057,9 @@ Getting next level in a hotel
 Ain't shit that we don’t need, nigga, oh well
 
 [Produced by Childish Gambino, Ludwig Göransson & Sam Spiegel]157Embed
+<|EndSong|>
 
+<|BeginSong|>
 I. Crawl Lyrics[Intro: Mystikal]
 Say it (Hit 'em), goddamn!
 (Hit 'em) Goddamn! (Hit 'em) Goddamn!
@@ -1117,8 +1144,10 @@ Where we were, kinda thing
 Betcha crawl, all alone
 Where we were, kinda thing
 Betcha crawl, all alone
-[Produced by Childish Gambino & Christian Rich]159Embed
+[Produced by Childish Gambino & Christian Rich]160Embed
+<|EndSong|>
 
+<|BeginSong|>
 Feels Like Summer Lyrics[Chorus]
 You can feel it in the streets
 On a day like this, the heat
@@ -1180,7 +1209,9 @@ I'm hoping that this world will change
 But it just seems the same
 I know
 Oh, I hope we change66Embed
+<|EndSong|>
 
+<|BeginSong|>
 II. Worldstar Lyrics[Intro]
 "Ooh!"—"Damn!"
 "Fuck outta here, dawg"—"Ooh!"
@@ -1253,7 +1284,9 @@ We don't wanna be on (Worldstar! Worldstar!)
 And all I wanna be is a–
 
 [Produced by Childish Gambino & Ludwig Göransson]158Embed
+<|EndSong|>
 
+<|BeginSong|>
 III. Life: The Biggest Troll [Andrew Auernheimer] Lyrics[Intro]
 I'm fly
 
@@ -1364,7 +1397,9 @@ Please help me
 Please help me
 Please, please help me
 Please—155Embed
+<|EndSong|>
 
+<|BeginSong|>
 Do Ya Like Lyrics[Intro: Adele]
 Words that I made up, you say my name like-
 Words that I made up, you say my name like-
@@ -1467,7 +1502,9 @@ Words that I made up, you say my name like-
 Words that I made up, you say my name like-
 Words that I made up, you say my name like-
 Words that I made up, you say my name like-46Embed
+<|EndSong|>
 
+<|BeginSong|>
 That Power Lyrics[Chorus]
 All these haters, see you later
 All that I could do, but you don't even feel me though
@@ -1612,7 +1649,9 @@ I wish I could say this was a story about how I got on the bus a boy
 And got off a man more cynical, hardened, and mature and shit
 But that's not true. The truth is I got on the bus a boy. And I never got off the bus
 I still haven't73Embed
+<|EndSong|>
 
+<|BeginSong|>
 L.E.S. Lyrics[Chorus]
 Baby, you're the baddest
 Baby, you're the baddest girl, and, uh
@@ -1737,4 +1776,5 @@ We're kissing in the bathroom
 We're kissing in the bathroom girl, and, uh
 I hope nobody catch us
 But I kinda hope they catch us, anyway88Embed
+<|EndSong|>
 

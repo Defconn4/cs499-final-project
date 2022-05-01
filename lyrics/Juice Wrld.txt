@@ -1,3 +1,4 @@
+<|BeginSong|>
 Lucid Dreams Lyrics[Intro]
 Enviyon on the mix
 No, no, no, no
@@ -79,7 +80,9 @@ Easier said than done, I thought you were—
 —instead of my head
 You found another— better one
 I won't let you forget me505Embed
+<|EndSong|>
 
+<|BeginSong|>
 All Girls Are the Same Lyrics[Intro]
 Mhm, they're rotting my brain, love
 These hoes are the same
@@ -128,7 +131,9 @@ Now I am insane, demons in my brain, love
 Peace I can't attain 'cause all these girls the same, love
 Now I am insane, demons in my brain, love
 Peace I can't attain 'cause all these girls the same, love229Embed
+<|EndSong|>
 
+<|BeginSong|>
 Wishing Well Lyrics[Intro]
 Mm-mm, mm-mm-mm-mm, mm-mm-mm, uh
 I can't breathe (Chopsquad), I can't breathe, 999
@@ -194,7 +199,9 @@ It's stress on my shoulders like a anvil
 Perky got me itching like a anthill
 Drugs killing me softly, Lauryn Hill
 Sometimes I don't know how to feel214Embed
+<|EndSong|>
 
+<|BeginSong|>
 Robbery Lyrics[Intro]
 Man, what? (Haha)
 This shit funny, one sec
@@ -264,7 +271,9 @@ Now I'm digging up a grave from my past
 I'm a whole different person (I'm a whole different person)
 It's a gift and a curse (It's a gift and a curse)
 But I cannot reverse it276Embed
+<|EndSong|>
 
+<|BeginSong|>
 Legends Lyrics[Intro]
 I usually don't speak on shit like this, but
 Ain't nobody else saying shit
@@ -316,7 +325,9 @@ All legends fall in the making, yeah, sorry truth, uh
 Dying young, uh, demon youth
 [Outro]
 Daytrip took it to ten (Hey)251Embed
+<|EndSong|>
 
+<|BeginSong|>
 Righteous Lyrics[Intro]
 I will (I will)
 I will (I will)
@@ -379,8 +390,10 @@ Holes in my skull, over time
 My heart's over ice (Woah)
 
 [Outro]
-I will sing231Embed
+I will sing232Embed
+<|EndSong|>
 
+<|BeginSong|>
 Lean wit Me Lyrics[Intro]
 Drugs got me sweatin', but the room gettin' colder
 Lookin' at the devil and the angel on my shoulder
@@ -446,8 +459,10 @@ Fucked up liver with some bad kidneys (Bad kidneys)
 [Outro]
 Oh-oh
 Oh-oh-oh
-Oh-oh-oh164Embed
+Oh-oh-oh165Embed
+<|EndSong|>
 
+<|BeginSong|>
 Wasted Lyrics[Intro: Juice WRLD & Lil Pump]
 Yeah, no, no, no
 No, no, no, uh
@@ -558,7 +573,9 @@ Wasted
 
 [Outro: Juice WRLD]
 Wasted, wasted, wasted, wasted67Embed
+<|EndSong|>
 
+<|BeginSong|>
 Empty Lyrics[Chorus]
 From the unknown
 I ran away, I don't think I'm coming back home
@@ -640,7 +657,9 @@ Empty, I feel so goddamn empty
 I may go rogue
 Don't tempt me, big bullet holes
 Tote semi-autos108Embed
+<|EndSong|>
 
+<|BeginSong|>
 Armed and Dangerous Lyrics[Intro]
 Gun 'em down (Gun 'em down, bih, yeah)
 With a .50 (With a .50, brr, bih', brr)
@@ -710,7 +729,9 @@ Look at my bank account (You dig? Ooh)
 Look at the cash amount (You dig? Skrrt, uh)
 I get the cash, I'm out (Look, uh)
 I just be cashin' out (You dig? Skrr)96Embed
+<|EndSong|>
 
+<|BeginSong|>
 Blood On My Jeans Lyrics[Intro]
 Ah
 Damn, I tried to stop, oh
@@ -772,7 +793,9 @@ Chopper on me, I don't talk, I just up the beam
 Huh, let my gun bust a nut, then leave (Yeah)
 I ain't leave a clue on the scene
 Close range, so I got blood on my jeans89Embed
+<|EndSong|>
 
+<|BeginSong|>
 Cigarettes Lyrics[Intro]
 Na-na-na-na-na-na-na, oh, oh
 
@@ -864,7 +887,9 @@ I don't wan' be lonely no more, oh
 I don't wan' be lonely no more, oh
 I don't wan' be lonely no more, oh
 I don't wan' be lonely no more, oh169Embed
+<|EndSong|>
 
+<|BeginSong|>
 Conversations Lyrics[Intro]
 Oh my God, Ronny
 
@@ -923,7 +948,9 @@ Chillin' in my head, but it's hot
 Flames everywhere, I see Satan
 Demons tryna run up in my spot a lot
 Really, really runnin' out of patience89Embed
+<|EndSong|>
 
+<|BeginSong|>
 Let Me Know (I Wonder Why Freestyle) Lyrics[Intro]
 Enviyon on the mix
 
@@ -982,8 +1009,10 @@ I wonder why, I, I wonder why, yeah
 Just feel the vibes, just, just feel the vibes (Vibes)
 I wonder why, I, I wonder why, yeah
 Just feel the vibes, just, just feel the vibes (Vibes)
-Just feel the vibes, just, just feel the vibes (Vibes)59Embed
+Just feel the vibes, just, just feel the vibes (Vibes)61Embed
+<|EndSong|>
 
+<|BeginSong|>
 Sometimes Lyrics[Pre-Chorus]
 Sometimes, sometimes, sometimes
 Sometimes, sometimes, sometimes
@@ -1007,7 +1036,7 @@ Inhale, exhale, breathing just got a little harder
 I mean well, I mean well
 All's well, it ends well
 Inhale, exhale
-Losing my sanity, probably
+Losing my sanity, prolly
 I'll see you in hell
 Yeah, I'ma meet you there
 As of lately, my demons, they bother me
@@ -1017,7 +1046,7 @@ I fell into the pit and it's bottomless
 They want my soul but it isn’t my property
 Try to take it from me, demonic robbery
 Crazy the way that the devil’ll lie to me
-Just leave me alone, I could do better on my own
+Just leave me alone, I could do bad on my own
 I get high off my ass on my own
 Paranoia is strong
 What if she don't love me no more?
@@ -1075,7 +1104,9 @@ I hate the world we know, oh, oh, oh
 There ain't no place like home
 I wanna go back home
 I hate the world we know52Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​moonlight Lyrics[Intro]
 Yeah, mhm-mm
 Mhm
@@ -1159,7 +1190,9 @@ Chance, don't stand a chance
 In the moonlight, no
 We throw them hands, we throw them hands
 In the moonlight, no, oh51Embed
+<|EndSong|>
 
+<|BeginSong|>
 Fast Lyrics[Intro]
 (Play it one more time)
 
@@ -1241,7 +1274,9 @@ Fucking with my money, you get gone like that, yeah
 [Outro]
 This is fire, hahaha, yeah
 This is fire59Embed
+<|EndSong|>
 
+<|BeginSong|>
 Rich and Blind Lyrics[Intro]
 Daytrip took it to ten (Hey!)
 Fine, fine
@@ -1322,7 +1357,63 @@ Blind, blind, blind
 
 [Outro]
 Daytrip took it to ten (Hey!)75Embed
+<|EndSong|>
 
+<|BeginSong|>
+Burn Lyrics[Intro]
+(If young Metro don't trust you— trust you)
+
+[Verse 1]
+I can't take one Percocet, start tonight off, I just took a 60
+Burberry on me, shoot you in your back, you just got Pretty Ricky
+I tie the Chanel runners, then I get back to running the city
+And I know that it's hell coming, I ain't worried, my niggas, they with me
+Gotta put the narcotics down, I can feel 'em fucking up my kidney
+And punching my liver
+If I let it kill me, my mama'll never forgive me
+Ain't numbing my feelings, if I let it kill 'em, my baby will never forgive me
+This remind me of hell, sometimes I wonder if that's where God really sent me
+
+[Chorus]
+Hands up in the fire, burn, burn, burn, burn
+Hands up in the fire, burn, burn, burn, burn
+I pray to God for some water to wash down these Percs
+I been cursed since birth, guess I never learn
+Hands up in the fire, burn, burn, burn, burn
+Hands up in the fire, burn, burn, burn, burn
+I pray to God for some water to wash down these Percs
+I been cursed since birth, guess I never learn
+[Verse 2]
+The truth hurts, let it bleed out, if they hurt you, let 'em leave
+My heart hurtin', let me bleed out, only way I'll find peace
+I'm tryna get set free, but these chains on me
+Choke me, I can't breathe, what's reality?
+Uh, detached from myself
+Uh-huh, numb the pain with my wealth
+Uh, a bag from Chanel match the double C on my belt, uh
+Bands in my pants, I barely be holdin' my pants up
+But the money ain't the answer
+I'm just tryna reach some new highs
+Mix this with that, bet it feel nice
+Codeine, only sip if I got ice
+Look my girl in her eyes, tell her I won't die
+I fell asleep too deep that one time
+Woke up to your cry, girl, I'm fine
+But I lied
+Had a dream, I wasn't gon' wake up this time
+
+[Chorus]
+Hands up in the fire, burn, burn, burn, burn
+Hands up in the fire, burn, burn, burn, burn
+I pray to God for some water to wash down these Percs
+I been cursed since birth, guess I never learn
+Hands up in the fire, burn, burn, burn, burn
+Hands up in the fire, burn, burn, burn, burn
+I pray to God for some water to wash down these Percs
+I been cursed since birth, guess I never learn126Embed
+<|EndSong|>
+
+<|BeginSong|>
 Black & White Lyrics[Chorus]
 I'm in my black Benz, ah
 Doing cocaine with my black friends, ah
@@ -1390,56 +1481,5 @@ Before the night begins (Woah)
 [Outro]
 Before the night begins
 Before the night begins48Embed
-
-Burn Lyrics[Intro]
-(If young Metro don't trust you— trust you)
-
-[Verse 1]
-I can't take one Percocet, start tonight off, I just took a 60
-Burberry on me, shoot you in your back, you just got Pretty Ricky
-I tie the Chanel runners, then I get back to running the city
-And I know that it's hell coming, I ain't worried, my niggas, they with me
-Gotta put the narcotics down, I can feel 'em fucking up my kidney
-And punching my liver
-If I let it kill me, my mama'll never forgive me
-Ain't numbing my feelings, if I let it kill 'em, my baby will never forgive me
-This remind me of hell, sometimes I wonder if that's where God really sent me
-
-[Chorus]
-Hands up in the fire, burn, burn, burn, burn
-Hands up in the fire, burn, burn, burn, burn
-I pray to God for some water to wash down these Percs
-I been cursed since birth, guess I never learn
-Hands up in the fire, burn, burn, burn, burn
-Hands up in the fire, burn, burn, burn, burn
-I pray to God for some water to wash down these Percs
-I been cursed since birth, guess I never learn
-[Verse 2]
-The truth hurts, let it bleed out, if they hurt you, let 'em leave
-My heart hurtin', let me bleed out, only way I'll find peace
-I'm tryna get set free, but these chains on me
-Choke me, I can't breathe, what's reality?
-Uh, detached from myself
-Uh-huh, numb the pain with my wealth
-Uh, a bag from Chanel match the double C on my belt, uh
-Bands in my pants, I barely be holdin' my pants up
-But the money ain't the answer
-I'm just tryna reach some new highs
-Mix this with that, bet it feel nice
-Codeine, only sip if I got ice
-Look my girl in her eyes, tell her I won't die
-I fell asleep too deep that one time
-Woke up to your cry, girl, I'm fine
-But I lied
-Had a dream, I wasn't gon' wake up this time
-
-[Chorus]
-Hands up in the fire, burn, burn, burn, burn
-Hands up in the fire, burn, burn, burn, burn
-I pray to God for some water to wash down these Percs
-I been cursed since birth, guess I never learn
-Hands up in the fire, burn, burn, burn, burn
-Hands up in the fire, burn, burn, burn, burn
-I pray to God for some water to wash down these Percs
-I been cursed since birth, guess I never learn126Embed
+<|EndSong|>
 

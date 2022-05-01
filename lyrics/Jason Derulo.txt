@@ -1,3 +1,4 @@
+<|BeginSong|>
 Swalla Lyrics[Intro: Nicki Minaj]
 Drank
 Young Money
@@ -92,7 +93,9 @@ My freaky, freaky gyal
 Swalla-la-la
 My freaky, freaky gyal
 Derulo48Embed
+<|EndSong|>
 
+<|BeginSong|>
 Talk Dirty Lyrics[Intro: Jason Derulo & Rie Abe]
 Jason, haha
 Jason Derulo
@@ -168,7 +171,9 @@ Ooh, oh, yeah
 Get Jazzy on 'em
 [Outro: Rie Abe]
 What? I don't understand292Embed
+<|EndSong|>
 
+<|BeginSong|>
 Wiggle Lyrics[Intro: Jason Derulo & Snoop Dogg]
 Ayo, Jason
 (Oh, yeah?)
@@ -248,7 +253,9 @@ Love it when you do it like that
 With no hands, baby, make it clap
 Baby, make it clap, clap, clap (Like, swing!)
 Damn, baby, you got a bright future behind you168Embed
+<|EndSong|>
 
+<|BeginSong|>
 Whatcha Say Lyrics[Intro]
 Wha-wha-wha-wha-what did you say?
 (J-J-J-J-J.R.)
@@ -347,7 +354,9 @@ Wha-wha-wha-wha-what did you say?
 
 [Outro]
 (Beluga Heights)32Embed
+<|EndSong|>
 
+<|BeginSong|>
 Trumpets Lyrics[Chorus]
 Every time that you get undressed
 I hear symphonies in my head
@@ -409,7 +418,9 @@ Da-da, da-ra-ra da, da, da (They go, oh, yeah, oh)
 Da, ra, ra, ra, da, da (C'mon, c'mon, c'mon)](2959868)
 They go
 [Video by Jason Derulo and Colin Tilley]136Embed
+<|EndSong|>
 
+<|BeginSong|>
 Tip Toe Lyrics[Intro: Jason Derulo & Soaky Siren]
 Derulo
 Whine fa me darlin'
@@ -502,7 +513,9 @@ Way you move ya spine is alarmin' (oh yeah)
 Mi wan you just whine fa me, darlin' (oh yeah)
 One-time, two-time for the DJ
 Tip toe14Embed
+<|EndSong|>
 
+<|BeginSong|>
 Want to Want Me Lyrics[Intro]
 Derulo
 
@@ -571,7 +584,9 @@ Ooh-ooh-ooh-ooh-ooh-ooh
 Baby, just to get up next to you
 Ooh-ooh-ooh-ooh-ooh-ooh
 Oh, get up, get up75Embed
+<|EndSong|>
 
+<|BeginSong|>
 If I’m Lucky Lyrics[Verse 1]
 Woo, who are you to say, that I didn't love you?
 'Cause I didn't love the way you wanted
@@ -632,7 +647,9 @@ Uh, I'll get your loving (yeah)
 I'm selfish for you (ooh, ooh, woah, I'm)
 I'm selfish for you (selfish, ooh)
 And only you, baby9Embed
+<|EndSong|>
 
+<|BeginSong|>
 Marry Me Lyrics[Intro]
 Ooh, oh
 Oh, yeah, mmmm
@@ -699,7 +716,9 @@ A hundred and five is the number that comes to my head
 When I think of all the years I want to be with you
 Wake up every morning with you in my bed
 That's precisely what I plan to do35Embed
+<|EndSong|>
 
+<|BeginSong|>
 Take You Dancing Lyrics[Intro]
 Da-da-da-da-da-da
 Da-da-da-da-da-da
@@ -796,7 +815,9 @@ Da-da-da-da-da-da
 Da-da-da-da-da-da (All night)
 Da-da-da-da-da-da
 Da-da-da-da-da-da (Dancin')8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Colors Lyrics[Verse 1]
 Oh, what a feeling
 Look what we've overcome
@@ -880,7 +901,9 @@ Hands up for your colors
 Represent your country
 Raise your flag
 Show your true colors5Embed
+<|EndSong|>
 
+<|BeginSong|>
 Get Ugly Lyrics[Produced by Wallpaper]
 
 [Intro]
@@ -982,7 +1005,9 @@ Diddily, diddily, diddily, diddily (Ooh)
 You're so sexy
 Diddily, diddily, diddily, diddily
 Damn, that's ugly13Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Other Side Lyrics[Prod. by Joshua "Ammo" Coleman and Martin Johnson]
 [Verse 1]
 In the beginning
@@ -1066,7 +1091,9 @@ Oh oh oh oh oh oh oh
 And take me to the other side
 [Outro]
 Jason Derulo17Embed
+<|EndSong|>
 
+<|BeginSong|>
 I’m Han Solo Lyrics[Intro]
 Mmm, yeah
 Mmm, yeah
@@ -1151,7 +1178,9 @@ I'm lovin' Cloud City, my head's in the sky
 I'm Solo, I’m Han Solo
 I'm Han Solo, I'm Han Solo, Solo
 (So-so-so-so-solo)2Embed
+<|EndSong|>
 
+<|BeginSong|>
 It Girl Lyrics[Intro]
 Oh yeah
 Oh yeah
@@ -1230,7 +1259,9 @@ Oh oh oh oh oh oh oh oh oh oh
 Everybody in the crowd let me hear you singing like
 Oh oh oh oh oh oh oh oh oh oh
 This is it, girl26Embed
+<|EndSong|>
 
+<|BeginSong|>
 Ridin’ Solo Lyrics[Intro]
 Mmm, yeah, yeah
 Yeah, yeah, yeah
@@ -1318,7 +1349,9 @@ I'm solo, I'm riding solo
 I'm riding solo, I'm riding solo, solo
 I'm riding, I'm riding solo, solo, woah
 I'm riding solo, solo24Embed
+<|EndSong|>
 
+<|BeginSong|>
 In My Head Lyrics[Intro]
 Jason Derulo
 (Beluga Heights)
@@ -1388,7 +1421,9 @@ In my head, you'll be screaming loud (Oh, oh)
 In my head, it's going down (In my head)
 In my head, it's going down
 It's going down in my head8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Cheyenne Lyrics[Intro]
 Cheyenne, Cheyenne
 
@@ -1465,7 +1500,9 @@ I never meant to fall in love (Cheyenne)
 I never meant to fall in lo-ove
 [Outro]
 Cheyenne14Embed
+<|EndSong|>
 
+<|BeginSong|>
 Bubblegum Lyrics[Intro]
 Give it to me
 
@@ -1547,7 +1584,9 @@ She just wanna pop pop pop pop pop pop pop pop pop that bubblegum (yeah, woo)
 She just wanna pop pop pop pop pop pop pop pop pop that bubblegum (pop it, pop it, woo)
 If she keeps blowing, it might explode, never seen a girl like you before (yeah, before)
 She just wanna pop pop pop pop pop pop pop pop pop that bubblegum (woo)17Embed
+<|EndSong|>
 
+<|BeginSong|>
 If It Ain’t Love Lyrics[Intro]
 (Could use a little love)
 (Why can't you get enough?)
@@ -1675,4 +1714,5 @@ Why does it feel so good?
 (Why can't you get enough?)
 (Could use, could use a little love)
 (Why can't you get enough?)2Embed
+<|EndSong|>
 

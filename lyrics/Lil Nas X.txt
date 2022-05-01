@@ -1,3 +1,4 @@
+<|BeginSong|>
 Old Town Road (Remix) Lyrics[Intro: Billy Ray Cyrus]
 Oh, oh-oh
 Oh
@@ -57,8 +58,10 @@ I wanna ride 'til I can't no more
 Yeah, I'm gonna take my horse to the old town road
 I'm gonna ride 'til I can't no more
 I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more335Embed
+I'm gonna ride 'til I can't no more336Embed
+<|EndSong|>
 
+<|BeginSong|>
 Old Town Road Lyrics[Intro]
 Yeah, I'm gonna take my horse to the old town road
 I'm gonna ride 'til I can't no more
@@ -102,7 +105,9 @@ I'm gonna ride 'til I can't no more
 I'm gonna take my horse to the old town road
 I'm gonna ride 'til I can't no more
 I got the hor-134Embed
+<|EndSong|>
 
+<|BeginSong|>
 MONTERO (Call Me By Your Name) Lyrics[Verse 1]
 I caught it bad yesterday
 You hit me with a call to your place
@@ -159,7 +164,9 @@ Oh, call me by your name (Mmm, mmm, mmm)
 Tell me you love me in private
 Call me by your name (Mmm, mmm, mmm)
 I do not care if you're lyin'329Embed
+<|EndSong|>
 
+<|BeginSong|>
 Panini Lyrics[Intro: Nessly]
 D-D-Daytrip took it to ten (Hey)
 
@@ -202,7 +209,9 @@ Just say to me what you want from me
 
 [Outro: Nessly]
 D-D-Daytrip took it to ten (Hey)82Embed
+<|EndSong|>
 
+<|BeginSong|>
 HOLIDAY Lyrics[Intro]
 T-T-Tay Keith, Took it to ten (Hey)
 
@@ -268,7 +277,9 @@ They gon' know us today, yeah
 [Outro]
 Tay Keith, fuck these niggas up
 Daytrip took it to ten (Hey)84Embed
+<|EndSong|>
 
+<|BeginSong|>
 THATS WHAT I WANT Lyrics[Intro]
 One, two, three, four
 
@@ -324,8 +335,10 @@ I need someone who needs me
 'Cause it don't feel right when it's late at night
 And it's just me in my dreams
 So I want someone to love
-That's what I fuckin' want65Embed
+That's what I fuckin' want66Embed
+<|EndSong|>
 
+<|BeginSong|>
 C7osure (You Like) Lyrics[Chorus]
 True say, I want and I need
 To let go, use my time to be free
@@ -360,7 +373,9 @@ Ain't no more actin', man, that forecast say I should just let me grow
 No more red light for me, baby, only green, I gotta go
 Pack my past up in the back, oh, let my future take ahold
 This is what I gotta do, can't be regrettin' when I'm old24Embed
+<|EndSong|>
 
+<|BeginSong|>
 SUN GOES DOWN Lyrics[Chorus]
 I wanna run away
 Don't wanna lie, I don't want a life
@@ -415,7 +430,9 @@ And people who threw dirt on your name
 
 [Outro]
 Ha-ah, ha-ah, no-ah63Embed
+<|EndSong|>
 
+<|BeginSong|>
 Old Town Road (Young Thug & Mason Ramsey Remix) Lyrics[Intro: Billy Ray Cyrus & Young Thug]
 Yeehaw
 Oh, oh-oh
@@ -484,7 +501,9 @@ I'm gonna ride 'til I can't no more
 
 [Outro: Young Thug]
 Yeehaw30Embed
+<|EndSong|>
 
+<|BeginSong|>
 Old Town Road (Seoul Town Road Remix) Lyrics[Intro: RM]
 Yeah, I'm gonna take my horse to the Seoul town road
 I'm gonna ride 'til I can't no more
@@ -526,7 +545,9 @@ Yeah, I'm gonna take my horse to the Seoul town road
 I'm gonna ride 'til I can't no more
 I'm gonna take my horse to the Seoul town road
 I'm gonna ride 'til I can't no more10Embed
+<|EndSong|>
 
+<|BeginSong|>
 SCOOP Lyrics[Pre-Chorus: Lil Nas X]
 I been workin' on my body
 You ever seen a nigga hit pilates? (Ah)
@@ -599,7 +620,9 @@ Shit, I been workin' on my body, yeah (I been workin' on my body)
 Workin' overtime to make sure I'll be the scoop
 They gon' know me, scoop
 Well, baby (D-D-Daytrip took it to ten, hey)25Embed
+<|EndSong|>
 
+<|BeginSong|>
 DEAD RIGHT NOW Lyrics[Verse 1]
 Breaker, breaker, 911, somebody come get this bitch
 Thinkin' you a star on the rise, you got time to reply
@@ -674,7 +697,9 @@ Treat you like you're dead right now
 I'm on your head right now
 You wanna fuck with me so bad right now
 Well, now you can't right now, oh, oh, oh20Embed
+<|EndSong|>
 
+<|BeginSong|>
 ONE OF ME Lyrics[Chorus: Lil Nas X]
 I like this, I don't like that
 Do this here, don't you do that
@@ -728,7 +753,9 @@ Oh, oh, oh
 Oh, oh, oh
 Oh, oh, oh
 Oh, oh, oh20Embed
+<|EndSong|>
 
+<|BeginSong|>
 DOLLA SIGN SLIME Lyrics[Intro: Nessly]
 D-D-Daytrip took it to ten (Hey)
 
@@ -796,7 +823,9 @@ I'm the same dollar sign slime (Same slime), they gon' hear me
 I'm the same dollar sign slime (Same slime), they gon' feel me
 I'm the same dollar sign slime, yeah
 I'm the same dollar sign slime, yeah, yeah, yeah, yeah, yeah7Embed
+<|EndSong|>
 
+<|BeginSong|>
 TALES OF DOMINICA Lyrics[Pre-Chorus]
 Woke up on the floor
 Oh, this plastic bed don't blow up no more
@@ -844,7 +873,9 @@ Can't go running back to home, I can't face her face
 [Outro]
 Ooh
 Ooh15Embed
+<|EndSong|>
 
+<|BeginSong|>
 LOST IN THE CITADEL Lyrics[Intro]
 Tell me, are you feeling down?
 Are you happy, do your dreams still seem inbound?
@@ -900,7 +931,9 @@ Tell me, are you feeling down?
 Are you happy, do your dreams still seem inbound?
 Tell me, are we finished now?
 'Cause every time you leave you find a way to come back around20Embed
+<|EndSong|>
 
+<|BeginSong|>
 DONT WANT IT Lyrics[Intro]
 La, la
 La, la
@@ -952,7 +985,9 @@ Woah, oh
 Woah, oh
 Woah, oh
 Woah, oh12Embed
+<|EndSong|>
 
+<|BeginSong|>
 VOID Lyrics[Verse 1]
 Hello, old friend from the road
 I wanted to write a note
@@ -1012,7 +1047,9 @@ Away from home
 Oh, oh
 Today, I'm gonna run away
 Today, I'm gonna run away13Embed
+<|EndSong|>
 
+<|BeginSong|>
 AM I DREAMING Lyrics[Verse 1: Lil Nas X]
 Every song, every dream filled with hell from beyond
 As I'm sinking, I relive the story
@@ -1042,8 +1079,10 @@ Like I'm your favorite song
 I'm fadin' (Fadin'), replayin' (Mmm)
 These thoughts I thought while sinking down
 Oh-oh-oh, never forget me
-And everything I've done23Embed
+And everything I've done24Embed
+<|EndSong|>
 
+<|BeginSong|>
 Kick It Lyrics[Intro]
 Bizness Boi
 
@@ -1091,4 +1130,5 @@ See if you want it, Nas, I got it, nigga, we should go and kick it
 See you on the move, but we was cool, now don't forget it
 Oh come, get weed from me
 It's good34Embed
+<|EndSong|>
 

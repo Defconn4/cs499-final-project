@@ -1,3 +1,4 @@
+<|BeginSong|>
 Betrayed Lyrics[Intro]
 Huh, ayy (Yeah)
 You are now listening to a Bobby Johnson beat
@@ -70,7 +71,9 @@ Xans gon' take you
 Yeah, Xans gon'
 Xans' gon take you
 Ayy, Xans gon' take you150Embed
+<|EndSong|>
 
+<|BeginSong|>
 Slingshot Lyrics[Intro]
 You are now listening to a Bobby Johnson beat
 Yeah, ayy
@@ -114,7 +117,9 @@ Fuck that bitch like wha, yeah
 
 [Outro]
 Out the booth34Embed
+<|EndSong|>
 
+<|BeginSong|>
 Far Lyrics[Intro]
 (Ear Drummers)
 Haha, yeah, ooh
@@ -169,7 +174,9 @@ Crashed the whip, I'll see you later
 My whip red, it stay Darth Vader
 Crashed the whip, I'll see you later
 My whip red, it stay Darth Vader42Embed
+<|EndSong|>
 
+<|BeginSong|>
 Xanarchy Lyrics[Chorus]
 What? Ayy
 Movin' Xan n' dope, ayy, what? (Xanarchy, huh)
@@ -229,7 +236,9 @@ We out here
 Ayy, join the wave, bitch
 ...
 I wan' kill myself, bitch14Embed
+<|EndSong|>
 
+<|BeginSong|>
 Lies Lyrics[Intro]
 (Yeah-eah)
 Yeah, ugh (Prrra-)
@@ -321,7 +330,9 @@ Yeah, ayy, oh
 Yeah, ayy, oh
 Out the booth, out the booth, out the booth
 Yeah!15Embed
+<|EndSong|>
 
+<|BeginSong|>
 Who Are You Lyrics[Intro]
 Ayy, ayy
 
@@ -393,7 +404,9 @@ I'm out here fuckin' bitches though, who are you?
 I'm out here gettin' riches though, who are you?
 I'm out here fuckin' bitches though, who are you?
 I'm out here gettin' riches though, who are you?15Embed
+<|EndSong|>
 
+<|BeginSong|>
 Wake Up Lyrics[Intro]
 (Prra!), Ayy (Ooh)
 Huh, huh
@@ -461,7 +474,9 @@ Ayy, I wake up, I throw up, I feel like I'm dead
 Ayy, I wake up, I throw up, I feel like I'm dead
 Ayy, I wake up, I throw up, I feel like I'm dead
 Ayy, I wake up, I throw up, I feel like I'm dead12Embed
+<|EndSong|>
 
+<|BeginSong|>
 Moonlight Lyrics[Intro: Lil Xan]
 (Ear Drummers)
 Yeah, ayy, brrr
@@ -553,7 +568,9 @@ Oh, oh, oh
 Fall in love and then we let it go
 Always love the things I lose the most, yeah
 Hop in the ride, ruh, ruh14Embed
+<|EndSong|>
 
+<|BeginSong|>
 Deceived Lyrics[Intro]
 Yeah, oh
 Yeah, you know
@@ -614,7 +631,9 @@ All my friends are enemies
 All my friends are enemies
 All my friends are ene- yeah
 Out the booth, bitch15Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Man Lyrics[Intro: Lil Xan]
 I'm gonna mute you just for a second, while I do this but I'm gonna keep it on
 Okay
@@ -688,7 +707,9 @@ Like what's up
 [Outro: Lil Xan]
 What's up, ayy, ayy
 What's up, ayy, ayy7Embed
+<|EndSong|>
 
+<|BeginSong|>
 Been Bout it Lyrics[Intro]
 Kickin' in doors for kilos, not no motherfucking petty crimes
 Kickin' in doors for kilos, not no motherfucking petty crimes
@@ -734,7 +755,9 @@ Kickin' in doors for kilos, not no motherfucking petty crimes
 Kickin' in doors for kilos, not no motherfucking petty crimes
 Kickin' in doors for kilos, not no motherfucking petty crimes
 Kickin' in doors for kilos, not no motherfucking petty crimes4Embed
+<|EndSong|>
 
+<|BeginSong|>
 Pink Roses Lyrics[Chorus]
 Ayy, yeah, Pink Roses, Pink Roses
 Ayy, yeah, Pink Roses, Pink Roses
@@ -779,7 +802,9 @@ Ayy, yeah, Pink Roses, Pink Roses
 Ayy, yeah, Pink Roses, Pink Roses
 Yeah, ayy, Pink Roses, Pink Roses
 Yeah, ayy, Pink Roses, Pink Roses1Embed
+<|EndSong|>
 
+<|BeginSong|>
 No Love Lyrics[Intro]
 Yeah, ayy, wha? yeah
 
@@ -836,7 +861,9 @@ You don't want me ho (Yeah, yeah)
 Out the booth, out the booth, ayy, I'm out the booth
 Haha, oh, fuck yeah, Xanarchy gang bitch
 Xanarchy5Embed
+<|EndSong|>
 
+<|BeginSong|>
 Who I Am Lyrics[Chorus]
 Xans don't make me what I am (Woah)
 Xans gon' mess up all my friends (Yeah, woah)
@@ -912,7 +939,9 @@ Xans don't make me what I am (Pew, pew, pew, pew, woah)
 Xans gon' mess up all my friends (Pew, pew, pew, pew, yeah, woah)
 Fans go nuts when we jump in (Pew, pew, pew, pew, yeah, woah)
 Xans don't make me who I am  (Pew, pew, pew, pew, woah)5Embed
+<|EndSong|>
 
+<|BeginSong|>
 Basically Lyrics[Intro]
 Yeah, ayy, what, ayy, um
 You are now listening to a Bobby Johnson beat
@@ -970,7 +999,9 @@ Friends seem distant
 I might just go missin'
 [Outro]
 Xanarchy7Embed
+<|EndSong|>
 
+<|BeginSong|>
 Sorry LyricsShawty I don't need you hey
 Blessed up riding in that new coupe ayy
 Boss bitch all she need is a king ayy
@@ -1043,7 +1074,9 @@ Blessed up shawty I don't need you ayy
 I'm blessed up riding in that new coupe ayy skrt skrt skrt
 Boss bitch all she need is a king ayy
 Poor bitch she work at Burger King (I'm sorry)Embed
+<|EndSong|>
 
+<|BeginSong|>
 Tick Tock Lyrics[Intro: Lil Xan]
 Xanarchy
 I'ma just do concepts
@@ -1112,7 +1145,9 @@ Tick (What?), Tock (Tock, yeah)
 Tick (Tick), Tock (Tock)
 I got Gucci flip flops, ayy (Brr, flip, flip, flip, flip, ayy, yeah)
 I got tick, tock, diamonds, big rocks, yeah (Brr, ayy)6Embed
+<|EndSong|>
 
+<|BeginSong|>
 Shine Hard Lyrics[Intro: Swae Lee]
 Xanarchy
 Ooh
@@ -1191,7 +1226,9 @@ Woah-oh-woah, city to city excurs' ('Scursion)
 Woah-oh-woah, I'm lookin' like a merchant (Merchant)
 Keychain got a bracelet, hundred stacked chain, I'ma snatch me a dame, yeah
 Gotta shine hard, gotta shine hard, gotta flex hard, yeah5Embed
+<|EndSong|>
 
+<|BeginSong|>
 Heartbroke Lyrics[Chorus]
 Fuck lean, fuck drugs
 Bipolar, fuck love
@@ -1246,7 +1283,9 @@ Fuck lean, fuck drugs
 Bipolar, fuck love
 Heartbroke, life stuck
 Heartbreak, toothache1Embed
+<|EndSong|>
 
+<|BeginSong|>
 Emotions Lyrics[Intro]
 Xanarchy
 Yeah!
@@ -1304,4 +1343,5 @@ Yeah, ayy, so ba-a-a-a-a-ad
 So bad
 Yeah, ayy, so ba-a-a-a-a-ad
 So bad8Embed
+<|EndSong|>
 

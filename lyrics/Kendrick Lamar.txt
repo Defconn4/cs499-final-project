@@ -1,3 +1,4 @@
+<|BeginSong|>
 HUMBLE. Lyrics[Intro]
 Nobody pray for me
 It been that day for me
@@ -72,7 +73,9 @@ Be humble (Hol' up, hol' up)
 Bitch, sit down (Hol' up, hol' up, lil' bitch)
 Be humble (Lil' bitch, hol' up, bitch)
 Sit down (Hol' up, hol' up, hol' up, hol' up)1.2KEmbed
+<|EndSong|>
 
+<|BeginSong|>
 ​m.A.A.d city Lyrics[Part I: Produced by Sounwave]
 [Refrain: Kendrick Lamar & ScHoolboy Q]
 If Pirus and Crips all got along
@@ -218,7 +221,9 @@ Nigga, shut up!
 Hey, Dot, you good, my nigga?
 Don't even trip
 Just lay back and drink that2.2KEmbed
+<|EndSong|>
 
+<|BeginSong|>
 Swimming Pools (Drank) Lyrics[Produced by T-Minus]
 [Intro]
 Pour up (Drank), head shot (Drank)
@@ -341,7 +346,9 @@ L****, you good?
 Yeah, blood, I'm good – Dave, you good?
 Dave? Dave, say somethin' – Dave?
 These bitch-ass niggas killed my brother!975Embed
+<|EndSong|>
 
+<|BeginSong|>
 DNA. Lyrics[Verse 1]
 I got, I got, I got, I got—
 Loyalty, got royalty inside my DNA
@@ -427,8 +434,10 @@ Tell me when destruction gonna be my fate
 Gonna be your fate, gonna be our faith
 Peace to the world, let it rotate
 Sex, money, murder—our DNA
-[Video Outro]684Embed
+[Video Outro]685Embed
+<|EndSong|>
 
+<|BeginSong|>
 Money Trees Lyrics[Produced by DJ Dahi]
 [Verse 1: Kendrick Lamar]
 Uh, me and my niggas tryna get it, ya bish (Ya bish)
@@ -565,8 +574,10 @@ And that's just how I feel
 Kendrick’s Mom: Kendrick, just bring my car back, man. I called in for another appointment. I figured you weren’t gonna be back here on time anyways. Look, shit, shit, I just wanna get out the house, man. This man is on one, he feelin' good as a motherfucker. Shit, I’m tryna get my thing goin', too. Just bring my car back. Shit, he faded. He feelin' good. Look, listen to him!
 Kendrick’s Dad: Girl, girl, I want your body, I want your body, 'cause of that big ol’ fat ass. Girl, girl, I want your body, I want your body, 'cause of that big ol’ fat ass
 Kendrick’s Mom: See, he high as hell. Shit, and he ain’t even trippin' off them damn dominoes anymore. Just bring the car back!
-Kendrick’s Dad: Did somebody say dominoes?979Embed
+Kendrick’s Dad: Did somebody say dominoes?980Embed
+<|EndSong|>
 
+<|BeginSong|>
 XXX. Lyrics[Intro: Bēkon & Kid Capri]
 America
 God bless you if it's good to ya
@@ -647,8 +658,10 @@ America's reflections of me, that's what a mirror does
 It's not a place
 This country is to me a sound
 Of drum and bass
-You close your eyes to look ar—239Embed
+You close your eyes to look ar—240Embed
+<|EndSong|>
 
+<|BeginSong|>
 Bitch, Don’t Kill My Vibe Lyrics[Produced by Sounwave]
 [Chorus: Kendrick Lamar]
 I am a sinner who's probably gonna sin again
@@ -779,7 +792,9 @@ Ayy, K-Dot, get in the car, nigga!
 Come on, we finna roll out!
 Nigga, I got a pack of blacks and a beat CD
 Get yo' freestyles ready!703Embed
+<|EndSong|>
 
+<|BeginSong|>
 King Kunta Lyrics[Produced by Sounwave; Additional production by Terrace Martin]
 [Intro: Kendrick Lamar]
 I got a bone to pick
@@ -883,7 +898,9 @@ We want the funk
 
 [Poem: Kendrick Lamar]
 I remember you was conflicted, misusing your influence2KEmbed
+<|EndSong|>
 
+<|BeginSong|>
 Poetic Justice Lyrics[Produced by Scoop DeVille & Sounwave]
 [Intro: Kendrick Lamar]
 Every second, every minute
@@ -1001,7 +1018,9 @@ You gon' tell me where you from, okay?
 Or where your grandma stay, where your mama stay, or where your daddy stay, okay?"
 "Enough with all this talkin'."
 "Matter of fact, get out the van, homie! Get out the car before I snatch you out that motherfucker, homie!"412Embed
+<|EndSong|>
 
+<|BeginSong|>
 LOVE. Lyrics[Intro: Kendrick Lamar]
 Damn, love or lust
 Damn, all of us
@@ -1096,7 +1115,9 @@ I wanna be with you, ayy, I wanna be with
 Love me
 I wanna be with you
 Love me, just love me268Embed
+<|EndSong|>
 
+<|BeginSong|>
 Backseat Freestyle Lyrics[Produced by Hit-Boy]
 
 [Intro]
@@ -1185,7 +1206,9 @@ Let it run, Ali
 Martin had a dream
 Martin had a dream
 Kendrick have a dream582Embed
+<|EndSong|>
 
+<|BeginSong|>
 Alright Lyrics[Produced by Pharrell Williams & Sounwave]
 [Directed by Colin Tilley]
 [Intro: Kendrick Lamar]
@@ -1296,7 +1319,9 @@ Found myself screamin' in the hotel room
 I didn't wanna self-destruct
 The evils of Lucy was all around me
 So I went runnin' for answers769Embed
+<|EndSong|>
 
+<|BeginSong|>
 Sing About Me, I’m Dying of Thirst Lyrics[Part I: "Sing About Me"]
 [Chorus]
 When the lights shut off and it's my turn
@@ -1570,7 +1595,9 @@ For saving me with Your precious blood)
 (In Jesus' name, amen)
 Alright now, remember this day
 The start of a new life – your REAL life224Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Blacker the Berry Lyrics[Intro: Kendrick Lamar & Lalah Hathaway]
 Everything black, I don't want black (They want us to bow)
 I want everything black, I ain't need black (Down to our knees)
@@ -1688,7 +1715,9 @@ When gang-banging make me kill a nigga blacker than me?
 Hypocrite!
 [Instrumental Outro]
 [Produced by Boi-1da & Koz]1.6KEmbed
+<|EndSong|>
 
+<|BeginSong|>
 ELEMENT. Lyrics[Intro: Kid Capri & Kendrick Lamar]
 New Kung Fu Kenny
 Ain't nobody prayin' for me
@@ -1773,7 +1802,9 @@ If I gotta go hard on a bitch, I'ma make it look sexy
 I pull up, hop out, air out, made it look sexy
 They won't take me out my element
 Nah, take me out my element286Embed
+<|EndSong|>
 
+<|BeginSong|>
 LOYALTY. Lyrics[Intro: Mr. Talkbox]
 
 [Pre-Chorus: DJ Dahi & Kendrick Lamar]
@@ -1874,7 +1905,9 @@ It's so hard to be humble
 It's so hard to be
 Lord knows I'm tryin'
 Lord knows I'm dyin', baby219Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​i (Album Version) Lyrics[Produced by Rahki]​​​​​​​​​​​​​​​​​​​
 [Directed by Alexandre Moors and the Little Homies]
 
@@ -2014,7 +2047,9 @@ N-E-G-U-S, say it with me, or say it no more
 Black stars can come and get me
 Take it from Oprah Winfrey, tell her she right on time
 Kendrick Lamar, by far, realest Negus alive1.3KEmbed
+<|EndSong|>
 
+<|BeginSong|>
 A.D.H.D Lyrics[Intro: Kendrick Lamar]
 Uh-uh, fuck that
 
@@ -2095,7 +2130,9 @@ Double cup, deuce, four, six, just mix it in Sprite
 Ecstasy, 'shrooms, blow, 'dro, hoes, whatever you like
 You can have all my shine, I'll give you the light
 [Produced by Sounwave]473Embed
+<|EndSong|>
 
+<|BeginSong|>
 FEAR. Lyrics[Intro: Dale Warren]
 Poverty's paradise
 I don’t think I could find a way to make it on this earth
@@ -2260,7 +2297,9 @@ Here, in today, in the United States of America
 I love you, family, and I pray for you
 God bless you
 Shalom172Embed
+<|EndSong|>
 
+<|BeginSong|>
 Mortal Man Lyrics[Intro: James Fauntleroy + Kendrick Lamar]
 Ohhh, ohhhh, woahhh
 Uh, yeah
@@ -2527,4 +2566,5 @@ They are one and the same"
 What’s your perspective on that?
 Pac? Pac? Pac?!
 [Produced by Sounwave]599Embed
+<|EndSong|>
 

@@ -1,3 +1,4 @@
+<|BeginSong|>
 1Night Lyrics[Hook]
 I know you want this for life
 Taking pictures with all my ice
@@ -34,7 +35,9 @@ I know you want this for life
 Taking pictures with all my ice
 But I can't have no wife
 I just want you for the night25Embed
+<|EndSong|>
 
+<|BeginSong|>
 Peek a Boo Lyrics[Intro: Quavo]
 Ricky Racks
 Peek-a-boo, woo!
@@ -171,7 +174,9 @@ Yellow bitch, Pikachu (bitch)
 Cameltoe peekin' at you (look at you)
 Peek-a-boo
 Peek-a-boo, peek-a-boo23Embed
+<|EndSong|>
 
+<|BeginSong|>
 One Night Lyrics[Chorus]
 I know you want this for life
 Taking pictures with all my ice
@@ -241,7 +246,9 @@ I just want you for one night
 I know you want this for life, but no
 No, no, no
 I can't have no wife40Embed
+<|EndSong|>
 
+<|BeginSong|>
 Minnesota Lyrics[Intro]
 Brrt, brrt, bang, bang
 Ayy
@@ -282,7 +289,9 @@ Need to stay up out them streets if you can't take the heat
 You need to stay up out them streets if you can't take the heat
 'Cause it get cold like Minnesota, cold like Minnesota
 Cold like Minnesota, it get cold like Minnesota20Embed
+<|EndSong|>
 
+<|BeginSong|>
 Minnesota (Remix) Lyrics[Intro: Lil Yachty, Quavo, & Young Thug]
 Grandfero, nigga
 Yeah, yeah
@@ -387,7 +396,9 @@ You need to stay up out them streets if you can't take the heat (Brrr)
 Cold like Minnesota, it get cold like Minnesota (Yeah)
 Need to stay up out them streets if you can't take the heat (Yeah, yeah)
 You need to stay up out them streets if you can't take the heat (Oh, yeah)30Embed
+<|EndSong|>
 
+<|BeginSong|>
 Yacht Club Lyrics[Intro]
 Earl on the beat
 
@@ -450,7 +461,9 @@ Me and Boat got kicked out the yacht club (Out the yacht club)
 Oh-oh-oh
 Listen here, be alright
 Shit hard29Embed
+<|EndSong|>
 
+<|BeginSong|>
 NBAYOUNGBOAT Lyrics[Intro: YoungBoy Never Broke Again & Lil Yachty]
 Wop, skrt
 Skrt, skrt
@@ -527,7 +540,9 @@ Whip on the wrist, that's a brick on the fist, nigga
 No light needed for this chain, it's gon' glist nigga (Yeah)
 VS, one stone, that shit not far from flawless
 Fuck a pretty bitch, nigga, my money gorgeous, bitch (Lil Boat)23Embed
+<|EndSong|>
 
+<|BeginSong|>
 66 Lyrics[Intro]
 DY Krazy
 
@@ -581,7 +596,9 @@ Racks up, racks up (Yeah), pullin' up, Bentley truck (Skrrt)
 Semi, semi, keep it tucked (Yeah), bad bitch, bubble butt (Aight)
 14, 14 (Yeah), high school, servin' beans (Beans)
 Dropped out, now I'm rich (Yeah), flexin' 'til I'm sixty-six27Embed
+<|EndSong|>
 
+<|BeginSong|>
 Wanna Be Us Lyrics[Chorus: Lil Yachty, Shemida J, & Both]
 Bitch, you know it's Lil Boat
 Bitch, it's Lil Boat and Lil Perry (Perry)
@@ -668,7 +685,9 @@ All of them niggas, they know
 All of them niggas, they know me
 All of them niggas, they know us
 Them niggas, they wanna be us14Embed
+<|EndSong|>
 
+<|BeginSong|>
 Get Dripped Lyrics[Intro]
 Earl on the beat
 Lousy
@@ -746,7 +765,9 @@ We in this bih with no tint
 Damn (Ayy)
 Damn (Ayy, ayy, ayy, ayy)
 Bow, bow17Embed
+<|EndSong|>
 
+<|BeginSong|>
 MICKEY Lyrics[Intro]
 30, you a fool for this one
 
@@ -823,7 +844,9 @@ Check it out, check it out, check out (Woo)
 Ridin' 'round town with the sticks out (Woo)
 It's fashion week, so I bought the Rick's out (Woo)
 These niggas rats, no Mickey Mouse (Woo)10Embed
+<|EndSong|>
 
+<|BeginSong|>
 Intro Lyrics[Sample: Dory & Marlin]
 Hey, Mr. Grumpy Gills
 When life gets you down, you know what you gotta do?
@@ -888,7 +911,9 @@ Hello, hello, hello
 Oh, hello
 Welcome to my life
 Hello, hello, hello8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Who Want the Smoke? Lyrics[Intro: Lil Yachty, BlocBoy JB & Lil Juice]
 I fuck with this shit, man
 Ha
@@ -992,7 +1017,9 @@ Throw him off the boat (Die), in the river, float (Float)
 I'm in the Wraith so I'm lookin' at the rear mirror (Mirror)
 Free jit, we ain't goin' for that shit, period (Free jit)
 Red dots on their pussy, niggas on their period (Hey, hey)5Embed
+<|EndSong|>
 
+<|BeginSong|>
 All In Lyrics[Intro: Lil Yachty]
 Yeah, yeah, Lil Boat
 All my brothers with me!
@@ -1137,7 +1164,9 @@ Sailing Team
 Lil Boat, Lil Boat
 Summer Songs 2
 It's a wrap20Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hella Os Lyrics[Intro]
 Man
 Niggas still get it from the Gusto (Gusto)
@@ -1232,7 +1261,9 @@ Young RD counting hella Os (Woo, woo)
 
 [Outro]
 (Plug)2Embed
+<|EndSong|>
 
+<|BeginSong|>
 Up Next 2 Lyrics[Intro: Lil Yachty & BigBruthaChubba]
 Uh, ayy, uh
 Lil Boat (Chubba), Chubba, Lil Boat, Chubba
@@ -1326,7 +1357,9 @@ That damn Lil Boat, he's something else, I tell you
 Yeah, that DigitalNas something else, too
 Well, I guess, uh, we gon' go holla at Yachty a little bit
 He's, uh, he's-he's more emotional, you'll-you'll see what I'm talking about12Embed
+<|EndSong|>
 
+<|BeginSong|>
 Up Next 3 Lyrics[Intro: Lil Yachty]
 Ayy, Chris Fresh, Lil Boat, Chris Fresh, Lil Boat
 Yeah, and I'm tired of all you pussy ass niggas hatin' on Boat 'cause y'all see that nigga shinin', y'all see that nigga stuntin', y'all see that nigga up next, nigga
@@ -1407,7 +1440,9 @@ You know little bro will
 [Outro: G Herbo]
 Ayy, G Herbo 150 dream team, bitch, shout out Coach
 Lil Boat, what up?6Embed
+<|EndSong|>
 
+<|BeginSong|>
 For Hot 97 Lyrics[Intro: Lil Yachty]
 Brrr
 Hey, RD bruh, it's Boat, yeah
@@ -1533,7 +1568,9 @@ Pull up with a sword like 21
 Hit the strip club and throw bands just for fun
 Lil Boat
 Sailing Team19Embed
+<|EndSong|>
 
+<|BeginSong|>
 Forever Young Lyrics[Verse 1]
 All night I've been watching you
 So tonight, you're leaving with me
@@ -1595,7 +1632,9 @@ Forever young
 Forever young, forever young
 Forever young, forever young
 We forever young11Embed
+<|EndSong|>
 
+<|BeginSong|>
 Better Lyrics[Refrain: Lil Yachty]
 Oh, you say it's good
 I say it's great
@@ -1678,4 +1717,5 @@ It could be good
 But it could be better
 When I'm with you, I feel much better
 Oh, oh, oh6Embed
+<|EndSong|>
 

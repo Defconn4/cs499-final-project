@@ -1,3 +1,4 @@
+<|BeginSong|>
 ​​rockstar Lyrics[Intro: Post Malone]
 Hahahahaha
 Tank God
@@ -73,7 +74,9 @@ Rockstar
 Rockstar
 Rockstar
 Feel just like a...766Embed
+<|EndSong|>
 
+<|BeginSong|>
 White Iverson Lyrics[Intro]
 Double OT
 I'm a new three
@@ -146,7 +149,9 @@ Ooh-ooh
 Ooh-ooh
 Ooh-ooh
 Ooh-ooh435Embed
+<|EndSong|>
 
+<|BeginSong|>
 Congratulations Lyrics[Intro: Post Malone]
 Yeah, yeah
 Yeah (Hey)
@@ -222,7 +227,9 @@ Yeah, we made it (Ayy)
 [Outro]
 Hey, hey, hey, hey
 Hey, hey, hey, hey240Embed
+<|EndSong|>
 
+<|BeginSong|>
 Psycho Lyrics[Chorus: Post Malone]
 Damn, my AP goin' psycho, lil' mama bad like Michael
 Can't really trust nobody with all this jewelry on you
@@ -284,7 +291,9 @@ My AP goin' psycho, lil' mama bad like Michael
 Can't really trust nobody with all this jewelry on you
 My roof look like a no-show, got diamonds by the boatload
 Don't act like you my friend when I'm rollin' through my ends, though350Embed
+<|EndSong|>
 
+<|BeginSong|>
 I Fall Apart Lyrics[Intro]
 Ooh, I fall apart
 Ooh, yeah, mmm, yeah
@@ -345,7 +354,9 @@ Ooh, didn't know it before
 Surprised when you caught me off guard
 All this damn jewelry I bought
 You was my shorty, I thought205Embed
+<|EndSong|>
 
+<|BeginSong|>
 Circles Lyrics[Intro]
 Oh, oh, oh
 Oh,  oh, oh
@@ -399,7 +410,9 @@ I dare you to do something
 I'm waiting on you again, so I don't take the blame
 Run away, but we're running in circles
 Run away, run away, run away205Embed
+<|EndSong|>
 
+<|BeginSong|>
 Better Now Lyrics[Chorus]
 You prolly think that you are better now, better now
 You only say that 'cause I'm not around, not around
@@ -470,7 +483,9 @@ I only say that 'cause you're not around, not around
 You know I never meant to let you down, let you down
 Woulda gave you anything, woulda gave you everything
 Oh-oh161Embed
+<|EndSong|>
 
+<|BeginSong|>
 Wow. Lyrics[Verse 1]
 Said she tired of little money, need a big boy
 Pull up 20 inch blades like I'm Lil’ Troy
@@ -526,7 +541,9 @@ Ayy, ayy, wow
 Sayin', "Wow"
 Wow
 Wow171Embed
+<|EndSong|>
 
+<|BeginSong|>
 Stay Lyrics[Verse 1]
 It's true that all that you know is all that you are
 You said that it's all that you want and more
@@ -577,7 +594,9 @@ Tell me that it's all okay (Tell me that it's all okay)
 I've been waitin' on this all damn day (Waitin' on this all damn day)
 Call me in the mornin', tell me how last night went
 I'm here, but don't count on me to stay156Embed
+<|EndSong|>
 
+<|BeginSong|>
 Go Flex Lyrics[Verse 1]
 Lighting stog after stog, I choke on the smoke
 They tell me to quit, don't listen what I'm told
@@ -645,7 +664,9 @@ Gold on my teeth and on my neck
 And I'm stone cold with the flex, yeah
 Ice cold with the flex
 Hahaha, that shit hard140Embed
+<|EndSong|>
 
+<|BeginSong|>
 Candy Paint Lyrics[Intro]
 Yeah, yeah
 Mmm, ayy
@@ -737,7 +758,9 @@ Hundred thousand dollars on the table top (Oh-ooh)
 Half price my whip, same price my watch (Oh-ooh-ooh)
 Got no jumper, but I ball a lot (Oh-ooh)
 Bitch, I'm young Stoney, I do what I want74Embed
+<|EndSong|>
 
+<|BeginSong|>
 Goodbyes Lyrics[Verse 1: Post Malone]
 Me and Kurt feel the same, too much pleasure is pain
 My girl spites me in vain, all I do is complain
@@ -802,7 +825,9 @@ Goodbye, goodbye, goodbye (Bye, bye)
 Goodbye, goodbye, goodbye (Bye, bye)
 Goodbye, goodbye, goodbye (Bye, bye)
 I'm no good at goodbyes153Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hollywood’s Bleeding Lyrics[Intro]
 Ooh, ooh
 Ooh, ooh
@@ -849,7 +874,9 @@ You never took the time to get to know me
 We're scared of losin' somethin' that we never found
 We're runnin' out of reasons, but we can't let go
 Yeah, Hollywood is bleedin', but we call it home129Embed
+<|EndSong|>
 
+<|BeginSong|>
 Deja Vu Lyrics[Intro: Post Malone]
 (Oh)
 (Ooh)
@@ -924,7 +951,9 @@ Tell me, is that déjà vu? (Ooh-ooh)
 No, you ain't like them bitches, tell them hoes, "Adios"
 And you can drop your panties, leave them shits at the door
 Dior falls on the floor, I swear we been here before61Embed
+<|EndSong|>
 
+<|BeginSong|>
 Feeling Whitney Lyrics[Intro]
 I've been looking for someone...
 Ooh, ooh, ooh, ooh, ooh, ooh-ooh
@@ -973,7 +1002,9 @@ Boy, you're the man
 Ooh, ooh, ooh, ooh, ooh, ooh-ooh
 Ooh, ooh, ooh, ooh, ooh, ooh-ooh
 Ooh, ooh, ooh, ooh, ooh, ooh-ooh, ooh70Embed
+<|EndSong|>
 
+<|BeginSong|>
 Take What You Want Lyrics[Intro: Post Malone]
 Oh
 
@@ -1047,7 +1078,9 @@ Why don't you (Take what you want, take what you need)
 Take what you need from me, yeah
 (Take what you want) Why don't you (Take what you need)
 (What you need, yeah)131Embed
+<|EndSong|>
 
+<|BeginSong|>
 Paranoid Lyrics[Verse 1]
 Never know when someone come and try to take my life
 I've been sleepin' with the .45 like every night
@@ -1109,7 +1142,9 @@ Wonderin' when they'll come for me
 A paranoid man makes paranoid plans
 I do what I can, but it's out of my hands
 Strugglin' just to find my peace61Embed
+<|EndSong|>
 
+<|BeginSong|>
 Over Now Lyrics[Intro]
 Ahahah, yeah
 (Yeah, yeah, yeah)
@@ -1188,7 +1223,9 @@ Now I don't even want you anymore, anymore
 It's over now
 It's over now
 (It's over now)49Embed
+<|EndSong|>
 
+<|BeginSong|>
 Too Young Lyrics[Intro]
 I don't wanna die too young (Uh)
 Yuh, too young (Uh, uh-uh)
@@ -1274,7 +1311,9 @@ Too long, uh (Too long)
 I don't wanna die too young, too young, too young
 Countin' bands, hallelujah, 'lujah, 'lujah, yuh
 I don't wanna die too young, too young, too young, uh91Embed
+<|EndSong|>
 
+<|BeginSong|>
 No Option Lyrics[Verse 1]
 Ho, I look so clean and them motherfuckers just talkin'
 Show up at the spot and now everyone, they all watchin'
@@ -1349,4 +1388,5 @@ What do you wanna do?
 Put that dime in my coupe
 With that gold on my tooth
 Ooh, yeah22Embed
+<|EndSong|>
 

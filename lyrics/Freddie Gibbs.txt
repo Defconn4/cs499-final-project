@@ -1,3 +1,4 @@
+<|BeginSong|>
 BFK Lyrics[Hook]
 East side niggas stay bout it
 West side niggas stay bout it
@@ -91,7 +92,9 @@ East side niggas stay bout it
 West side niggas stay bout it
 North side niggas stay bout it
 South side niggas stay bout it bout it8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Fuckin’ Up the Count Lyrics[Intro]
 Eight?
 Damn, Sarah, look, close your eyes (Yeah)
@@ -167,7 +170,60 @@ You follow drugs
 You get drug addicts and the drug dealers
 But you start to follow the money
 And you don't know where the fuck it's gon' take you9Embed
+<|EndSong|>
 
+<|BeginSong|>
+4 Thangs Lyrics[Intro: Freddie Gibbs & Big Sean]
+Quit playin' with me
+Hit-Boy (Hol' up)
+
+[Chorus: Big Sean & Freddie Gibbs]
+She keep calling me babe, I said "That's not my name"
+Million dollars, million followers, ho, that's not the same
+And I just washed off the chicken, baby, that's not cocaine
+Shit's so hot, you got two hundred, you can get like four thangs, yeah
+
+[Verse: Freddie Gibbs, Big Sean & Both]
+Gangsta G, gorilla pimp, stay with banana
+I fuck with Sean Don, he run the D like Barry Sanders
+Trophies, mantels, Billups, how shit get handled
+I pray my life go over easy and I never scramble
+She sent a text like "Can we talk?" Bitch, I'm not Tevin Campbell
+I walk in, I'm deckin' it, makin' an entrance, I know where the exit is
+We kick them hoes out, ain't no room service, we ain't bringing no breakfast in
+Got an oval office in my house, bitch suck me off like a president
+I'm talkin' Jefferson, Edison, Clinton
+So much pussy, look like I'm sellin' it
+And the polices know that I'm sellin' it
+I did the one and the two with the heroin
+And my nigga was snitchin', he tellin' it
+I had to jump off a war with the Mexicans
+Gotta get me a brand new plug
+I run out of dope and I'm out of my element
+Yeah, uh, bitch, Google my government, but that's not my name
+Million dollars, million followers, ho, that's not the same
+And I just washed off the chicken, baby, that's not cocaine, yeah
+I give you the game, I don't play for the love of the game
+Ho, I play for the rings
+Every ho that I got is a side bitch
+I ain't never gon' fuck on the main
+Better Alex Trebek, I don't answer those questions
+Jeopardize how far we done came
+We are not one in the same, we can rock the same thing
+And it won't look the same
+These bitches, they want me to wife 'em, but I just one night 'em
+Good bitches, they know me, it's all in my veins
+[Chorus: Big Sean & Freddie Gibbs]
+She keep calling me babe, I said "That's not my name"
+Million dollars, million followers, ho, that's not the same
+And I just washed off the chicken, baby, that's not cocaine
+Shit's so hot, you got two hundred, you can get like four thangs, yeah
+
+[Outro: Big Sean]
+God9Embed
+<|EndSong|>
+
+<|BeginSong|>
 Careless Lyrics[Intro]
 Yeah, yeah
 Yeah, yeah, yeah
@@ -247,56 +303,9 @@ And these hoes, I got a lot, got a lot, got a lot
 Pesos, I got a lot, I got a lot, I got a lot
 And she know I got a lot, I got a lot, I got a lot
 Thank God I got a13Embed
+<|EndSong|>
 
-4 Thangs Lyrics[Intro: Freddie Gibbs & Big Sean]
-Quit playin' with me
-Hit-Boy (Hol' up)
-
-[Chorus: Big Sean & Freddie Gibbs]
-She keep calling me babe, I said "That's not my name"
-Million dollars, million followers, ho, that's not the same
-And I just washed off the chicken, baby, that's not cocaine
-Shit's so hot, you got two hundred, you can get like four thangs, yeah
-
-[Verse: Freddie Gibbs, Big Sean & Both]
-Gangsta G, gorilla pimp, stay with banana
-I fuck with Sean Don, he run the D like Barry Sanders
-Trophies, mantels, Billups, how shit get handled
-I pray my life go over easy and I never scramble
-She sent a text like "Can we talk?" Bitch, I'm not Tevin Campbell
-I walk in, I'm deckin' it, makin' an entrance, I know where the exit is
-We kick them hoes out, ain't no room service, we ain't bringing no breakfast in
-Got an oval office in my house, bitch suck me off like a president
-I'm talkin' Jefferson, Edison, Clinton
-So much pussy, look like I'm sellin' it
-And the polices know that I'm sellin' it
-I did the one and the two with the heroin
-And my nigga was snitchin', he tellin' it
-I had to jump off a war with the Mexicans
-Gotta get me a brand new plug
-I run out of dope and I'm out of my element
-Yeah, uh, bitch, Google my government, but that's not my name
-Million dollars, million followers, ho, that's not the same
-And I just washed off the chicken, baby, that's not cocaine, yeah
-I give you the game, I don't play for the love of the game
-Ho, I play for the rings
-Every ho that I got is a side bitch
-I ain't never gon' fuck on the main
-Better Alex Trebek, I don't answer those questions
-Jeopardize how far we done came
-We are not one in the same, we can rock the same thing
-And it won't look the same
-These bitches, they want me to wife 'em, but I just one night 'em
-Good bitches, they know me, it's all in my veins
-[Chorus: Big Sean & Freddie Gibbs]
-She keep calling me babe, I said "That's not my name"
-Million dollars, million followers, ho, that's not the same
-And I just washed off the chicken, baby, that's not cocaine
-Shit's so hot, you got two hundred, you can get like four thangs, yeah
-
-[Outro: Big Sean]
-God9Embed
-
+<|BeginSong|>
 Gang Signs Lyrics[Intro: Freddie Gibbs]
 Yeah, uh, a-nigga, yeah-yeah
 I've been ridin' in the 'Dor with the dope shit
@@ -369,7 +378,9 @@ Every mornin' I wake up and throw a gang sign
 Yeah, uh, nigga, yeah-yeah
 I ain't new to this shit, yeah
 Every mornin' I wake up and throw a gang sign4Embed
+<|EndSong|>
 
+<|BeginSong|>
 Still Livin Lyrics[Intro]
 What you know, boy?
 What you know, boy?
@@ -454,7 +465,9 @@ And I’m still, still livin' like a dope dealer
 Finger on the trigger, I ain’t taking shit from no nigga
 Still, I’m still livin' like a dope boy
 Wrapping up the pack of drugs, traffic what you know, boy13Embed
+<|EndSong|>
 
+<|BeginSong|>
 20 Karat Jesus LyricsPart 1
 
 [Intro]
@@ -590,7 +603,9 @@ You, other niggas over here
 Yeah, he could sell dope real good, that's not your lane, my nigga
 God gave you hands, you a chef my nigga
 Chef up that boysenberry crème brûlée, man7Embed
+<|EndSong|>
 
+<|BeginSong|>
 Big Boss Rabbit Lyrics[Intro: Mike Tyson]
 There's never any doubts in my mind
 Because I'm the best in the world
@@ -664,7 +679,9 @@ Haha, nigga
 Hahahahaha
 Don't violate
 I'm violent9Embed
+<|EndSong|>
 
+<|BeginSong|>
 How We Do (’93 Til Freestyle #3) Lyrics[Intro: Freddie Gibbs + woman]
 Yeah
 Still too cool to love these hoes
@@ -736,7 +753,9 @@ I really used to mean it when I told her that I love her
 But now I know that love is a four letter word
 Like fuck and shit
 So love you can suck my dick11Embed
+<|EndSong|>
 
+<|BeginSong|>
 Forever and a Day Lyrics[Intro]
 Yeah, yeah, bitch
 (I'ma make it even if it take forever and a day now)
@@ -855,7 +874,9 @@ I'ma, I'ma, I'ma make it even if it take forever and a day now
 I'ma, I'ma, I'ma make it even if it take forever and a day now
 I'ma, I'ma, I'ma make it even if it take forever and a day now
 I'ma, I'ma, I'ma make it even if it take forever and a day now3Embed
+<|EndSong|>
 
+<|BeginSong|>
 Bout It, Bout It Lyrics[Freddie Gibbs]
 No doubt about it
 I'm doing what I do dog
@@ -945,7 +966,9 @@ I'm doing what I do dog
 Keen on and a few broads moving with my crew dog
 We bout it, bout it we came here with them tools dog
 Doing what I do dog, moving with my crew dog8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Crushed Glass Lyrics[Intro: Freddie Gibbs]
 Yeah, yeah
 Diego, roll me one up, my nigga
@@ -1031,7 +1054,9 @@ Living this life, just me, myself and I
 If I gotta be by myself, I'ma be alright
 Living this life, just me, myself and I
 If I gotta be by myself, I'ma be alright19Embed
+<|EndSong|>
 
+<|BeginSong|>
 Pronto Lyrics[Intro]
 Yeah, yeah, yeah
 This how you niggas supposed to ride
@@ -1119,7 +1144,9 @@ Yeah, this how you niggas supposed to ride
 Yeah, this how you niggas supposed to ride
 Yeah, this how you niggas supposed to ride
 Yeah, this how you niggas supposed to ride18Embed
+<|EndSong|>
 
+<|BeginSong|>
 Alexys Lyrics[Intro]
 Kane, nigga, on the blade
 I think, I think niggas forgot who, you know, who gave
@@ -1189,7 +1216,9 @@ These animalistic instincts that we was born with
 Felt so pimpish when Alexys put me in the foreign whip
 Black as hell but rap got me thinkin' I need a foreign bitch
 Takin' my black queens for granted, got me ignorin' them8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Rob Me A Nigga Lyrics[Hook - Big K.R.I.T.]
 Rob me a nigga
 Rob me a, rob me a nigga
@@ -1269,7 +1298,9 @@ You can be the one that get robbed
 Or be the one to rob a nigga
 But we all gotta eat, so we get no sleep
 We gon wait it out and kill a nigga4Embed
+<|EndSong|>
 
+<|BeginSong|>
 Eastside Moonwalker Lyrics[Verse 1]
 Lifestyles of the insane
 Eastside thug nigga, I'm the shit, you a shit stain
@@ -1324,7 +1355,9 @@ Selling things to the smokers in the mobile homes
 A pack of backwoods, dirty styrofoam, and a pocket full of stones
 And my Cadillac Brougham, I'ma pull up slow
 [Hook]8Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Hard Lyrics[Intro: Dana Williams]
 I know that life is short
 But we can't move too fast
@@ -1405,7 +1438,9 @@ These niggas want it so I'm chopping up the hard, I'm chopping up the hard
 These niggas say they want it so I'm chopping up the hard
 Said I'm chopping up the hard, I'm chopping up the hard
 These geekers say they on it so I'm chopping up the hard, nigga7Embed
+<|EndSong|>
 
+<|BeginSong|>
 Vice Lord Poetry Lyrics[Part I]
 
 [Intro]
@@ -1493,7 +1528,9 @@ The younger Fred would be buying bricks from the older me
 If I had a time machine I would bring Chad Butler back
 Candy painted, sitting on blades, so how you lovin' that?
 Oh, you lovin' that?7Embed
+<|EndSong|>
 
+<|BeginSong|>
 Automatic Lyrics[Intro]
 Yeah, we gon' twerk these motherfuckin' numbers
 Oh yeah, just 'gon spit on this shit
@@ -1561,7 +1598,9 @@ She gon' suck me off, it's automatic
 You can wife the ho cause I done had it
 And I ain't never had a OG, most them old heads niggas ratted
 All the young niggas know me, and the gang gang got it tatted5Embed
+<|EndSong|>
 
+<|BeginSong|>
 Black Illuminati Lyrics[Verse 1: Freddie Gibbs]
 Slammin', used to sleep on the floor with a Kel-Tec
 Got a bag I can't bag yet because it's still wet
@@ -1649,4 +1688,5 @@ It's really nothing that you can do to stop him (Hater)
 Call him the god MC just like Rakim (Woo)
 And he done took some L's, but yeah, he got wins
 Motherfucker2Embed
+<|EndSong|>
 

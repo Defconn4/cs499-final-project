@@ -1,3 +1,4 @@
+<|BeginSong|>
 Doomsday Lyrics[Intro: Sade, MF DOOM]
 Mic Check
 When I was led to you
@@ -87,7 +88,9 @@ Crowd around
 When I was led to you
 I knew you were the one for me
 I swear the whole world could feel you MC156Embed
+<|EndSong|>
 
+<|BeginSong|>
 Beef Rapp Lyrics[Produced by Metal Fingers]
 
 [Skit 1]
@@ -197,7 +200,9 @@ Punk, try and ask why ours be better
 Could be the iron mask or the Cosby sweater
 Yes, you, who's screwed by the dude on the CD, nude
 ("We need food!")57Embed
+<|EndSong|>
 
+<|BeginSong|>
 Rapp Snitch Knishes Lyrics[Intro: Mr. Fantastik & (MF DOOM)]
 Yo! (Yo!)
 MF DOOM (Mr. Fantastik)
@@ -273,7 +278,9 @@ Fuck around and get everybody bagged, man
 You know your grandmama used to be bootlegging
 Fake hustling nigga, heheheheh, haha
 Perpetrator? Yeah, I'm right here...42Embed
+<|EndSong|>
 
+<|BeginSong|>
 That’s That Lyrics[Verse]
 Already woke, spared a joke, barely spoke, rarely smoke
 Stared at folks when properly provoked, mirror broke
@@ -327,7 +334,9 @@ Look, there's Doom now!
 I followed him to the studio, but I was too late to stop him
 That's right! You'll never stop me!
 You're dead! You're all dead! Doom!51Embed
+<|EndSong|>
 
+<|BeginSong|>
 One Beer Lyrics[Intro]
 I get no kick from champagne
 Mere alcohol doesn't thrill me at all
@@ -417,7 +426,9 @@ What’s the matter? (Oh, Ben)
 You’re nothing but a chicken-head
 (You overgrown granite-head) Hold it
 [Produced by Madlib]45Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hoe Cakes Lyrics[Intro]
 Keep your hoes in check
 ("Super!")
@@ -498,7 +509,9 @@ I'm coming with the U-Haul" ("Super!")
 (J. Jonah Jameson): How long's all this gonna take, DOOM?
 (DOOM): I would not advise you to repeat that error
 (J. Jonah Jameson): Sure, I know what you mean42Embed
+<|EndSong|>
 
+<|BeginSong|>
 Rhymes Like Dimes Lyrics[Intro]
 Ayo, yo, y'all can't stand right here
 In his right hand was your man's worst nightmare
@@ -605,7 +618,9 @@ Ah! We tricked you! We tricked you!
 Ha ha ha ha... Woo!
 You listening to www  dot hairline dot com
 MF DOOM, Kool Bob Love...46Embed
+<|EndSong|>
 
+<|BeginSong|>
 Deep Fried Frenz Lyrics[Intro]
 Before we go any further
 Friends
@@ -715,7 +730,9 @@ He traveled through remote villages, where strangers are seldom seen
 He continued his search, never showing his face
 Unless threatened by bandits who prey on travelers
 Who foolishly wander alone through their domain30Embed
+<|EndSong|>
 
+<|BeginSong|>
 Potholderz Lyrics[Intro]
 (Hot shit) (Aww shit)
 
@@ -779,7 +796,9 @@ Don't forget your potholders, my niggas
 (More hot shit)
 (More hot shit)
 A short time later28Embed
+<|EndSong|>
 
+<|BeginSong|>
 Gazzillion Ear Lyrics[Part 1]
 [Verse 1: MF DOOM]
 Villain man never ran with krills in his hand and
@@ -889,7 +908,9 @@ Split, the wigs lit (Can you dig it?)
 [Outro]
 We have got to try and find DOOM!
 Good luck!23Embed
+<|EndSong|>
 
+<|BeginSong|>
 Vomitspit Lyrics[Verse]
 It's the beat, he hear it in his sleep sometimes
 Blare it in your jeep so your peoples can stare at them rhymes
@@ -936,7 +957,9 @@ Whoever go next on the mic he put a booger, ill
 And made his exit on some calm shit
 Begged him on the regular for kegs of more vomitspit
 ("DOOM!")34Embed
+<|EndSong|>
 
+<|BeginSong|>
 ? (Questions) Lyrics[Produced by MF DOOM]
 
 [Intro: Dr. Doom]
@@ -1024,7 +1047,9 @@ Get it? Doom-Doomsday!
 []
 Ya, we get it. Oh Borther!
 [: Laughs]22Embed
+<|EndSong|>
 
+<|BeginSong|>
 Kon Karne Lyrics[Verse: MF DOOM + sample]
 Darker than the East River, larger than the Empire State
 Where the beast who guard the barbed wire gate
@@ -1083,7 +1108,9 @@ You can't blame me for being suspicious."
 "No."
 Hehe
 [Produced by MF DOOM]22Embed
+<|EndSong|>
 
+<|BeginSong|>
 Kookies Lyrics[Verse 1]
 It's horrible
 One lonely evening alone, home
@@ -1169,7 +1196,9 @@ Kookies
 (Voice 2): He must be mad
 (Voice 4): Well, if anyone can do it. Nevertheless let's get out of here, while we can
 (Misc. Voice): Food, we need food13Embed
+<|EndSong|>
 
+<|BeginSong|>
 Kon Queso Lyrics[Verse]
 Give it a sec for the pain to start
 This wreck right here, it ain't for the faint of heart
@@ -1253,7 +1282,9 @@ And jump off the stage like "Yee haw!"
 (DOOM): You never learn, do you?
 
 (Voice 1): Here, this is the address of friends in New York. They'll help13Embed
+<|EndSong|>
 
+<|BeginSong|>
 Gas Drawls Lyrics[Intro]
 Metal Face 2
 Operation Doomsday
@@ -1323,7 +1354,9 @@ And I like to give a shoutout to the brother Jet Jaguar
 Megalon and King Geedorah
 I call this joint right here Gas Drawls
 In Hell with yours21Embed
+<|EndSong|>
 
+<|BeginSong|>
 All Outta Ale Lyrics[Sample]
 One more beer
 And I'll take you all
@@ -1394,7 +1427,9 @@ Drink it all fast and make you haul ass slowly
 Remind me to remember what you told me
 Holy moly, did you get a load of her roly-poly?
 Yo, G, remind me to remember what you told me9Embed
+<|EndSong|>
 
+<|BeginSong|>
 Batty Boyz Lyrics[Intro]
 If you're waiting for a parade, there ain't none
 Sharpen up your spirit of adventure, the fabulous gay way
@@ -1475,7 +1510,9 @@ Listen, you got any money?
 Man you goin' crazy? What the hell for?
 Four dollars only, damn
 Batman's gay (batty boys)3Embed
+<|EndSong|>
 
+<|BeginSong|>
 Guinnesses Lyrics[Intro Skit]
 (Narrator): Running desperately low on food, they were forced to turn back
 (Interjection): Well I'll be!
@@ -1564,7 +1601,9 @@ And some chicks are just too hard to wife
 (DOOM): Where you are going, there are no jokes
 
 (Spiderman): I'm beginning to think that armor plated Gargoyle doesn't like me9Embed
+<|EndSong|>
 
+<|BeginSong|>
 Red and Gold Lyrics[Verse 1]
 I remember when, last past November when
 Clown kid got pounded in with the Timberlands
@@ -1638,4 +1677,5 @@ Wig-Twisting Season
 When some could get their wigs twisted back within reasoning
 Mostly with these crimes of lying, and fronting, and cheating
 All types of different styles of treason14Embed
+<|EndSong|>
 

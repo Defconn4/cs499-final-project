@@ -1,3 +1,4 @@
+<|BeginSong|>
 Forgot About Dre Lyrics[Verse 1: Dr. Dre]
 Y'all know me, still the same OG
 But I been low-key
@@ -120,7 +121,9 @@ Nowadays, everybody wanna talk like they got somethin' to say
 But nothin' comes out when they move their lips
 Just a bunch of gibberish
 And motherfuckers act like they forgot about Dre311Embed
+<|EndSong|>
 
+<|BeginSong|>
 Still D.R.E. Lyrics[Produced by Dr. Dre, Scott Storch and Mel-Man]
 [Intro: Snoop Dogg & Dr. Dre]
 Yeah, nigga, we're still fuckin' wit' you
@@ -224,7 +227,9 @@ Some of that real sticky-icky-icky
 Ooh wee! Put it in the air!
 Well, you's a fool, D-R
 Ha-ha167Embed
+<|EndSong|>
 
+<|BeginSong|>
 Nuthin’ But a “G” Thang Lyrics[Produced by Dr. Dre]
 [Verse 1: Snoop Dogg & Dr. Dre]
 One, two, three and to the four
@@ -326,7 +331,9 @@ You've got the feeling (Yeah, yeah)
 You've got the feeling
 Rock the other side
 You've got the feeling (Yeah, yeah)132Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Next Episode Lyrics[Chorus: Snoop Dogg & Kurupt]
 La-da-da-da-dah
 It's the motherfuckin' D-O-double-G (Snoop Dogg!)
@@ -387,7 +394,9 @@ Hope you ready for the next episode
 Hey, hey, hey, hey
 Smoke weed every day
 [Produced by Dr. Dre]122Embed
+<|EndSong|>
 
+<|BeginSong|>
 I Need a Doctor Lyrics[Chorus: Skylar Grey]
 I'm about to lose my mind
 You've been gone for so long
@@ -484,7 +493,9 @@ I'm runnin' outta time
 I need a doctor, call me a doctor
 I need a doctor, doctor
 To bring me back to life151Embed
+<|EndSong|>
 
+<|BeginSong|>
 What’s the Difference Lyrics[Produced by Dr. Dre & Mel-Man]
 [Intro: Phish]
 What's the difference between me and you?
@@ -588,7 +599,9 @@ I'm used to livin' big-dog-style and straight coastin'
 
 [Outro: Phish]
 What's the difference between me and— (*gunshot*)85Embed
+<|EndSong|>
 
+<|BeginSong|>
 Medicine Man Lyrics[Skit]
 Doc, doc, you gotta give us some good news
 (Yeah, about that…)
@@ -693,7 +706,9 @@ Doctor's orders, Doctor's orders
 
 [Outro: Anderson .Paak]
 Ah, fuck!142Embed
+<|EndSong|>
 
+<|BeginSong|>
 Fuck Wit Dre Day (And Everybody’s Celebratin’) Lyrics[Intro: Dr. Dre]
 Hah, yeah
 Hell yeah
@@ -796,7 +811,9 @@ Yeah, Eazy-E, Eazy-E, Eazy-E can eat a big fat dick
 Tim Dog can eat a big fat dick
 Luke can eat a fat dick
 Yeah (Yeah)50Embed
+<|EndSong|>
 
+<|BeginSong|>
 Bitches Ain’t Shit Lyrics[Intro: Snoop Dogg]
 Bitches ain't shit but hoes and tricks
 
@@ -916,7 +933,9 @@ And then they're sprung and with their nuts hung
 
 [Outro: Snoop Dogg]
 Bitches ain't shit30Embed
+<|EndSong|>
 
+<|BeginSong|>
 Deep Water Lyrics[Intro: Dr. Dre & Anderson .Paak]
 Where you from, nigga?
 (Help me!)
@@ -1030,7 +1049,9 @@ I can't breathe, help
 God, please, please help me, please
 Please help me, please help...
 Please help, please, please...60Embed
+<|EndSong|>
 
+<|BeginSong|>
 Xxplosive Lyrics[Intro: Hittman]
 Xxplosive, West coast shit
 My nigga-ish ways attract girls that used to turn they back
@@ -1104,7 +1125,9 @@ But bitch, I'm out your pussy when I nut, for real
 
 [Outro: Hittman]
 Xxplosive!49Embed
+<|EndSong|>
 
+<|BeginSong|>
 Let Me Ride Lyrics[Intro: Snoop Dogg]
 Biatch!
 Eeeh, wha'ppen nuh baby
@@ -1204,7 +1227,9 @@ Swing down (Swing down), sweet chariot, stop (I wanna ride) and let me ride
 Swing down (Swing down), sweet chariot, stop (I wanna ride) and let me ride
 Swing down (Swing down), sweet chariot, stop (I wanna ride) and let me ride
 Swing down (Swing down), sweet chariot, stop (I wanna ride) and let me ride40Embed
+<|EndSong|>
 
+<|BeginSong|>
 Fuck You Lyrics[Intro: Girl on answering machine]
 Hi, baby
 I know you're under a lot of pressure at your work and all
@@ -1292,7 +1317,9 @@ I just wanna fuck you
 We can't be kissin' and huggin', girl
 You've got a husband who loves you
 You need to give him your quality time28Embed
+<|EndSong|>
 
+<|BeginSong|>
 Darkside/Gone Lyrics[Produced by Dr. Dre, Best Kept Secret, and D.R.U.G.S BEATS]
 [Part 1: Darkside]
 [Intro: King Mez]
@@ -1402,7 +1429,9 @@ You'll find out when I'm gone
 
 [Outro: Marsha Ambrosius]
 You'll find out when I'm gone43Embed
+<|EndSong|>
 
+<|BeginSong|>
 Deep Cover Lyrics[Intro: Snoop Dogg & Cop]
 Hit this motherfucker, G
 No, naw, man, I can't fuck with that
@@ -1510,7 +1539,9 @@ Yeah, and you don't stop
 'Cause it's 1-8-7 on a undercover cop
 Yeah, and you don't stop
 'Cause it's 1-8-7 on a undercover cop33Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Watcher Lyrics[Verse 1: Dr. Dre]
 Things just ain't the same for gangstas
 Times is changin', young niggas is agin'
@@ -1596,8 +1627,10 @@ So I suggest you lay low (I'm watching)
 The watcher
 I'm watching
 The watcher
-The watcher49Embed
+The watcher50Embed
+<|EndSong|>
 
+<|BeginSong|>
 My Syllables Lyrics[Intro: Eminem]
 It is not about lyrics anymore
 It's about a hot beat and a catchy hook
@@ -1734,7 +1767,9 @@ Now, get out there and sell some goddamn records!
 Now, get out there and sell some goddamn records!
 Now, get out there and sell some goddamn records!
 Now, get out there and sell some58Embed
+<|EndSong|>
 
+<|BeginSong|>
 Genocide Lyrics[Produced by Dr. Dre & Dem Jointz]
 [Hook: Marsha Ambrosius]
 Stone-cold killers in these Compton streets
@@ -1826,7 +1861,9 @@ Ahh!
 Murder, murder
 Murder, murder
 It's been a 187 in this bitch!31Embed
+<|EndSong|>
 
+<|BeginSong|>
 Talk About It Lyrics[Verse 1: King Mez]
 I don't give one fuck
 Off the top I wish a nigga would try a nigga
@@ -1900,7 +1937,9 @@ Yeah, I want everything (Yeah, yeah, yeah)
 Yeah, I want everything (Yeah, yeah, yeah)
 Talk about it, hol' up, if you really 'bout it
 Tell these mothafuckas, we don't even wanna talk about it, what?31Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Message Lyrics[Intro: Dr. Dre]
 This one is for my brother, Tyree, R.I.P
 A message to God
@@ -1977,4 +2016,5 @@ Brother, brother
 [Skit]
 Oh, you're Doctor Dre. Ha-ha, are you a real doctor dude? I mean like, you know, can you prescribe some drugs for me man? Come on dude, I'll split whatever I get with ya, okay? Hahahaha
 Ah, the chronic30Embed
+<|EndSong|>
 

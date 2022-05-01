@@ -1,3 +1,4 @@
+<|BeginSong|>
 Collard Greens Lyrics[Intro: ScHoolboy Q]
 Yeah, yeah, yeah
 Uh,  uh
@@ -101,7 +102,9 @@ Oh, oh, down with that shit
 Drink this, smoke this, get down with the shit
 Hey, oh, oh, down with the shit
 Cop this, pop this, down with the shit840Embed
+<|EndSong|>
 
+<|BeginSong|>
 Studio Lyrics[Produced by Swiff D]
 
 [Chorus: BJ the Chicago Kid]
@@ -161,7 +164,9 @@ I'm just sittin' in the studio just tryna get to you, baby
 But this song so fuckin' dope, girl, it's harder not for me to blaze it
 To tell the truth, wish it was you in this booth that I was blazin'
 So I'm just sittin' in the studio just tryna get to you, baby450Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hands on the Wheel Lyrics[Produced by Best Kept Secret]
 
 [Intro: Lissie]
@@ -268,7 +273,9 @@ Yeah
 
 [Outro]
 Bitch, gimme the disc139Embed
+<|EndSong|>
 
+<|BeginSong|>
 Blessed Lyrics[Intro]
 What is life for a nigga like me?
 Living out his backpack every night
@@ -380,7 +387,9 @@ Don't stress my nigga, yes, my nigga
 We all blessed my nigga, ah
 
 [Produced by Dave Free]236Embed
+<|EndSong|>
 
+<|BeginSong|>
 Man of tHe Year Lyrics[Produced by Nez & Rio]
 
 [Chorus]
@@ -479,7 +488,9 @@ Uh, man-man of the year, man-man of the bounce
 Bounce, bounce
 Bounce, bounce
 Bounce, bounce660Embed
+<|EndSong|>
 
+<|BeginSong|>
 THat Part (Black Hippy Remix) Lyrics[Chorus: ScHoolboy Q]
 Me no conversate with the fake—that part
 All my bitches independent bitches—that part
@@ -616,7 +627,9 @@ I feel bad that my daughter gotta live this life
 I'll die for my daughter, gotta fight this fight
 Put a Blank Face on, nigga, let that drop
 That—that part107Embed
+<|EndSong|>
 
+<|BeginSong|>
 THat Part Lyrics[Chorus: ScHoolboy Q]
 Me no conversate with the fake, that part
 All my bitches independent bitches, that part
@@ -727,7 +740,9 @@ Get that nigga on the phone
 Top Dawg on the phone
 Ayy, ayy, ayy, ayy, ayy, ayy, ayy, ayy
 Hah108Embed
+<|EndSong|>
 
+<|BeginSong|>
 Break the Bank Lyrics[Verse 1]
 Fuck rap, I've been rich, crack by my stick shift
 Oxy like concerts, always my bread first
@@ -837,7 +852,9 @@ Neck full of gold, I'm attracted to the honey
 Rain, sleet, snow, 'bout the money
 On Figueroa, close your eyes, might need ya mommy
 [Produced by The Alchemist]326Embed
+<|EndSong|>
 
+<|BeginSong|>
 WHat THey Want Lyrics[Produced by Mike WiLL Made It]
 [Intro: ScHoolboy Q]
 This the shit that they need
@@ -1003,7 +1020,9 @@ This the shit that's from me
 This the shit they gon' bump
 This the shit that they want
 This the shit that they want157Embed
+<|EndSong|>
 
+<|BeginSong|>
 Gangsta Lyrics[Produced by Nez & Rio]
 [Intro: Joy]
 Hello... Hello? Fuck rap, my daddy a gangsta
@@ -1100,7 +1119,9 @@ Knock, knock-knock, knock-knock, YAWK
 (Gangsta shit, gangsta shit)
 Knock, knock-knock, knock-knock, YAWK
 (Gangsta shit, gangsta shit)129Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hell of a Night Lyrics[Produced by DJ Dahi]
 
 [Intro]
@@ -1240,7 +1261,9 @@ Might be a hell of a
 Might be a hell of a night
 Then the moon lights
 Might be a hell of a night go127Embed
+<|EndSong|>
 
+<|BeginSong|>
 THere He Go Lyrics[Intro]
 Yeah!
 
@@ -1304,7 +1327,9 @@ They be like, "There he go! Schoolboy, there he go!" (Yeah, yeah, yeah)
 
 [Outro]
 Yeah, Q!49Embed
+<|EndSong|>
 
+<|BeginSong|>
 Numb Numb Juice Lyrics[Intro]
 Two-door coupe, hoppin' out like Jack-in-the-Box, nigga
 I'm gon' shoot if this 30's all that I got, nigga
@@ -1353,7 +1378,9 @@ Numb numb juice to the head, fuck up the opps, nigga
 
 [Outro]
 CrasH Talk, take two58Embed
+<|EndSong|>
 
+<|BeginSong|>
 Yay Yay Lyrics[Produced by Boi-1da & The Mavens Boys]
 
 [Hook]
@@ -1437,7 +1464,9 @@ That yay-yay (That yay-yay) That yay-yay (That yay-yay)
 That yay-yay (That yay-yay) That yay-yay (That yay-yay)
 That yay-yay (That yay-yay) That yay-yay (That yay-yay)
 That yay-yay (That yay-yay) That yay-yay (That yay-yay)95Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Purge Lyrics[Intro: Joy]
 My daddy said, "Yeah, nigga"
 [Chorus: Tyler, The Creator]
@@ -1570,7 +1599,9 @@ Ugh, yeah, nigga
 Yeah, nigga
 Ugh, yeah, nigga
 Ugh, yeah, nigga153Embed
+<|EndSong|>
 
+<|BeginSong|>
 Prescription / Oxymoron Lyrics[Part 1: "Prescription"]
 
 [Verse 1]
@@ -1710,7 +1741,9 @@ O-X-Y, I'm moron
 O-X-Y, I'm moron
 
 [Produced by Willie B]110Embed
+<|EndSong|>
 
+<|BeginSong|>
 JoHn Muir Lyrics[Verse 1: ScHoolboy Q]
 Bellin' through the motherfuckin' street, y'all
 Never had a motherfuckin' weed card
@@ -1769,8 +1802,10 @@ B-B-Bellin', bellin' through the motherfuckin' street—
 Bellin', b-bellin' through the motherfuckin' st—
 Bellin', bellin', bellin'
 Bell-bellin' through the motherfuckin' street— street
-Street, street, street, y'all37Embed
+Street, street, street, y'all38Embed
+<|EndSong|>
 
+<|BeginSong|>
 By Any Means Lyrics[Chorus: ScHoolboy Q & Kendrick Lamar]
 You can fuck my bitch, you can have my ho
 Get yours, get yours, get yours by any means
@@ -1837,7 +1872,9 @@ You can fuck my bitch, you can have my ho
 You can fuck my bitch, you can have my ho
 You can fuck my bitch, you can have my ho
 You can fuck my bitch, you can have my—39Embed
+<|EndSong|>
 
+<|BeginSong|>
 Tookie Knows II Lyrics[Intro: Schoolboy Q]
 Ugh (Ugh), we might die for this shit, nigga
 Ugh (Ugh, ugh), might go down for this shit, nigga
@@ -1942,7 +1979,9 @@ We might die for this shit, nigga
 Ugh (Ugh), might go down for this shit, nigga
 Ga—Gangbanging, that Crip shit
 We might die for this shit, nigga27Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hoover Street Lyrics[Part 1]
 
 [Verse]
@@ -2062,4 +2101,5 @@ But... Every last one of us had a pistol in the room, nigga
 But... Click-clack, pow-pow-pow (Boom, nigga)
 But... Me Glock clock familia (Boom)
 [Produced by Sounwave]63Embed
+<|EndSong|>
 

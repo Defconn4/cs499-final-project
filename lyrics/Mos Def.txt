@@ -1,3 +1,4 @@
+<|BeginSong|>
 Mathematics Lyrics[Produced by DJ Premier]
 
 [Intro]
@@ -109,7 +110,9 @@ It's all mathematics
 
 [Outro]
 (Mathematics, mathematics, mathematics...)93Embed
+<|EndSong|>
 
+<|BeginSong|>
 Ms. Fat Booty Lyrics[Hook]
 I know I can't afford to stop
 For one moment, that it's too soon to forget
@@ -210,8 +213,10 @@ My 911's unanswered by my fly Taurus enchantress
 Next week, Mu hit me up, I saw Sharice at the Kittie club
 With some bangin' ass Asian playin' lay it down and lick me up
 What!?47Embed
+<|EndSong|>
 
-Auditorium Lyrics[Intro: Mos Def]
+<|BeginSong|>
+Auditorium Lyrics[Intro: Yasiin Bey]
 Peace
 Peace, peace, peace, peace, peace, peace
 Power
@@ -221,7 +226,7 @@ Def operator
 Rock the data
 Amazin' flavor
 
-[Verse 1: Mos Def]
+[Verse 1: Yasiin Bey]
 Yo, the way I feel — sometimes it's too hard to sit still
 Things are so passionate, times are so real
 Sometimes I try and chill, mellow down, blowin' smoke
@@ -261,7 +266,7 @@ What it is, you know, we know
 What it is, they know, y'all know
 What it is, you don't know? Here it is!
 
-[Interlude: Mos Def]
+[Interlude: Yasiin Bey]
 Ecstatic! (En punto)
 Peace, power
 Fantastic
@@ -303,8 +308,10 @@ What it is, they know, y'all know
 What it is, you don't know? Here it is
 What it is, you know, we know
 What it is, they know, y'all know
-What it is, you know, here it is46Embed
+What it is, you know, here it is47Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hip Hop Lyrics[Intro]
 You say "one for the treble, two for the time"
 Come on, y'all, let's rock this!
@@ -378,7 +385,9 @@ Where farmers have trouble with cash crops (woooo)
 It's all-city like Phase 2
 Hip Hop will simply amaze you, praise you, pay you
 Do whatever you say do, but, black, it can't save you16Embed
+<|EndSong|>
 
+<|BeginSong|>
 UMI Says Lyrics[Intro]
 I don't wanna write this down
 I wanna tell you how I feel right now
@@ -482,7 +491,9 @@ Black people
 My people
 My people
 My people28Embed
+<|EndSong|>
 
+<|BeginSong|>
 I’m Leaving Lyrics[Mos Def]
 Yeah
 Yo, yo, what time the plane leavin'?
@@ -616,7 +627,9 @@ Shake your money maker
 Shake your money maker
 Move your money maker
 Move your money maker14Embed
+<|EndSong|>
 
+<|BeginSong|>
 Fear Not of Man Lyrics[Produced by Mos Def]
 
 [Spoken]
@@ -721,7 +734,9 @@ Bout to represent in your whole atmosphere
 To your atmosphere, to your atmosphere
 Oh-ooh!
 That was for you—and Brooklyn, too!8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Oh No! Lyrics[Intro: Mos Def]
 Yeah, one for the treble, two for the bass
 Welcome to the great, incredible paper chase
@@ -829,7 +844,9 @@ We rock from the East to West coast
 Queens, salute to Pharoahe
 Step away from the mic, they too cold
 The funk might fracture your nose18Embed
+<|EndSong|>
 
+<|BeginSong|>
 Mr. Nigga Lyrics[Intro]
 Say ho, everybody say ho
 By the way yo
@@ -950,8 +967,10 @@ I'm a get her them pretty bay windows
 I'm a cop a nice home to provide in
 A safe environment for seeds to reside in
 A fresh whip for my whole family to ride in
-And if I'm still Mr. Nigga, I won't find it suprisin'8Embed
+And if I'm still Mr. Nigga, I won't find it suprisin'9Embed
+<|EndSong|>
 
+<|BeginSong|>
 Brooklyn Lyrics[Verse 1]
 Hey hey, ha ha say what say what
 Ha ha bust it yo
@@ -1064,7 +1083,9 @@ Brooklyn keep on takin' it, worldwide we known for that
 Flossy cats get it snatched like the local tax
 The place I sharpen up my baritone vocals at
 Where one of the greatest MCs was a local cat13Embed
+<|EndSong|>
 
+<|BeginSong|>
 Love Lyrics[Intro]
 They say that goodness in life belongs to those who believe:
 So, I believe. Yes
@@ -1188,7 +1209,9 @@ Get love, l-o-v-e and I be
 
 [Outro]
 Check it out, y'all8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Speed Law Lyrics[Intro]
 (Watch it) Relax, pump the brakes
 You're speeding, money
@@ -1309,7 +1332,9 @@ In control like interstaters, state-ahs, state-ahs
 State-ahs, state-ahs, state-ahs, state-ahs, state-ahs
 State-ahs, state-ahs, state-ahs, state-ahs, state-ahs
 Stay the.. FUCK off the road, money!!6Embed
+<|EndSong|>
 
+<|BeginSong|>
 Niggas In Poorest Lyrics[Intro]
 Live from America
 Yasiin, Yasiin, y'all seen
@@ -1374,7 +1399,9 @@ Signs through the earth and through the heavens, lunar, solar eclipses
 We seeking for forgiveness and safety for our children
 Don't get caught up in no throne, don't get caught up in no throne
 Don't get caught up in no throne, Allah is in control10Embed
+<|EndSong|>
 
+<|BeginSong|>
 Sunshine Lyrics[Intro: Mos Def + (Sample)]
 (Let the sun shine)
 Yeah yeah it's a brand new day y'all (Let the sunshine in)
@@ -1487,7 +1514,9 @@ Life is real
 To all the real soldiers, black people (Let the sunshine in)
 We family y'all (The sun's shining')
 Let it be bright..9Embed
+<|EndSong|>
 
+<|BeginSong|>
 New World Water Lyrics[Intro]
 There's nothing more refreshing (That cool refreshing drink)
 Than a cool, crisp, clean glass of water
@@ -1574,7 +1603,9 @@ Give me cash (Money)
 Cold cash (Money)
 Cash rules everything around me
 Move!13Embed
+<|EndSong|>
 
+<|BeginSong|>
 Do It Now Lyrics[Intro: Mos Def]
 Back up, back up, back up, back up
 Back up back up back up back up EASE off
@@ -1702,7 +1733,9 @@ Do we do it, do it, do it, ah do it now!
 What what, we got to do it, do it
 Got to do it, do it
 Do it now!9Embed
+<|EndSong|>
 
+<|BeginSong|>
 Rock N Roll Lyrics[Mos Def]
 Make me wanna holla!
 "Ah.. ah-ah, ah-ah.. ah-ah, ah-lert the squad.."
@@ -1818,29 +1851,29 @@ All towns GET YOUR PUNK ASS UP!!
 Hi ma
 
 "Well that was just wonderful"2Embed
+<|EndSong|>
 
-Quiet Dog Bite Hard Lyrics[Fela Kuti speaking]
-One thing I want to assure them
+<|BeginSong|>
+Quiet Dog Bite Hard Lyrics[Intro: Fela Kuti & Yasiin Bey]
+"One thing I want to assure them
 If they think I'm gonna change or compromise
 My attitude and my way of life or
 In my expression or in my goal
 Towards politics
 They are making me stronger
-And I am much more stronger now..
-
-[Intro: Mos Def]
+And I am much more stronger now"
 Bang to the boogy
 Say up jump the boogy
 To the rhythm of the boogity beat
 To the rhythm of the boogity beat
 
-[Verse 1: Mos Def]
+[Verse 1: Yasiin Bey]
 There it go like simple the plainness, it's primal and basic
 Zulu arrangement rockin' amazement
 Flaco, radiating from heaven to pavement
-They phony as a face lift, I’m nothing to play with
+They phony as a facelift, I’m nothing to play with
 Spent time hating it but that ain't changing it
-God give it to me no body ain't takin' it
+God give it to me, nobody ain't takin' it
 Therefore, moving on the base for stimulus
 I'm standing in the twilight and watching them get it in
 The walls are tremblin', the air is simmering
@@ -1848,23 +1881,23 @@ She movin' like more than her ears are listenin', whoa now
 Testin' your equilibrium
 Sonic wave booming all over your intimate
 Skin on skin and skin on skin again
-Put it all, get it all, get on get it in
+Put it all, get it all, get on, get it in
 Ladies and gentlemen, misters and mistresses
 Cousins, uncles, aunties, and synonyms, there it is, boogieman
-[Hook: Mos Def]
+[Hook: Yasiin Bey]
 Hah
 Simmer down simmer down simmer down now
 Simmer down now
 Simmer down now
 Simmer down
-Quiet dog, bite hard my God!
+Quiet dog, bite hard, my God!
 
-[Verse 2: Mos Def]
+[Verse 2: Yasiin Bey]
 Said and the rocket don't stop
-Brooklyn in the kitchen heat up the stove top
-Bey in the empire state and navigating the way
-Preservation make the greatest hip hop
-The cool dudes swagger they terribly corny
+Brooklyn in the kitchen, heat up the stovetop
+Bey in the Empire State and navigating the way
+Preservation make the greatest hip-hop
+The cool dudes swagger, they terribly corny
 They flow so petty, unsteady, it's boring
 These dudes ain't dope but they on it
 They need to get off it, so "wack wack" is all you can call it
@@ -1877,25 +1910,25 @@ Simmer down, I manage your mayhem
 I'm bright as the AM
 Engine 'bout to roll out the station
 I'm blessed with the fresh from day one
-I got it from day done
+I got it ‘til day done
 We all going back to the same one
 It's the cost of motivation I'll stay with
 Remarkable flavors
 That all bear the mark of the greatness
-Woah now, Is to get us to buck town
+Woah now, the kid is from Buck Town
 Your girl is in love now
-You chumps don’t want to get shut-down, shoo!
-[Hook: Mos Def]
-Simmer down simmer down simmer down now
+You chumps don’t want to get shut down, shoo!
+[Hook: Yasiin Bey]
+Simmer down, simmer down, simmer down now
 Simmer down now
 Simmer down now
 Simmer down
 Quiet dog, bite hard, let's rock
 
-[Bridge: Mos Def]
+[Bridge: Yasiin Bey]
 Hah
 And we don't stop
-See you rock to the rhythm we don't stop
+See you rock to the rhythm, we don't stop
 So you maintain the rock and you don't stop
 You keep up the rock and you don't stop
 (The rock)
@@ -1907,9 +1940,9 @@ Maintain the rock and you don't stop
 (The rock)
 You keep up the rock, quiet dog, bite hard, my God!
 
-[Hook: Mos Def]
+[Hook: Yasiin Bey]
 Hah
-Simmer down simmer down simmer down now
+Simmer down, simmer down, simmer down now
 Simmer down now
 Simmer down now
 Simmer down
@@ -1918,8 +1951,10 @@ Simmer down simmer down simmer down now
 Simmer down now
 Simmer down now
 Simmer down
-Quiet dog, bite hard my God!6Embed
+Quiet dog, bite hard, my God!6Embed
+<|EndSong|>
 
+<|BeginSong|>
 A Message from Yasiin Bey [via Kanye West] Lyrics[Intro]
 Peace, this is Yasiin
 
@@ -1984,17 +2019,19 @@ Biggie got shot right here
 Angeles
 Hollywood, hoes, handguns
 Peace to all, fear none. This is Bey. Love. One22Embed
+<|EndSong|>
 
-History Lyrics[Intro]
+<|BeginSong|>
+History Lyrics[Intro: Yasiin Bey]
 Kweli say, "Everybody act according to the season that they born in"
-Some are the night, some are the morning, some at noon
+Some in the night, some in the morning, some at noon
 Some in winter, some in June
-It's our code, it's the natural
-The science is a jewel
+It's all cool, it's the natural
+Science is a jewel
 For me and mines, yours and you
 Let's move, tell you a little bit about mine, yo
 
-[Verse 1]
+[Verse 1: Yasiin Bey]
 I was born in a season where the world was quiet and cold
 Celebrations were going on
 Some were happy, some were sad
@@ -2020,7 +2057,7 @@ Again and again, newness
 I was born in the decade of decadence where they worshipped what they have
 Ford was president, do the math
 The war was ended when the North Vietnamese stormed the city of Saigon
-We was like, bye; we was gone, let bygones be bygones
+We was like, bye, we was gone, let bygones be bygones
 I'm gone, spread love, it's the Brooklyn way
 Where they hug you with the firearm, try it on
 Like new school clothes, Black Star official
@@ -2034,13 +2071,14 @@ The flow is historic, they can't get rid of us
 Ubiquitous, and we lay the law like Leviticus
 Ten years ago we made history so they missing us
 
-[Outro]
+[Outro: Yasiin Bey]
 And don't call it comeback in particular
 We will never blend into ephemera or
-Fade into peripheral, transition of the minister's original
-We're broadcast clear without diminishing
-Black Star so tight, burning soul temperatures and ministers
-Alkalines, aminos and minerals essentials
+Fade into peripheral, transmission of the ministers' origin
+Over broadcast clear without diminishing
+Black Star stovetop burning soul temperatures, administers
+Alkalines, aminos and minerals: essentials
 Served over Dilla time signatures
 It's miracle material, remember it's right now foreverness3Embed
+<|EndSong|>
 

@@ -1,3 +1,4 @@
+<|BeginSong|>
 Show Me Lyrics[Intro: Chris Brown, (Kid Ink) & YG]
 Baby (yeah)
 Mustard on the beat, ho
@@ -100,7 +101,9 @@ Baby, you remind me of something (uh)
 I don’t know what it is right now (I don't know)
 'Cause you remind me of something
 Girl, you gotta show me (uh)326Embed
+<|EndSong|>
 
+<|BeginSong|>
 Promise Lyrics[Intro: Kid Ink & YG]
 Always, ugh
 You straight
@@ -205,7 +208,9 @@ I promise to be great
 Kid Ink
 Always, uh
 You straight46Embed
+<|EndSong|>
 
+<|BeginSong|>
 Be Real Lyrics[Intro: DeJ Loaf & YG]
 (Mustard on the beat, ho)
 You ain't got no will, you ain't got no bottle
@@ -280,7 +285,9 @@ L-let's just be
 Let's just be
 Let's just be real
 Let's just be147Embed
+<|EndSong|>
 
+<|BeginSong|>
 Money and the Power Lyrics[Intro: Kid Ink]
 Money and the power
 Once you get a 'lil they just want to take you down (cause)
@@ -355,7 +362,9 @@ Really ain’t nothing, I can drop that
 Wake up in the morning, make it all back
 We, we’ve been going hard for too long
 We, we’ve been going hard for too long73Embed
+<|EndSong|>
 
+<|BeginSong|>
 Main Chick Lyrics[Intro: Chris Brown & Kid Ink]
 I told her, "Fuck that nigga"
 Woop-woop, uh
@@ -438,7 +447,9 @@ Girl, I know you wanna be my main chick
 My main chick
 I said fuck whoever you came with, who you came with
 I told her, "Fuck that nigga"146Embed
+<|EndSong|>
 
+<|BeginSong|>
 Show Me (Remix) Lyrics[Intro: Trey Songz, Chris Brown & (Kid Ink)]
 Ugh!
 Ooh baby
@@ -587,7 +598,9 @@ Baby, if you know what it is, oh, baby, oh, baby
 On a real, can’t lie, man, you just my type
 Hands in the air looking for a bitch right now, I'm looking for ya
 On a real, can’t lie, man, you just my type57Embed
+<|EndSong|>
 
+<|BeginSong|>
 Badass Lyrics[Produced by Devin Cruise]
 
 [Chorus: Kid Ink]
@@ -701,7 +714,9 @@ Go! (Show off)
 Go! (Show off)
 Go! (Show off)
 Yeah! (Show off)41Embed
+<|EndSong|>
 
+<|BeginSong|>
 Time of Your Life Lyrics[Intro]
 You ain't gotta (you ain't gotta), you ain't gotta (you ain't gotta) leave
 I think I gotta...
@@ -786,7 +801,9 @@ Gon' just, have the time of your life, time of your life
 Let it go (go, go, go, go, go)
 And have the time of your life, time of your life
 Baby, let it show16Embed
+<|EndSong|>
 
+<|BeginSong|>
 Sunset Lyrics[Intro]
 Egh, yeah, okay
 
@@ -855,7 +872,9 @@ Man, you know how it go down, man, you know how it go down
 I'll entertain ya, just wait until the sun goes down
 You know how it go down, you know how it go down
 Might get a little crazy, just wait until the sun goes down45Embed
+<|EndSong|>
 
+<|BeginSong|>
 Main Chick (Remix) Lyrics[Intro: Chris Brown]
 I told her "fuck that nigga"
 (Woop! Uh, I said woop! It's the remix)
@@ -968,7 +987,9 @@ Tryna get that name, but you've heard my name
 Girl I know you wanna be my main chick, my main chick
 I said fuck whoever you came with, who you came with
 I told her "Fuck that nigga"21Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hell & Back Lyrics[Intro]
 Said you can tell' em that
 I been from uh uh
@@ -1056,7 +1077,9 @@ In this cold world
 Where your lighters at
 Just burn it down
 F-f-fire back70Embed
+<|EndSong|>
 
+<|BeginSong|>
 Body Language Lyrics[Intro: Kid Ink]
 It's Kid Ink, yeah yeah, watch this
 
@@ -1130,7 +1153,9 @@ But you ain't gotta say too much (no), you ain't gotta say too much (no)
 I can read your body language
 You ain't gotta say too much
 I can read your body language111Embed
+<|EndSong|>
 
+<|BeginSong|>
 F with U Lyrics[Intro: Kid Ink & Ty Dolla $ign]
 Let's go, woo
 I've been tryna get over you
@@ -1205,7 +1230,9 @@ Yeah, yeah (You Ooh)
 Yeah, yeah (You Ooh)
 Yeah, yeah (You Ooh)
 I still fuck with you (with you)16Embed
+<|EndSong|>
 
+<|BeginSong|>
 No Miracles Lyrics[Chorus: Elle Varner]
 I never waited on a miracle
 There ain’t no miracles round here
@@ -1295,7 +1322,9 @@ There ain’t no miracles…
 I’m not afraid of the impossible
 There ain’t impossible round here
 There ain’t impossible, no53Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hotel Lyrics[Intro: Kid Ink, Chris Brown & Both]
 I said why you over there lookin' at me (whoop)
 While I'm with my girlfriend?
@@ -1384,7 +1413,9 @@ Take it to the hotel, baby, leave with me
 Know I got a penthouse suite
 I said why you over there lookin' at me
 While I'm with my girlfriend??73Embed
+<|EndSong|>
 
+<|BeginSong|>
 Iz U Down Lyrics[Chorus: Kid Ink]
 I could tell by the way you’ve been lookin' at yo girlfriend
 I could tell by the way you’ve been dancing wit' yo girlfriend
@@ -1466,7 +1497,9 @@ Can I ask iz u down? Iz u down? (uhh, uhh)
 Iz u down? Iz u down?
 Can I ask iz u down? Iz u down? (Kid Ink)
 Iz u down? Iz u down?95Embed
+<|EndSong|>
 
+<|BeginSong|>
 Bossin’ Up (Extended Version) Lyrics[Intro]
 Okay, bossin' up
 You, you can check we bossin'
@@ -1651,7 +1684,9 @@ A lil' Louis but my bitch wants some bags and stuff
 
 [Outro]
 Bags and stuff...40Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hell & Back (Remix) Lyrics[Intro: Machine Gun Kelly & Kid Ink]
 Walk a mile in my Chucks, see where you end up
 You can tell 'em that
@@ -1745,7 +1780,9 @@ I've been from hell and back
 When the heat is on, I fire back
 In this cold world, where your lighters at
 Let's burn it down, f-f-fire back10Embed
+<|EndSong|>
 
+<|BeginSong|>
 I Just Want it All Lyrics[Chorus]
 I just want it all, money and the cars right
 I don't wear a tie but they say I live a boss life
@@ -1798,7 +1835,9 @@ Now I just want it all, all, all, all, all, all, yeah
 I just want it all, all, all, all, all, yeah yeah
 [Outro]
 You ain't got to give it to me, I'll take it from y'all36Embed
+<|EndSong|>
 
+<|BeginSong|>
 No Option Lyrics[Verse 1: Kid Ink]
 I take a look around ain’t nothing brand new
 But the brand A clothes and a couple tattoos
@@ -1892,4 +1931,5 @@ But you leave us no option
 Yup, its no option, Yup, its no option
 Yup, look around its no option
 Yup, tell me what you know bout it59Embed
+<|EndSong|>
 

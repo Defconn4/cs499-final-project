@@ -1,3 +1,4 @@
+<|BeginSong|>
 ​iSpy Lyrics[Intro: KYLE & Lil Yachty]
 Man, fuck
 What's wrong Kyle?
@@ -90,8 +91,10 @@ Oh I, I spy with my little eye
 I spy, I spy with my little eye
 Oh I, I spy with my little eye
 I spy, I spy with my little eye
-Oh I209Embed
+Oh I210Embed
+<|EndSong|>
 
+<|BeginSong|>
 Don’t Wanna Fall in Love Lyrics[Intro: Jane Child]
 Ain't no personal thing
 
@@ -179,7 +182,9 @@ I don't want to fall in love (No, no)
 Love cuts just like a knife
 You make the knife feel good (Baby)
 I’ll fight you 'til the end53Embed
+<|EndSong|>
 
+<|BeginSong|>
 Playinwitme Lyrics[Chorus: KYLE]
 Girl, why are you playin' wit' me?
 Girl, who are you playin' wit'?
@@ -255,7 +260,9 @@ I'ma need that time back, yeah
 [Outro: KYLE]
 Da-da
 Da-da-da34Embed
+<|EndSong|>
 
+<|BeginSong|>
 Doubt It Lyrics[Intro]
 Yeah, yeah
 Yeah, she trippin'
@@ -331,7 +338,9 @@ Zoning in California on a mountain
 High up, I'm with my main thing, she keep me grounded
 Don't test us, she with the extras, read all about it
 You 'bout it? I really doubt it, I really doubt it42Embed
+<|EndSong|>
 
+<|BeginSong|>
 Ikuyo Lyrics[Pre-Chorus: Sophia Black, KYLE & Both]
 Doko-Dokokara mitemo itsumademo (Yeah)
 Style mo ginsei sutekidayo
@@ -415,7 +424,9 @@ Style mo ginsei sutekidayo
 I-Ishou killin' it fuan demo (Oh)
 Dokokara mitemo sutekidayo
 Ikuyo11Embed
+<|EndSong|>
 
+<|BeginSong|>
 Hey Julie! Lyrics[Intro: Lil Yachty]
 Yeah! Lil Boat
 KYLE, and Lil Boat
@@ -479,7 +490,9 @@ Hey Julie
 Ooh, hey Julie
 Hey Julie
 Ooh, hey Julie13Embed
+<|EndSong|>
 
+<|BeginSong|>
 Keep It Real Lyrics[Verse 1]
 A'ight look
 Ever since I was thirteen
@@ -593,7 +606,9 @@ I keep it real, (Keep it real, nigga) my nigga
 I keep it real, (Keep it real, nigga)
 That's how I feel, my nigga
 Just keep you real26Embed
+<|EndSong|>
 
+<|BeginSong|>
 Focus On You Lyrics[Chorus]
 You are the only girl that when I look into your face
 It's like a trip to outer space
@@ -666,7 +681,9 @@ Say, say, say
 Say, say, say
 Say, say, say
 Say, say, say54Embed
+<|EndSong|>
 
+<|BeginSong|>
 Sex & Super Smash Bros. Lyrics[Produced by Deaf Heff]
 
 [Verse 1]
@@ -749,7 +766,9 @@ Sex and Super Smash, sex and, sex and Super Smash Bros
 Sex and Super Smash, sex and, sex and Super Smash Bros
 Sex and, sex and, sex and, sex and Super Smash Bros
 Sex and, sex and, sex and, sex and Super Smash Bros23Embed
+<|EndSong|>
 
+<|BeginSong|>
 Remember Me? Lyrics[Verse 1: KYLE]
 Yeah, okay well hey yo remember me?
 The one you used to rarely meet
@@ -834,7 +853,9 @@ You say what's your name again?
 Finally, don't call but it's alright
 
 I'll re-jog your memory15Embed
+<|EndSong|>
 
+<|BeginSong|>
 Just a Picture Lyrics[Intro: Kyle]
 Mhm, oh yeah, gratata
 This is a real ass problem and it should be taken seriously, ok?
@@ -925,7 +946,9 @@ You look for fans but you could have us
 You know its so much bigger babe
 Just a picture baby
 Just a picture baby36Embed
+<|EndSong|>
 
+<|BeginSong|>
 Really? Yeah! Lyrics[Intro]
 Really? Really? Yeah!
 Really? Yeah!
@@ -1039,7 +1062,9 @@ Really? Really? Yeah!
 Really? Really? Yeah!
 Really? Really? Yeah!
 Really? Really? Yeah!8Embed
+<|EndSong|>
 
+<|BeginSong|>
 King Wavy Lyrics[Intro]
 Ayy, cut that down right quick
 Ayy attention, attention please
@@ -1126,7 +1151,9 @@ Wavy, wavy, wavy, wavy
 Right? King wavy
 Wavy, wavy, wavy, wavy
 Tryna make sure all my niggas paid16Embed
+<|EndSong|>
 
+<|BeginSong|>
 Ups & Downs Lyrics[Intro]
 How brave do I become when truly loved?
 My overwhelmin' feels are overcome
@@ -1217,7 +1244,9 @@ Now, now listen up, man. You gotta leave that negativity shit in the past. That 
 Uh, what, what the fuck are you talkin' about?
 Don't trip dawg, follow me. I'ma show you
 You comin'?15Embed
+<|EndSong|>
 
+<|BeginSong|>
 Raining Love Lyrics[Intro]
 I'm not gonna spit game, send me a pic babe
 Does anyone smell that? Damn you're the shit babe
@@ -1292,7 +1321,9 @@ It's raining love, love, love
 Love, love, love, love
 It's raining love, love, love
 Love, love, love, love20Embed
+<|EndSong|>
 
+<|BeginSong|>
 Oceans Lyrics[Hook]
 Well I'm in Ventura just posted
 Got done hitting my old chick
@@ -1370,7 +1401,9 @@ Called up my nigga Nolan
 Said lets get this shit in motion
 Now I'm really fucking I done upgraded from lotion
 Put put on my rubber suit and I'll go diving in the ocean35Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​iSpy (Remix) Lyrics[Verse 1: Kyle]
 I ain't been gettin' high...
 Well, maybe a little, baby, I don't wanna lie
@@ -1454,7 +1487,9 @@ I spy, I spy with my little eye
 Oh, I, I spy with my little eye
 I spy, I spy with my little eye
 Oh, I...9Embed
+<|EndSong|>
 
+<|BeginSong|>
 Fruit Snacks Lyrics[Intro]
 Hey Kyle!
 
@@ -1524,7 +1559,9 @@ Don’t really smoke
 Bitches be sniffin' that snow
 Girlies in reindeer gear
 Dancing for silver and gold (Silver and gold, silver and gold)25Embed
+<|EndSong|>
 
+<|BeginSong|>
 Deeper Lyrics[Intro]
 You would like to see something really sexy?
 Misour, you don't, uh, you don't sound so sure?
@@ -1579,7 +1616,9 @@ We'll go deep, we'll go deep, deep, deeper
 We'll go deep, we'll go deep, deep, deeper
 We'll go deep, we'll go deep, deep, deeper
 We'll go deep, we'll go deep, deep, deeper18Embed
+<|EndSong|>
 
+<|BeginSong|>
 FUN Lyrics[Part 1]
 
 [Verse 1]
@@ -1704,4 +1743,5 @@ Have fun
 Guess I wasn't fun, fun, fun, fun, fun, fun
 Have fun
 Have fun22Embed
+<|EndSong|>
 

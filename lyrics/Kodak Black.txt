@@ -1,3 +1,4 @@
+<|BeginSong|>
 Tunnel Vision Lyrics[Intro]
 Glee
 (Southside)
@@ -78,7 +79,9 @@ My mama told me, "Boy, make good decisions"
 Right now I gotta keep a tunnel vision
 They sendin' all my homies on a mission
 And I ain't tryna miss out on these millions157Embed
+<|EndSong|>
 
+<|BeginSong|>
 No Flockin Lyrics[Intro]
 Damn, that's so sad
 KKK, KKK
@@ -120,7 +123,9 @@ I'm a freeband junkie, you a junkie
 You gettin' skinny, I'm gettin' chunky, gettin' money
 Want some food? Boy, you hungry, I want them hundreds
 Hundreds97Embed
+<|EndSong|>
 
+<|BeginSong|>
 Roll in Peace Lyrics[Intro: Kodak Black]
 Ayy, everything be like, off the top these days like
 (We got London on da Track)
@@ -236,7 +241,9 @@ You say that you gon' ride for me, ayy
 
 [Outro: Kodak Black]
 I'm in London, got my beat from London76Embed
+<|EndSong|>
 
+<|BeginSong|>
 ZEZE Lyrics[Intro]
 D.A. got that dope!
 
@@ -344,8 +351,10 @@ This that Z shit, this that Z shit (This that Z shit)
 Uh-huh, ha, oh-ah-oh
 Uh-huh, ha, oh-ah-oh
 Uh-huh, ha, oh-ah-oh
-Uh-huh, ha, oh-ah-oh92Embed
+Uh-huh, ha, oh-ah-oh93Embed
+<|EndSong|>
 
+<|BeginSong|>
 SKRT Lyrics[Chorus]
 Girl, I'm done with you (With you)
 Girl, we done, it's through (Girl, we done)
@@ -391,7 +400,9 @@ Sniper on the roof, he playin' peek-a-boo, skrt, skrt
 Jump in that jag, skrt, skrt, skrt
 (Ooh, Kodak, skrt, skrt, skrt, skrt, skrt)
 Skrt, skrt, skrt (Skrt) Ah, ah, skrt, skrt53Embed
+<|EndSong|>
 
+<|BeginSong|>
 There He Go Lyrics[Intro]
 Ayy, ayy, ayy, ayy
 (DJ Swift on the Track)
@@ -455,7 +466,9 @@ Just hopped off the plane, I just got out about a day ago
 Everybody love me, when they see me they be like, "There he go!"
 Got me a new lady, we 'bout to take a trip to Mexico
 Crackers took my 40 so I'm 'bout to go buy a Draco13Embed
+<|EndSong|>
 
+<|BeginSong|>
 Skrilla Lyrics[Intro]
 Rrrah, rrrah, uh
 Sniper Gang, 1800
@@ -526,7 +539,9 @@ All my niggas monkeys, we gorillas (Yeah, we gorillas)
 All my niggas clutchin', we some hittas (We some hittas)
 Birds on my timeline, call it Twitter (Tweet, tweet, tweet)
 That skrilla, that skrilla15Embed
+<|EndSong|>
 
+<|BeginSong|>
 Codeine Dreaming Lyrics[Intro: Kodak Black]
 Yeah, yeah, yeah
 I take that one all the way up
@@ -623,7 +638,9 @@ I'm smoking moonrocks, shawty, and I feel the ceiling (Yeah)
 [Outro: Kodak Black]
 And I'm codeine dreaming, and I'm codeine dreaming
 And I'm codeine dreaming40Embed
+<|EndSong|>
 
+<|BeginSong|>
 Transportin’ Lyrics[Intro]
 Pockets so fat, call me orbit
 Norbit, I mean
@@ -686,7 +703,9 @@ I'm doing fraud, got that bag, yeah, I'm transportin'
 I got that bag on me nigga, like I'm Jansportin'
 He dropped his mixtape, thought I woulda repost it
 I ain't post his mixtape 'cause I don't fuck with shorty20Embed
+<|EndSong|>
 
+<|BeginSong|>
 Too Many Years Lyrics[Chorus: PnB Rock]
 I done gave the jails too many years
 Years that I won’t get back
@@ -764,7 +783,9 @@ Niggas in the state yards
 I swear not a day goes by
 That I don’t think about the times
 I wish that I could rewind37Embed
+<|EndSong|>
 
+<|BeginSong|>
 Calling My Spirit Lyrics[Verse 1]
 I put my heart in my lyrics
 I gave it all I could give
@@ -827,7 +848,9 @@ It's like you gotta sell your soul for them to pay attention
 Fuck all that playing, now I'm grown, I put my heart in it
 I had to get down with that chrome to show them niggas I'm serious
 And it's like every song I'm on, I be calling my spirits28Embed
+<|EndSong|>
 
+<|BeginSong|>
 Like Dat Lyrics[Intro]
 Sniper gang, Kodak
 Cause I got it by myself
@@ -895,7 +918,9 @@ Why you strapped like dat?
 Cause I got it by myself (By myself, ayy)
 Nigga, I don't need no vitamin C
 I be smokin' broccoli, they say it's good for my health (I'm the healthy kid)14Embed
+<|EndSong|>
 
+<|BeginSong|>
 Institution Lyrics[Intro]
 Institution (Baby girl)
 Damn, yeah, what it is, girl? (What it is? How you doing?)
@@ -944,7 +969,9 @@ Ayy
 If I wasn't paper chasin', I'd probably never leave your side
 (Ayy, ayy)
 Institution9Embed
+<|EndSong|>
 
+<|BeginSong|>
 I.M.Y (I Miss You) Lyrics[Intro]
 Damn girl, you so fine, I had missed you
 I thought I was never gon' see you, dawg
@@ -994,7 +1021,9 @@ And I can't wait to touch ya
 Girl you know that I just wanna kiss you and hug ya
 Hold me down when I’m gone, I got in a lil' trouble
 But one day I be home and together we gon' bubble10Embed
+<|EndSong|>
 
+<|BeginSong|>
 Pimpin Ain’t Eazy Lyrics[Intro]
 Tied, they dead, flies everywhere
 Y'all know that, it’s Lil Kodak, ayy, you play, you lay
@@ -1074,7 +1103,9 @@ What's the principle? Pimpin' ain't easy
 I'm invincible, niggas can't beat me
 Ayy, what's the principle? Pimpin' ain't easy
 I'm invincible, niggas can't beat me8Embed
+<|EndSong|>
 
+<|BeginSong|>
 Baby Girl Lyrics[Chorus]
 I'm so tired of people telling you I'm doing things
 I need you to stop accusing me of playing games
@@ -1109,7 +1140,9 @@ You been riding for so long I hope you never change
 Just ride with me down this road it ain't no switching lanes
 It's like I'm feeling you more each and every day
 I ain't letting you go don't you run away12Embed
+<|EndSong|>
 
+<|BeginSong|>
 Love & War Lyrics[Intro]
 J Gramm on the beat
 Big ol' strap like I'm a Haitian
@@ -1184,7 +1217,9 @@ Wanna tell you that I like you, but I don't, 'cause I'm not sure
 I just take her heart and score, then I love her 'til she sore
 I just break her heart in fours, then I don't want her anymore
 If I eat it, could I treat it? Could I beat it with my sword?12Embed
+<|EndSong|>
 
+<|BeginSong|>
 Patty Cake Lyrics[Intro]
 Sniper Gang
 Yeah, I like this lil' beat right here
@@ -1253,7 +1288,9 @@ I clap a nigga like patty cake
 I'm swaggin', I got flavor, I got sauce, call me Ragu
 I love my baby girl pussy bald, call her Caillou
 I clap a nigga like patty cake20Embed
+<|EndSong|>
 
+<|BeginSong|>
 Testimony Lyrics[Intro]
 I'm God-sent, I know I’m God-sent
 I swear 'fore God
@@ -1315,7 +1352,9 @@ Blood in my eyes, I'm goin' blind, oh
 I'm stuck in these streets, feel like my life froze
 I've been runnin' these streets, got me dehydrated
 I've been livin' so crazy, feel like I'm dyin', baby16Embed
+<|EndSong|>
 
+<|BeginSong|>
 Super Gremlin Lyrics[Intro]
 Yeah, we could be superstars
 We been rather wreckin' cars (Ayy bro, is that Jambo?)
@@ -1406,4 +1445,5 @@ Snatch and grab, sneak and geek, Sniper Gang, trust
 Nightmare, baby, you know I—
 I bet you always see me in your dreams
 Glee12Embed
+<|EndSong|>
 

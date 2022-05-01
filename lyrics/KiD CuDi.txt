@@ -1,3 +1,4 @@
+<|BeginSong|>
 Just What I Am Lyrics[Verse 1: King Chip]
 I'm just what you made God — not many I trust
 I'ma go my own way God, take my fate to wherever you want
@@ -67,7 +68,9 @@ I'm just what you made God, I'm just what you made God
 [Outro]
 Need it to get by, ya
 Willy188Embed
+<|EndSong|>
 
+<|BeginSong|>
 Pursuit of Happiness (Nightmare) Lyrics[Intro: Kid Cudi]
 Mmmm, ay-oh
 Hey...
@@ -143,7 +146,9 @@ Pat, Zuli...
 Oh fuck
 Oh my God, why'd I drink so much and smoke so much? Oh
 Oh, fuck267Embed
+<|EndSong|>
 
+<|BeginSong|>
 Day ‘N’ Nite (Nightmare) Lyrics[Intro]
 Uh, uh, uh, uh
 Uh, uh
@@ -212,7 +217,9 @@ Cleveland status, ridin' all day
 Cleveland status, ridin' all night
 Cleveland status, ridin' all day
 Cleveland status, ridin' all night207Embed
+<|EndSong|>
 
+<|BeginSong|>
 Soundtrack 2 My Life Lyrics[Verse 1]
 I got 99 problems and they all bitches
 Wish I was Jigga man, carefree livin'
@@ -294,7 +301,9 @@ Yeah, uh-huh
 Yeah
 Yeah
 Yeah164Embed
+<|EndSong|>
 
+<|BeginSong|>
 Mr. Rager Lyrics[Video Intro]
 Inhale and I want you to exhale
 And I want you to follow your breath
@@ -376,7 +385,9 @@ Hey
 3... 2... 1...
 Scott. Scott. Scott. Scott!
 That's good. You alright?103Embed
+<|EndSong|>
 
+<|BeginSong|>
 The Prayer Lyrics[Intro]
 Plain Pat, what up?
 
@@ -443,7 +454,9 @@ I'm ready for the funeral
 Hey, I'm ready for it
 I'm ready for it
 I'm ready for the funeral146Embed
+<|EndSong|>
 
+<|BeginSong|>
 Erase Me Lyrics[Verse 1: Kid Cudi]
 She said I don't spend time like I really should
 She said she don't know me anymore
@@ -501,7 +514,9 @@ I keep on running, keep on running
 And nothing works, I can't get away from you, no
 I keep on ducking, keep on ducking you, nothing helps
 I can't stop missing you87Embed
+<|EndSong|>
 
+<|BeginSong|>
 Man on the Moon (The Anthem) Lyrics[Intro]
 (Yawn)
 Alright, run it
@@ -572,7 +587,9 @@ I be that man on the moon, I'm that man on the moon
 And I'mma do what I do, so do you, hey-hey
 I be posted with my blunt and a brew, my dude
 I'm that man on the moon, I'm up-up on the moon106Embed
+<|EndSong|>
 
+<|BeginSong|>
 King Wizard Lyrics[Intro]
 It's just me and my niggas
 And my family
@@ -680,7 +697,9 @@ Yeah, right back on your bitch ass
 We ain't playing games ho
 Yeah, yeah, wicked
 Alright Ian51Embed
+<|EndSong|>
 
+<|BeginSong|>
 By Design Lyrics[Refrain: Kid Cudi]
 Ooh-oh, tap in to the frequency, light
 Ooh-oh, tap in to the frequency, light
@@ -783,7 +802,9 @@ I read all the bad news that says I'm too careful
 Ooh-oh, tap in to the frequency, light
 Ooh-oh, tap in to the frequency, light
 Ooh-oh, tap in to the frequency, light58Embed
+<|EndSong|>
 
+<|BeginSong|>
 Baptized in Fire Lyrics[Intro: Kid Cudi]
 Mmm, easy, back up, back up, back up, back up, uh
 Turn your radio, turn your radio, off
@@ -873,7 +894,9 @@ High-igh-igher, high-igh, high-igh-igher
 High-igh-igher, high-igh, high-igh-igher
 High-igh-igher, high-igh, high-igh-igher
 High-igh-igher, high-igh, high-igh-igher71Embed
+<|EndSong|>
 
+<|BeginSong|>
 Tequila Shots Lyrics[Intro]
 Duh-duh-duh, duh, duh, duh
 As he falls back deeper, into a state
@@ -954,7 +977,9 @@ And the story goes, hey, hey
 As the story goes, hm
 This fight, this war in me
 This fight, this war in me, in me, in me56Embed
+<|EndSong|>
 
+<|BeginSong|>
 Immortal Lyrics[Sample]
 I am the smartest man alive!
 
@@ -1020,7 +1045,9 @@ Ohh, I, ohh
 
 [Outro]
 Don't Fuck with me. Fuck with me. Don't, don't fuck with me. Fuck with me59Embed
+<|EndSong|>
 
+<|BeginSong|>
 ​love. Lyrics[Produced by Kid Cudi & Dot Da Genius]
 
 [Verse 1]
@@ -1099,7 +1126,9 @@ Don't be so down, c'mon young homie
 You'll be okay, you'll find real love
 All of the stories, the hero gets lonely
 Now is the time to show what you're made of306Embed
+<|EndSong|>
 
+<|BeginSong|>
 Mojo So Dope Lyrics[Intro: Fridolin Nordsø]
 God, I thought I loved you so
 God, I thought I loved you so
@@ -1188,7 +1217,9 @@ Oh, oh-oh, oh
 On, and on, and on, and on, and
 On, and on, and on, and on, and
 On, and on, and on, and on, and67Embed
+<|EndSong|>
 
+<|BeginSong|>
 GHOST! Lyrics[Intro]
 Yeah, woah-woah, oh
 Yeah, woah-woah, haha
@@ -1271,7 +1302,9 @@ Listen to me
 Whow-whow-whow
 Listen to me
 Whow-whow-whow72Embed
+<|EndSong|>
 
+<|BeginSong|>
 Rose Golden Lyrics[Intro]
 Two, three, four
 Ohhh-oh-ohh
@@ -1358,7 +1391,9 @@ Hmm, hey, na-na-na-na-na-nah
 The story of The Chosen, Rose Golden
 Hmm, na-na-na-na-na-nah
 The story of The Chosen54Embed
+<|EndSong|>
 
+<|BeginSong|>
 Creepers Lyrics[Chorus]
 Yeah, I see you hatin' over there
 See you jockin' over there, see you lookin' at my girl over here
@@ -1403,7 +1438,9 @@ I'm just doin' my thang, if you know what I mean, get it right
 And they think they know
 And they think they know the deal, for real
 I'm just doin' my thang, if you know what I mean, yo46Embed
+<|EndSong|>
 
+<|BeginSong|>
 Make Her Say (I Poke Her Face) Lyrics[Chorus: Kid Cudi & Lady Gaga]
 I make her say
 Oh, oh-oh-oh, oh, oh-oh-oh
@@ -1520,7 +1557,9 @@ She's got me like nobody
 Can't read my, can't read my
 No, he can't read my poker face
 She's got me like nobody34Embed
+<|EndSong|>
 
+<|BeginSong|>
 Cudi Zone Lyrics[Verse 1]
 Soarin', is this allowed?
 I sure bet my daddy proud
@@ -1618,4 +1657,5 @@ When I'm zoned, I'm feeling alright
 I'm feeling alright, I'm feeling alright
 When I'm zoned, I'm feeling alright
 I'm feeling alright, I forget about it all81Embed
+<|EndSong|>
 
