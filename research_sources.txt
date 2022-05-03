@@ -4,10 +4,12 @@ Sources for grabbing lyrics:
 Sources for using GPT-2 Model (Hugging Face):
     1) https://huggingface.co/docs/transformers/model_doc/gpt2
     2) https://beta.openai.com/docs/guides/completion/inserting-text - OpenAI GPT-3 model documentation/use
+    3) https://colab.research.google.com/drive/1DeeGRmjktTwIUAsTMQFjDVuPdUayiulM?usp=sharing#scrollTo=LdpZQXknFNY3 - for GPT-2 finetuning.
 
 Sources for similar implementations of rap lyric text generation:
-    1) https://medium.com/analytics-vidhya/create-a-rapping-ai-using-deep-learning-part-2-fine-tune-a-pre-trained-gpt-2-instance-for-a-1eb19ac557c3 - kind of useless since it's loading in GPT-2 manually instead of using HuggingFace 
-    2) **Check project proposal/project progress report**
+    1) https://medium.com/analytics-vidhya/create-a-rapping-ai-using-deep-learning-part-2-fine-tune-a-pre-trained-gpt-2-instance-for-a-1eb19ac557c3 - kind of useless since it's loading in GPT-2 manually instead of using HuggingFac
+    2) https://towardsdatascience.com/how-to-fine-tune-gpt-2-for-text-generation-ae2ea53bc272 - Finetuning GPT-2 for text generation to generate song lyrics 
+    3) **Check project proposal/project progress report**
 
 Research papers && quick synopsis:
     1) `DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling` - https://arxiv.org/abs/2107.01875

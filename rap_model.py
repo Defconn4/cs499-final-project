@@ -1,7 +1,6 @@
-from unittest.util import _MAX_LENGTH
-import tokenizers
-from transformers import GPT2Tokenizer, GPT2Model, pipeline, set_seed, TFGPT2Model, GPT2LMHeadModel         # Need to use Python 3.8.12 (anaconda `cs499` environment) as interpreter
-import torch
+import gpt_2_simple as gpt2
+from datetime import datetime
+import tensorflow as tf
 from fetch_lyrics import *
 
 """
@@ -45,70 +44,72 @@ def user_select_artist():
             break
     return user_artist, artist_lyric_file_path
 
-
 """
     Initialize model and tokenizer.
 """
-def initialize_model():
-    print("Initializing model...\n")
-    tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
-    model = GPT2LMHeadModel.from_pretrained('gpt2')
-
-    return model, tokenizer
-
+def initialize_model(model_downloaded):
+    
+    if(not model_downloaded):
+        print("Initializing model...\n")
+        model = gpt2.download_gpt2(model_name="124M")
+        return model
+    else:
+        print("Model already downloaded!\n")
+        return
 
 """
-    Create a tensor of the for the given artist selected by the user.
-    I.e. Tokenize the input text - lyrics of 20 songs by artists
-    This tensor will be used in model training.
+    Create a persistent TensorFlow session which stores the training configuration,
+    and then run the training for the specified number of steps (to run indefinitely, step == -1).
+
+    Model checkpoints are saved in \checkpoint\run1 by default and checkpoints are saved every 500 steps.
 """
-def create_lyric_tensor(artist_lyric_file_path, tokenizer):
-    lyrics = []                                             # List of torch tensors containing encoded lyrics.
-    with open(artist_lyric_file_path, 'r') as f:
-        for line in f:
-            lyrics.append(torch.tensor(tokenizer.encode()))
-    return None
-    #return torch.tensor(None)
+def start_session():
+    session = gpt2.start_tf_sess()
+    tf.compat.v1.reset_default_graph()
+    if not session:
+        session = gpt2.start_tf_sess()
+    else:
+        session = gpt2.reset_session(session)
+    return session
 
 """
     Train GPT model on given artist.
     Model evaulation will be done in here too.
 
     TODO: Alternatively, create a vocabulary here of all songs from the .\lyrics\ and then use that to aid in training.
-    NOTE: GPT2Tokenizer takes a vocabulary input: https://huggingface.co/docs/transformers/model_doc/gpt2 
+    NOTE: GPT2Tokenizer takes a vocabulary input: https://huggingface.co/docs/transformers/model_doc/gpt2
+
+    Other optional-but-helpful parameters for gpt2.finetune:
+        (1) restore_from: Set to fresh to start training from the base GPT-2, or set to latest to restart training from an existing checkpoint.
+        (2) sample_every: Number of steps to print example output
+        (3) print_every: Number of steps to print training progress.
+        (4) learning_rate: Learning rate for the training. (default 1e-4, can lower to 1e-5 if you have <1MB input data)
+        (5) run_name: subfolder within checkpoint to save the model. This is useful if you want to work with multiple models (will also need to specify run_name when loading the model)
+        (6) overwrite: Set to True if you want to continue finetuning an existing model (w/ restore_from='latest') without creating duplicate copies.
 """
 def train():
 
     # NOTE: Generate lyrics for rappers found in `list_rappers.txt`
     #       need to be only done once UNLESS new artists are added to .\data\list_rappers.txt
     #       AND/OR changes are made to code in `fetch_lyrics.py`.
-    artists_list = list_all_rappers('.\data\list_rappers.txt', 76)
-    create_lyrics(artists_list)
+    # artists_list = list_all_rappers('.\data\list_rappers.txt', 76)
+    # create_lyrics(artists_list)
     
     user_artist, artist_lyric_file_path = user_select_artist()
-    model, tokenizer = initialize_model()
-    #lyric_tensor = create_lyric_tensor(artist_lyric_file_path, tokenizer)
+    model = initialize_model(model_downloaded=True)
+    session = start_session()
 
-    print("CoZZy is writing his lyrics...\n")
+    print("CoZZy is learning to write his lyrics...\n")
 
-    # encoded_input = tokenizer(artist_lyric_file_path, return_tensors='pt')
-    # --------------------------------------------------------------------
-    # text = "Hello my name is Jeff."
-
-    # encoded_input = tokenizer(text, return_tensors='pt')
-    # outputs = model(**encoded_input, labels=encoded_input["input_ids"])
-    # loss = outputs.loss
-    # logits = outputs.logits
-
-    # print(loss)
-    # print(logits)
-    # --------------------------------------------------------------------
-    #generator = pipeline('text-generation', model = 'gpt2')
-    #set_seed(42)
-    #print(generator(artist_lyric_file_path, max_length=100, num_return_sequences=5))
-
-    #output_tokens = model.generate(encoded_input, max_length = 200, do_sample = True)
-    #lyrics = tokenizer.decode(output_tokens)
-    #print(lyrics)
+    gpt2.finetune(session,
+                dataset = artist_lyric_file_path,
+                model_name = '124M',
+                steps = 1000,
+                learning_rate = 0.0001,
+                restore_from ='fresh',
+                run_name ='run1',                # subfolder within checkpoint to save the model (useful when working with multiple models)
+                print_every = 10,
+                sample_every = 200,
+                save_every = 500)
 
 train()
