@@ -1,5 +1,6 @@
 Sources for grabbing lyrics:
     1) https://docs.genius.com/#/getting-started-h1 - using Genius API for grabbing lyric information.
+    2) https://lyricsgenius.readthedocs.io/en/master/index.html - LyricsGenius Python package that wraps the Genius API.
 
 Sources for using GPT-2 Model (Hugging Face):
     1) https://huggingface.co/docs/transformers/model_doc/gpt2
@@ -8,9 +9,12 @@ Sources for using GPT-2 Model (Hugging Face):
 
 Sources for similar implementations of rap lyric text generation:
     1) https://medium.com/analytics-vidhya/create-a-rapping-ai-using-deep-learning-part-2-fine-tune-a-pre-trained-gpt-2-instance-for-a-1eb19ac557c3 - kind of useless since it's loading in GPT-2 manually instead of using HuggingFac
-    2) https://towardsdatascience.com/how-to-fine-tune-gpt-2-for-text-generation-ae2ea53bc272 - Finetuning GPT-2 for text generation to generate song lyrics 
-    3) **Check project proposal/project progress report**
+    2) https://towardsdatascience.com/how-to-fine-tune-gpt-2-for-text-generation-ae2ea53bc272 - Finetuning GPT-2 for text generation to generate song lyrics
+    3) https://towardsdatascience.com/train-gpt-2-in-your-own-language-fc6ad4d60171 - train GPT-2 model with any data
+    4) https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228 - Google Colab setup
 
-Research papers && quick synopsis:
+Research papers quick reference:
     1) `DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling` - https://arxiv.org/abs/2107.01875
-    2) **Check project proposal/project progress report**
+    2) `Rapformer: Conditional Rap Lyrics Generation with Denoising Autoencoders` - https://aclanthology.org/2020.inlg-1.42.pdf
+    3) `GhostWriter: Using an LSTM for Automatic Rap Lyric Generation` - https://aclanthology.org/D15-1221.pdf
+    4) `Attention Is All You Need` - https://arxiv.org/pdf/1706.03762.pdf

@@ -46,6 +46,7 @@ def user_select_artist():
 
 """
     Initialize model and tokenizer.
+    TODO: You would need to `pip install gpt-2-simple` to be able to run this finally locally.
 """
 def initialize_model(model_downloaded):
     
@@ -73,10 +74,11 @@ def start_session():
     return session
 
 """
-    Train GPT model on given artist.
-    Model evaulation will be done in here too.
+    What was supposed to be here:
+        Train GPT model on given artist.
+        Model evaulation will be done in here too.
 
-    TODO: Alternatively, create a vocabulary here of all songs from the .\lyrics\ and then use that to aid in training.
+    IDEA: Alternatively, create a vocabulary here of all songs from the .\lyrics\ and then use that to aid in training.
     NOTE: GPT2Tokenizer takes a vocabulary input: https://huggingface.co/docs/transformers/model_doc/gpt2
 
     Other optional-but-helpful parameters for gpt2.finetune:
@@ -86,30 +88,42 @@ def start_session():
         (4) learning_rate: Learning rate for the training. (default 1e-4, can lower to 1e-5 if you have <1MB input data)
         (5) run_name: subfolder within checkpoint to save the model. This is useful if you want to work with multiple models (will also need to specify run_name when loading the model)
         (6) overwrite: Set to True if you want to continue finetuning an existing model (w/ restore_from='latest') without creating duplicate copies.
+
+    Instead:
+        Aggregate songs for all artists in `.\data\list_rappers.txt`, which executes list_all_rappers() and create_lyrics()
 """
 def train():
 
     # NOTE: Generate lyrics for rappers found in `list_rappers.txt`
     #       need to be only done once UNLESS new artists are added to .\data\list_rappers.txt
     #       AND/OR changes are made to code in `fetch_lyrics.py`.
-    # artists_list = list_all_rappers('.\data\list_rappers.txt', 76)
-    # create_lyrics(artists_list)
+    artists_list = list_all_rappers('.\data\list_rappers.txt', 76)
+    create_lyrics(artists_list)
     
-    user_artist, artist_lyric_file_path = user_select_artist()
-    model = initialize_model(model_downloaded=True)
-    session = start_session()
+    """
+        TODO: If you had planned on using these scripts on your own machine (assuming it has enough computing power)
+        please Ctrl-F other TODO stubs within this file to see if there are any other requirements needed to run this file.
+        Otherwise, please refer to both the `README.md` and Google Colaboratory Notebook for model training, text-generation and evaluation.
+    """
+    # user_artist, artist_lyric_file_path = user_select_artist()
+    # model = initialize_model(model_downloaded=True)
+    # session = start_session()
 
-    print("CoZZy is learning to write his lyrics...\n")
+    print("CoZZy needs to learn to write his lyrics in the Google Colab notebook!\n")
 
-    gpt2.finetune(session,
-                dataset = artist_lyric_file_path,
-                model_name = '124M',
-                steps = 1000,
-                learning_rate = 0.0001,
-                restore_from ='fresh',
-                run_name ='run1',                # subfolder within checkpoint to save the model (useful when working with multiple models)
-                print_every = 10,
-                sample_every = 200,
-                save_every = 500)
+    # gpt2.finetune(session,
+    #             dataset = artist_lyric_file_path,
+    #             model_name = '124M',
+    #             steps = 1000,
+    #             learning_rate = 0.00001,
+    #             restore_from ='fresh',
+    #             run_name ='run1',                # subfolder within checkpoint to save the model (useful when working with multiple models)
+    #             print_every = 10,
+    #             sample_every = 200,
+    #             save_every = 500)
+
+    """
+        NOTE: From here on, I needed to use Google Colab to be able to actually train the model and produce an output since my GPU couldn't handle running the model.
+    """
 
 train()

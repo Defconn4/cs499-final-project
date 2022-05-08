@@ -3,24 +3,19 @@ import os
 from os.path import exists
 from pathlib import Path
 
-from regex import E
-
-# INSERT API client ID & tokens here.
-# TODO: REMOVE THESE BEFORE MAKING PUBLIC COMMITS.
-client_id = 'YsrwCCloXJysedZMDINWA-LItizvvaWZ2IGtxMlHYQ98R9G3sorFRo_rRLQGirRq'
-client_secret = 'zqIKs-k2QP2o5rYmkNA382TZKASnZGFooyu1whMw9q4b5a10MGnv61fHt7EwwHP8KCl3bzRr2gmQ84tgOXKv0g'
-client_access_token = 'tIRriGV3s4ljmlrrVDoxBFuXaiU31g6thOQ-czBEiXXKnk1_1aUd7jt7huoGTa_X'
+# INSERT Genius API client ID & tokens here.
+client_id = 'INSERT_YOUR_CLIENT_ID_TOKEN_HERE'
+client_secret = 'INSERT_YOUR_CLIENT_SECRET_HERE'
+client_access_token = 'INSERT_YOUR_CLIENT_ACCESS-TOKEN_HERE'
 
 # LyricsGenius package use:
 genius = Genius(client_access_token, response_format='plain,html',
                 timeout=5, sleep_time=0.2, retries=3)
 
-
 class Lyric_Grabber:
     """   
         Using Genius API, fetch the lyrics for songs for a given artist.
         :param artist_name: artist's name, duh
-        :param song_list: list of songs by artist_name - for fetching lyrics by song name.
         My API clients can be accessed here: https://genius.com/api-clients
     """
     def __init__(self, artist_name):
