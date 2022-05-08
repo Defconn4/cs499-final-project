@@ -9,7 +9,7 @@
     - Once this is done, please move to the next section entitled *Google Colab*!
 
 ### Google Colab
-- Included in this repository is a Google Colab notebook that enables you to actually train a small GPT-2 model and generate text! If you navigate to the notebook, all cells have instructions on what do in each. Below I have made some special notes for cells that require extra attention more than just running them.
+- Included in this repository is a Google Colab notebook (.ipynb file) that enables you to actually train a small GPT-2 model and generate text! If you navigate to the notebook, all cells have instructions on what do in each. Below I have made some special notes for cells that require extra attention more than just running them.
 
     - ***Cell 2:***
         - Please replace `GIT_USERNAME` and `GIT_TOKEN` with your Github username and your Github Personal Access Token, respectively.
@@ -20,6 +20,8 @@
 
     - ***The second to last cell:***
         - In case you cloned to forked this repository and want to commit changes made to the repository, you can do so directly from the Google Colab notebook. In this cell, make sure you fill in the user email and username fields to make commits.
+
+- A link to the Google Colab notebook is [here](https://colab.research.google.com/drive/1lxfRPhkAzKKpRzubyrswyCdK7f4DxKhw?usp=sharing)!
 
 ### Directories & Files
 - `.\data\list_rappers.txt` :: file for list of popular American rappers (and some Pop artists) I've heard of or personally listen to parsed from [HipHopDatabase](https://hiphopdatabase.fandom.com/wiki/List_of_American_rappers).
